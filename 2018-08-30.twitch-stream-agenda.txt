@@ -1,0 +1,42 @@
+VLOG: telnet for mac os x high sierra. 60 days
+
+WOTD: jupiter time lapse,  courtesy: nasa.gov
+
+:: VLOG TOPICS ::
+telnet mac osx high sierra
+  brew install telnet
+
+windows 10 and linux subsystem
+
+ccie written
+
+trivia quiz:
+STP timers:
+ hello - 2
+ forward delay - 15
+ max age - 20
+ mac address aging time
+ TC - mac aging time (forward delay value, 15)
+ TC - root bridge xmit (forward delay + max age, 35 seconds)
+
+next trivia quiz:
+
+:: MEAT CHUNKS (links OTD):
+agendas repos:
+https://github.com/thelantamer/thelantamer-streaming-agendas.git
+
+network collective, history of networking, CCIE program:
+https://vimeo.com/287224450
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH

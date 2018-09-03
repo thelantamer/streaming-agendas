@@ -1,0 +1,38 @@
+LAB: uplinkfast. backbonefast. new git repo. 58 days
+
+WOTD: saturn's aurora, nasa.gov
+
+:: LABS ::
+new git repo for pcaps, and why
+
+stp uplinkfast
+- dummy ethernet frame
+
+stp backbonefast
+- hunting down rlq
+
+:: VLOG ::
+stp max age and message age timer clarification
+
+tomorrow's trivia quiz:
+ethernet mac addresses for 1) pvst+ and 2) spanning-tree for bridges
+
+:: MEAT CHUNKS (links OTD):
+new pcap repo:
+https://github.com/thelantamer/packet-captures.git
+
+decnet mop frame:
+https://blogs.cisco.com/security/router_spring_cleaning_-_no_mop_required
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH

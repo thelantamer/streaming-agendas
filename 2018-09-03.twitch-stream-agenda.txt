@@ -1,0 +1,23 @@
+ethernet addresses review
+
+ab:00:00:02:00:00 - DECNet MOP-remote-console
+
+ab hex to decimal
+a = 10
+b = 11
+
+decimal to binary
+10 = 1010
+11 = 1011
+
+ab = 1010 1011
+            1  = LG (local or global administered) bit. 0 = global, 1 = local
+             1 = IG (individual or group) bit. 0 = individual, 1 = group
+
+common uses:
+00 = global, individual
+01 = global, group [multicast]
+33 = 
+0011 0011
+     local, group
+ab
