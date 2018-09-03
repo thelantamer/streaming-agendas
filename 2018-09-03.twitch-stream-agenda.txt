@@ -1,23 +1,63 @@
-ethernet addresses review
+LAB: dummy multicast frames here! MST region meets classic STP. #framehunter. 56 days
 
-ab:00:00:02:00:00 - DECNet MOP-remote-console
+WOTD: little-known nebula IRAS 05437+2502, courtesy: nasa.gov
 
-ab hex to decimal
-a = 10
-b = 11
+:: VLOG ::
+about that exam ...
 
-decimal to binary
-10 = 1010
-11 = 1011
+github updates
 
-ab = 1010 1011
-            1  = LG (local or global administered) bit. 0 = global, 1 = local
-             1 = IG (individual or group) bit. 0 = individual, 1 = group
+dummy multicast frames found!
 
-common uses:
-00 = global, individual
-01 = global, group [multicast]
-33 = 
-0011 0011
-     local, group
-ab
+tweeted: stp path selection
+
+reviewing ethernet addressing bits
+
+    ab:00:00:02:00:00 - DECNet MOP-remote-console
+
+    ab hex to decimal
+    a = 10
+    b = 11
+
+    decimal to binary
+    10 = 1010
+    11 = 1011
+
+    ab = 1010 1011
+                1  = LG (local or global administered) bit. 0 = global, 1 = local
+                 1 = IG (individual or group) bit. 0 = individual, 1 = group
+
+    common uses:
+    00 = global, individual
+    01 = global, group [multicast]
+    33 = 
+    0011 0011
+        local, group
+    ab
+
+
+:: LABS ::
+MST meets classic STP
+- mst automatically enables rstp
+- what happens with encounter of classic stp
+
+:: MEAT CHUNKS (links OTD):
+Ethernet dummy multicast frames:
+https://twitter.com/theLANtamer/status/1036668920667754502
+
+STP path selection note:
+https://twitter.com/Wax_Trax/status/1036600931943632896
+
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
