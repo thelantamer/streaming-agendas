@@ -9,8 +9,6 @@ github updates
 
 dummy multicast frames found!
 
-tweeted: stp path selection
-
 reviewing ethernet addressing bits
 
     ab:00:00:02:00:00 - DECNet MOP-remote-console
@@ -35,11 +33,14 @@ reviewing ethernet addressing bits
         local, group
     ab
 
+tweeted: stp path selection
 
 :: LABS ::
 MST meets classic STP
 - mst automatically enables rstp
+  configure vlans 2-5, 6-10  
 - what happens with encounter of classic stp
+
 
 :: MEAT CHUNKS (links OTD):
 Ethernet dummy multicast frames:

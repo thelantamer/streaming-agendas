@@ -1,0 +1,29 @@
+LAB: MST and PVST collide. 55 days
+
+WOTD: jovian jet stream, courtesy: nasa.gov
+
+:: LABS ::
+MST meets classic STP
+- mst automatically enables rstp
+  configure vlans 2-5, 6-10  
+- what happens with encounter of classic stp
+
+:: MEAT CHUNKS (links OTD):
+PVST simulation with MST:
+https://www.cisco.com/c/en/us/support/docs/lan-switching/multiple-instance-stp-mistp-8021s/116464-configure-pvst-00.html
+
+Gray Wolf Packets, CCNA Security content creator:
+https://www.youtube.com/channel/UCl5F-82OVHRm6GVzziI4z9g
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
