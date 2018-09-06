@@ -1,11 +1,11 @@
-LAB: MST and PVST collide. 55 days
+LAB: making MST and PVST collisions work. 55 days
 
 WOTD: jovian jet stream, courtesy: nasa.gov
 
 :: LABS ::
-MST meets classic STP
+MST meets classic PVST+
 - mst automatically enables rstp
-  configure vlans 2-5, 6-10  
+  configure vlans 2-5, 6-10
 - what happens with encounter of classic stp
 
 :: MEAT CHUNKS (links OTD):

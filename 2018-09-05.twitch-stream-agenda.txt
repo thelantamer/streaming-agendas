@@ -1,0 +1,48 @@
+LAB:  config sets in eve-ng. bpdufilter. 54 days
+
+WOTD: crawler-launcher shot, courtesy: nasa.gov
+
+:: VLOG ::
+networklessons.com
+ - spanning-tree features
+ - forums
+
+:: LAB ::
+mstp review from yesterday's lab
+  - boundary and instances
+
+eve-ng config sets
+  - rename current
+  - create new one, make mstp region root
+
+bpdufilter
+ - test sending and receiving of BPDUs
+ - global
+ - interface level
+
+
+trivia question for tomorrow:
+- what happens when you enable bpduguard AND bpdufilter?
+
+:: MEAT CHUNKS (links OTD):
+udld pcap:
+https://www.cloudshark.org/captures/0033d6592108
+
+rfc for udld:
+https://tools.ietf.org/html/rfc5171
+
+Setting up OBS green screen filter:
+https://www.youtube.com/watch?v=ombsHFEZtQ4
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
