@@ -1,0 +1,44 @@
+LAB: eve-ng pro upgrade. loopguard & udld. 53 days
+
+WOTD: ngc 1300, courtesy: wikipedia.org
+
+:: LAB ::
+eve-ng upgrade (http://www.eve-ng.net)\
+2.0.4-42 -> 2.0.4-70
+
+show dtp interface
+
+:: VLOG ::
+networklessons.com
+ - loopguard & udld
+ - spanning tree dispute
+ - spanning tree bridge assurance
+
+trivia answer:
+- what happens when you enable bpduguard AND bpdufilter?
+
+trivia question for tomorrow:
+- what are tcp small servers?
+
+:: MEAT CHUNKS (links OTD):
+udld pcap:
+https://www.cloudshark.org/captures/0033d6592108
+
+rfc for udld:
+https://tools.ietf.org/html/rfc5171
+
+Setting up OBS green screen filter:
+https://www.youtube.com/watch?v=ombsHFEZtQ4
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
