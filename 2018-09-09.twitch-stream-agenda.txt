@@ -1,4 +1,4 @@
-first python script. loopguard. 49 days
+spanning tree thought experiment. first python script. 49 days
 
 WOTD: cat's eye nebula, courtesy: chandra xray laboratory
 
@@ -6,16 +6,18 @@ WOTD: cat's eye nebula, courtesy: chandra xray laboratory
 simple python script
 
 networklessons.com
+- thought experiment, blocking vs listening
+
 - loopguard
     port is sending bpdus but not receiving any
+    duplicating issue
 
 trivia answer:
-- what are load-balancing options on multi-layer switch
+- what are load-balancing options on multi-layer switch?
 
 trivia question:
 
 :: MEAT CHUNKS (links OTD):
-
 
 
 :: SOCIAL MEDIA ::
