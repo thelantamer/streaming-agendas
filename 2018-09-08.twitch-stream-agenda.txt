@@ -1,0 +1,39 @@
+eve-ng pro feature review. 50 days
+
+WOTD: ngc 1300, courtesy: wikipedia.org
+
+:: DEMO :: 
+eve-ng 2.0.4-70 features
+
+:: VLOG ::
+networklessons.com
+- loopguard
+
+trivia question answer:
+- what are tcp small servers?
+
+trivia question for tomorrow:
+- what are load-balancing options on multi-layer switch
+
+:: MEAT CHUNKS (links OTD):
+udld pcap:
+https://www.cloudshark.org/captures/0033d6592108
+
+rfc for udld:
+https://tools.ietf.org/html/rfc5171
+
+Setting up OBS green screen filter:
+https://www.youtube.com/watch?v=ombsHFEZtQ4
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
