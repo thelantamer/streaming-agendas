@@ -1,0 +1,32 @@
+first python script. loopguard. 49 days
+
+WOTD: cat's eye nebula, courtesy: chandra xray laboratory
+
+:: VLOG ::
+simple python script
+
+networklessons.com
+- loopguard
+    port is sending bpdus but not receiving any
+
+trivia answer:
+- what are load-balancing options on multi-layer switch
+
+trivia question:
+
+:: MEAT CHUNKS (links OTD):
+
+
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
