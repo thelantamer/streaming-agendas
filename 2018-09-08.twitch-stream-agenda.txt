@@ -6,24 +6,27 @@ WOTD: ngc 1300, courtesy: wikipedia.org
 eve-ng 2.0.4-70 features
 
 :: VLOG ::
+windows 10
+
 networklessons.com
 - loopguard
 
-trivia question answer:
+trivia answer:
 - what are tcp small servers?
+echo
+discard
+chargen
+daytime
 
 trivia question for tomorrow:
 - what are load-balancing options on multi-layer switch
 
 :: MEAT CHUNKS (links OTD):
-udld pcap:
-https://www.cloudshark.org/captures/0033d6592108
+Blog finale from carpe-dmvpn:
+http://carpe-dmvpn.com/2018/09/07/my-ccie-journey-finale/
 
-rfc for udld:
-https://tools.ietf.org/html/rfc5171
-
-Setting up OBS green screen filter:
-https://www.youtube.com/watch?v=ombsHFEZtQ4
+Networking in the cloud:
+https://lostintransit.se/2018/09/01/networking-in-the-cloud-different-but-the-same/?doing_wp_cron=1536351273.0327649116516113281250
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer

@@ -3,7 +3,7 @@ LAB: eve-ng pro upgrade. loopguard & udld. 53 days
 WOTD: ngc 1300, courtesy: wikipedia.org
 
 :: LAB ::
-eve-ng upgrade (http://www.eve-ng.net)\
+eve-ng upgrade (http://www.eve-ng.net)
 2.0.4-42 -> 2.0.4-70
 
 show dtp interface
@@ -26,9 +26,6 @@ https://www.cloudshark.org/captures/0033d6592108
 
 rfc for udld:
 https://tools.ietf.org/html/rfc5171
-
-Setting up OBS green screen filter:
-https://www.youtube.com/watch?v=ombsHFEZtQ4
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
