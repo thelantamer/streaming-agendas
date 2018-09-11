@@ -7,7 +7,7 @@ networklessons.com
 - stp dispute
     checks interface roles
     issue with mac filtering
-  bridge assurance
+- bridge assurance
 
 - interactions with cisco and non-cisco
     ieee documents
@@ -16,20 +16,21 @@ networklessons.com
     802.1d, cst, pvst, pvst+, 802.1q, mst, rstp, rpvst+
 
     scenarios:
-    pvst+ <> cst <> pvst+
+    pvst+ <> cst (802.1d)
+
+    cisco (pvst+) <trunk> cst (hp, multiple switches) <trunk> cisco (pvst+)
 
 - multicast (igmp)
     version 1
         host join - 
-
-
+        
 trivia question:
 - what are steps (in order) to configure netflow on a router interface?
 
-tomorrow's trivia question:
-- name and compare 2 BGP diverse-path proposals
-
 :: MEAT CHUNKS (links OTD):
+Peter Paluch's commentary on pvst interactions:
+https://community.cisco.com/t5/switching/mst-and-pvst-interaction/td-p/1638936
+
 Packetpushers saltstack vs ansible:
 https://www.youtube.com/watch?v=ppu6K5Cp1Zo
 
@@ -41,7 +42,6 @@ https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
 
 Elon Musk interview:
 https://www.youtube.com/watch?v=ycPr5-27vSI
-
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
