@@ -1,0 +1,57 @@
+cisco and non-cisco spanning tree interaction. 46 days
+
+WOTD: snoqualmie falls from Johann Garces on flickr.com
+
+:: VLOG ::
+networklessons.com
+- stp dispute
+    checks interface roles
+    issue with mac filtering
+  bridge assurance
+
+- interactions with cisco and non-cisco
+    ieee documents
+
+    terms:
+    802.1d, cst, pvst, pvst+, 802.1q, mst, rstp, rpvst+
+
+    scenarios:
+    pvst+ <> cst <> pvst+
+
+- multicast (igmp)
+    version 1
+        host join - 
+
+
+trivia question:
+- what are steps (in order) to configure netflow on a router interface?
+
+tomorrow's trivia question:
+- name and compare 2 BGP diverse-path proposals
+
+:: MEAT CHUNKS (links OTD):
+Packetpushers saltstack vs ansible:
+https://www.youtube.com/watch?v=ppu6K5Cp1Zo
+
+Summary of bridge assurance feature:
+https://www.netcraftsmen.com/what-is-bridge-assurance/
+
+Microsoft vsts gets a new name:
+https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
+
+Elon Musk interview:
+https://www.youtube.com/watch?v=ycPr5-27vSI
+
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH

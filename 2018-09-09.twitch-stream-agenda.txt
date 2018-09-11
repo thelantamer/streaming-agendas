@@ -3,22 +3,39 @@ spanning tree thought experiment. first python script. 49 days
 WOTD: cat's eye nebula, courtesy: chandra xray laboratory
 
 :: VLOG ::
-simple python script
+- simple python script
+    python
+    powershell
+    bash
 
-networklessons.com
-- thought experiment, blocking vs listening
+- networklessons.com
+    spanning-tree
+    - blocking vs listening
+    - timers and triggers
+    - thought experiment
+       two switches boot at same time
 
-- loopguard
-    port is sending bpdus but not receiving any
-    duplicating issue
+:: LAB ::
+    loopguard
+    - port is sending bpdus but not receiving any
+    - duplicating issue
 
 trivia answer:
 - what are load-balancing options on multi-layer switch?
 
+ip mls load-sharing
+    full - l3 & l4 information, multiple adjacencies
+    simple - l3 information, not multiple adjacencies
+    full simple - l3 & l4 information, not multiple adjacencies
+    full exclude port-destination - l4 source information
+    full exclude port-source - l4 destination information
+
 trivia question:
+- what are steps (in order) to configure netflow on a router interface?
 
 :: MEAT CHUNKS (links OTD):
-
+new github repo for references-notes:
+https://github.com/thelantamer/references-notes.git
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
