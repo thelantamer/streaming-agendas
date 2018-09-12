@@ -6,28 +6,15 @@ WOTD: snoqualmie falls from Johann Garces on flickr.com
 networklessons.com
 
 - multicast (igmp)
-    version 1
-        host join - membership report to group address 229.1.1.1
-        router updates - membership query to 224.0.0.1
-        
+    differences version 1 and 2
+
 trivia question:
 - what are steps (in order) to configure netflow on a router interface?
 
 :: MEAT CHUNKS (links OTD):
-Peter Paluch's commentary on pvst interactions:
-https://community.cisco.com/t5/switching/mst-and-pvst-interaction/td-p/1638936
+CLUS 2019 registration opened today:
+https://www.ciscolive.com/us/attend/about/registration-packages/
 
-Packetpushers saltstack vs ansible:
-https://www.youtube.com/watch?v=ppu6K5Cp1Zo
-
-Summary of bridge assurance feature:
-https://www.netcraftsmen.com/what-is-bridge-assurance/
-
-Microsoft vsts gets a new name:
-https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
-
-Elon Musk interview:
-https://www.youtube.com/watch?v=ycPr5-27vSI
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
