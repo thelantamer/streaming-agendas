@@ -1,0 +1,43 @@
+igmp versions 2 and 3. 45 days
+
+WOTD: snoqualmie falls from Johann Garces on flickr.com
+
+:: VLOG ::
+networklessons.com
+
+- multicast (igmp)
+    version 1
+        host join - membership report to group address 229.1.1.1
+        router updates - membership query to 224.0.0.1
+        
+trivia question:
+- what are steps (in order) to configure netflow on a router interface?
+
+:: MEAT CHUNKS (links OTD):
+Peter Paluch's commentary on pvst interactions:
+https://community.cisco.com/t5/switching/mst-and-pvst-interaction/td-p/1638936
+
+Packetpushers saltstack vs ansible:
+https://www.youtube.com/watch?v=ppu6K5Cp1Zo
+
+Summary of bridge assurance feature:
+https://www.netcraftsmen.com/what-is-bridge-assurance/
+
+Microsoft vsts gets a new name:
+https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
+
+Elon Musk interview:
+https://www.youtube.com/watch?v=ycPr5-27vSI
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
