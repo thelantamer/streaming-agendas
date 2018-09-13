@@ -1,9 +1,11 @@
-igmp versions 2 and 3. 44 days
+igmp v2 and 3, snooping. 44 days
 
 WOTD: arp 256, two spiral galaxies merging. courtesy: nasa.gov
 
 :: VLOG ::
 networklessons.com
+    proficient at explaining purpose
+    new igmp concepts grasped and observed
 
 - multicast (igmp)
     versions 1 and 2
@@ -16,6 +18,8 @@ networklessons.com
         ssm
             security, duh!
         igmp v3 all-routers 224.0.0.22
+    pim snooping
+
 
 trivia question:
 - Name the BGP optional, non-transitive attributes
