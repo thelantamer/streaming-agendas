@@ -1,0 +1,39 @@
+igmp versions 2 and 3. 44 days
+
+WOTD: arp 256, two spiral galaxies merging. courtesy: nasa.gov
+
+:: VLOG ::
+networklessons.com
+
+- multicast (igmp)
+    versions 1 and 2
+        general queries
+        group-specific queries
+            had impression would eliminate general queries, does networklessons
+                router querying about own group 224.1.1.40
+            speeds up leave process, however, reduces forwarding of unnecessary multicast traffic
+    versions 2 and 3
+        ssm
+            security, duh!
+        igmp v3 all-routers 224.0.0.22
+
+trivia question:
+- Name the BGP optional, non-transitive attributes
+
+Sat trivia question:
+- bgp best-path selection criteria, in order
+
+:: MEAT CHUNKS (links OTD):
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH

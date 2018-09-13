@@ -1,4 +1,4 @@
-igmp versions 2 and 3. 45 days
+vlog: igmp versions 1 and 2. 45 days
 
 WOTD: snoqualmie falls from Johann Garces on flickr.com
 
@@ -11,10 +11,15 @@ networklessons.com
 trivia question:
 - what are steps (in order) to configure netflow on a router interface?
 
+trivia question for tomorrow:
+- Name the BGP optional, non-transitive attributes
+
 :: MEAT CHUNKS (links OTD):
 CLUS 2019 registration opened today:
 https://www.ciscolive.com/us/attend/about/registration-packages/
 
+Cisco Performance Monitor configuration components:
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/media_monitoring/configuration/15-mt/mm-15-mt-book/mm-pasv-mon.html#GUID-C49C9B50-EBFA-42A1-81FC-068B9D5BDFA7
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
