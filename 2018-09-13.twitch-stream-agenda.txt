@@ -9,7 +9,7 @@ networklessons.com
 
 - multicast (igmp)
     versions 1 and 2
-        general queries
+        generic queries
         group-specific queries
             had impression would eliminate general queries, does networklessons
                 router querying about own group 224.1.1.40
@@ -18,8 +18,7 @@ networklessons.com
         ssm
             security, duh!
         igmp v3 all-routers 224.0.0.22
-    pim snooping
-
+    igmp snooping
 
 trivia question:
 - Name the BGP optional, non-transitive attributes
