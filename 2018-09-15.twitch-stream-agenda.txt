@@ -1,0 +1,48 @@
+day 287 - igmp snooping without a router. written in 42 days
+
+WOTD: arp 256, two spiral galaxies merging. courtesy: nasa.gov
+
+:: VLOG ::
+fascinated by destiny raids
+
+what is a wisp?
+
+drill sheet
+
+book: quantum age of it
+
+networklessons.com
+- multicast (igmp)
+    igmp snooping on switches without a router
+
+trivia question:
+- bgp best-path selection criteria, in order
+
+next trivia question:
+
+:: MEAT CHUNKS (links OTD):
+network collective - imposter syndrome:
+https://www.youtube.com/watch?v=xsmAWbjsY1Q
+
+wisp design:
+https://www.stubarea51.net/2018/09/14/wisp-design-an-overview-of-adding-ipv6-to-your-wisp/
+
+wisp on wikipedia, good read:
+https://en.wikipedia.org/wiki/Wireless_Internet_service_provider
+
+quantum age of it on amazon:
+http://a.co/d/4uyV90x
+
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
