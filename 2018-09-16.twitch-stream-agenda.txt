@@ -3,11 +3,11 @@ day 287 - igmp snooping and filtering. written in 41 days
 WOTD: juno shot of jupiter's brown barge. courtesy: nasa.gov
 
 :: VLOG ::
+scrum swarming - taking a lesson from destiny raid
+
 what is a wisp?
 
-drill sheet
-
-multicast addressing reference
+github - multicast addressing reference
 
 books
     quantum age of it
@@ -24,6 +24,7 @@ trivia question:
 - bgp best-path selection criteria, in order
 
 next trivia question:
+- NAT order of operations (inside to outside)
 
 :: MEAT CHUNKS (links OTD):
 multicast ip -> multicast ethernet address calculator:
@@ -40,7 +41,6 @@ http://a.co/d/3nYJNH7
 
 quantum age of it on amazon:
 http://a.co/d/4uyV90x
-
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
