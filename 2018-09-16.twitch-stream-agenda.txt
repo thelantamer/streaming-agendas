@@ -1,19 +1,24 @@
-day 287 - igmp snooping without a router. written in 42 days
+day 287 - igmp snooping and filtering. written in 41 days
 
-WOTD: arp 256, two spiral galaxies merging. courtesy: nasa.gov
+WOTD: juno shot of jupiter's brown barge. courtesy: nasa.gov
 
 :: VLOG ::
-fascinated by destiny raids
-
 what is a wisp?
 
 drill sheet
 
-book: quantum age of it
+multicast addressing reference
+
+books
+    quantum age of it
+    crushing it
+
+linkedin updates
 
 networklessons.com
-- multicast (igmp)
+- multicast L2 (igmp)
     igmp snooping on switches without a router
+    igmp filter
 
 trivia question:
 - bgp best-path selection criteria, in order
@@ -21,14 +26,17 @@ trivia question:
 next trivia question:
 
 :: MEAT CHUNKS (links OTD):
-network collective - imposter syndrome:
-https://www.youtube.com/watch?v=xsmAWbjsY1Q
+multicast ip -> multicast ethernet address calculator:
+http://www.dqnetworks.ie/toolsinfo.d/multicastaddressing.html
 
 wisp design:
 https://www.stubarea51.net/2018/09/14/wisp-design-an-overview-of-adding-ipv6-to-your-wisp/
 
 wisp on wikipedia, good read:
 https://en.wikipedia.org/wiki/Wireless_Internet_service_provider
+
+crushing it on amazon:
+http://a.co/d/3nYJNH7
 
 quantum age of it on amazon:
 http://a.co/d/4uyV90x
