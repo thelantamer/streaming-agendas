@@ -1,0 +1,36 @@
+day 288 - multicast boundary filtering. written in 56
+
+WOTD: delta ii rocket from Sat launch, courtesy: nasa.gov
+
+:: VLOG ::
+re-schedule to 11/12
+
+introduction to c#
+
+networklessons.com
+- multicast L2 (igmp)
+    multicast boundary filtering
+    multicast igmp proxy
+
+trivia question:
+- NAT order of operations (inside to outside)
+
+next trivia question:
+- NAT order of operations (outside to inside)
+
+:: MEAT CHUNKS (links OTD):
+setup your windows pc for development:
+https://youtu.be/drUWlIz04zo
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
