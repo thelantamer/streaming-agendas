@@ -1,0 +1,37 @@
+day 289 - igmp proxy lab. written in 55 days.
+
+WOTD: bfr, courtesy spacex.com
+
+:: VLOG ::
+eve-ng upgrade
+
+networklessons.com
+- multicast L2 (igmp)
+    multicast boundary filtering
+    multicast igmp proxy
+
+trivia answer:
+- NAT order of operations (outside to inside)
+
+trivia question:
+ipv4 dhcp request process (packet types, unicast/broadcast)
+
+:: MEAT CHUNKS (links OTD):
+Official evolving technologies guide preorder:
+http://www.ciscopress.com/store/ccie-and-ccde-evolving-technologies-study-guide-9780789759726?link=text&cmpid=2018_09_17_CP_EvolvingTech
+
+Another CCNP RS vlogger!:
+https://youtu.be/_bnVAjLh8AI
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
