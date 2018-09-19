@@ -1,0 +1,49 @@
+day 290 - igmp proxy done. ppp. written exam 54 days
+
+WOTD: parker solar probe first images, courtesy nasa.gov
+
+:: VLOG ::
+first c# code completed
+
+networklessons.com
+    multicast igmp proxy - fixed issue
+    ppp
+
+trivia question:
+    - ipv4 dhcp successful request process (packet types, unicast/broadcast)
+
+[host]  DHCPDISCOVER broadcast  -> 
+                                <-  DHCPOFFER unicast   [server(s)]
+[host]  DHCPREQUEST broadcast   ->
+                                <-  DHCPACK unicast   [server]
+
+trivia question:
+Describe following MetroE services - meaning, implementation, port or vlan-based:
+- EPL
+- EWS
+- ERS
+- EMS
+- ERMS
+
+:: MEAT CHUNKS (links OTD):
+Greg Ferro addresses the 'imposter syndrome':
+https://youtu.be/OG4S-GrbchM
+
+Network4Dev contribution from Nic Russo:
+https://network4dev.net/en/latest/docs/networking/ip4.html
+
+New training service from Kevin Wallace, Cert Accelerator, $24/month:
+https://www.kwtrain.com/p/cert-accel
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH

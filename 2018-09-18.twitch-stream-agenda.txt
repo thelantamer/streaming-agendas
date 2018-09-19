@@ -3,13 +3,13 @@ day 289 - igmp proxy lab. written in 55 days.
 WOTD: bfr, courtesy spacex.com
 
 :: VLOG ::
-eve-ng upgrade
+eve-ng pro upgrade
 
 networklessons.com
 - multicast L2 (igmp)
     multicast boundary filtering
     multicast igmp proxy
-
+    
 trivia answer:
 - NAT order of operations (outside to inside)
 

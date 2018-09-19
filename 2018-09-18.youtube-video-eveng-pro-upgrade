@@ -1,0 +1,21 @@
+EVE-NG upgrade
+
+IN-PLACE UPGRADE:
+took minutes
+
+NEW FEATURES:
+
+-  NEW HTML5 Engine support Clipboard access: Chrome browser fully supported for copy/paste from/to HTML5 console. Firefox promised to have it next update.
+
+    no extension needed, no bugs observed
+
+-  Link Quality: Ability to set delay, jitter, packet loss and rate on any ethernet link in the topology
+
+    great for labbing ip sla, UDLD, etc
+
+-  HTML5 console enhancement: New control to minimize all, externalize console call
+
+    much needed!
+    externalize , transparency , hide, fullscreen and close
+
+-  SSL Enforcement: SSL/HTTPS is now the only protocol used by EVE. HTTP is redirected to HTTPS
