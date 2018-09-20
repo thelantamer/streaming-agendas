@@ -1,0 +1,38 @@
+day 291 - pppoe. ipv6 is next. written exam 53 days
+
+WOTD: NGC 2371, Judy Schmidt on flickr.com
+https://www.flickr.com/photos/geckzilla/10278558143/in/photostream/
+
+:: VLOG ::
+networklessons.com
+- pppoe
+- ppp multilink and interleaving
+- ipv6 here we come
+
+trivia question:
+Describe following MetroE services - meaning, implementation, port or vlan-based:
+- EPL
+- EWS
+- ERS
+- EMS
+- ERMS
+
+:: MEAT CHUNKS (links OTD):
+New lantamer github repo, reference-configs:
+https://github.com/thelantamer/reference-configs.git
+
+CI/CD process explained from networking point of view:
+https://www.youtube.com/watch?v=s3iDm0Mw-YE
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH

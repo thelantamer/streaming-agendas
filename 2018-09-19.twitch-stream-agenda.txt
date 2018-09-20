@@ -12,10 +12,10 @@ networklessons.com
 trivia question:
     - ipv4 dhcp successful request process (packet types, unicast/broadcast)
 
-[host]  DHCPDISCOVER broadcast  -> 
-                                <-  DHCPOFFER unicast   [server(s)]
-[host]  DHCPREQUEST broadcast   ->
-                                <-  DHCPACK unicast   [server]
+[host]  DHCPDISCOVER broadcast
+                                DHCPOFFER unicast   [server(s)]
+[host]  DHCPREQUEST broadcast 
+                                DHCPACK unicast   [server]
 
 trivia question:
 Describe following MetroE services - meaning, implementation, port or vlan-based:
