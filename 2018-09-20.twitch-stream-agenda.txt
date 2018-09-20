@@ -12,10 +12,24 @@ networklessons.com
 trivia question:
 Describe following MetroE services - meaning, implementation, port or vlan-based:
 - EPL
+    ethernet private line
+        L2 point-to-point, no multiplexing, TDM, port
 - EWS
+    ethernet wire service
+        l2 point-to-point, ces, port
 - ERS
+    ethernet relay service
+        l3 point-to-point, vlan
 - EMS
+    ethernet multipoint service
+        l2 multipoint service, port
 - ERMS
+    ethernet relay multipoint service
+        l3 multipoint service, vlan
+
+trivia saturday:
+    IPv4 multicast - how many addresses can you list (12?):
+        224.0.0.1 - all multicast hosts
 
 :: MEAT CHUNKS (links OTD):
 New lantamer github repo, reference-configs:
