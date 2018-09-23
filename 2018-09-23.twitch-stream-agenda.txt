@@ -10,6 +10,7 @@ ipv6 icmp types
 networklessons.com
 - ipv6 summarization
 - ipv6 prefixes
+- ipv6 dhcp
 
 trivia:
     IPv4 multicast - how many addresses can you list (12?):
