@@ -1,4 +1,4 @@
-day 293 - ipv6 packet types. written exam 50 days
+day 293 - ipv6 icmp packet types. written exam 50 days
 
 WOTD: hubble image - coma cluster (1000+ galaxies), nasa.gov
 
