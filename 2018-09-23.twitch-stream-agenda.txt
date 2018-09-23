@@ -1,0 +1,33 @@
+day 293 - ipv6 packet types. written exam 50 days
+
+WOTD: hubble image - coma cluster (1000+ galaxies), nasa.gov
+
+:: VLOG ::
+ipv6 icmp types
+    new notes
+    new pcaps
+
+networklessons.com
+- ipv6 summarization
+- ipv6 prefixes
+
+trivia:
+    IPv4 multicast - how many addresses can you list (12?):
+        224.0.0.1 - all multicast hosts
+
+:: MEAT CHUNKS (links OTD):
+Understanding git (part 1):
+https://hackernoon.com/understanding-git-fcffd87c15a3
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
