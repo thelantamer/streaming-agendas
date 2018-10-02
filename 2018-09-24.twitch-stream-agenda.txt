@@ -1,0 +1,34 @@
+day 294 - ipv6 prefixes and dhcpv6. written exam 49 days
+
+WOTD: hubble image - coma cluster (1000+ galaxies), nasa.gov
+
+:: VLOG ::
+microsoft ignite announcements
+
+networklessons.com
+- general prefixes and dhcpv6
+- ipv6 solicited node multicast address
+
+trivia:
+pppoe discovery stage messages
+PADI - Protocol Active Discovery Initiation
+PADO - Protocol Active Discovery Offer
+PADR - Protocol Active Discovery Request
+PADS - Protocol Active Discovery Session Establishment
+
+:: MEAT CHUNKS (links OTD):
+Microsoft Ignite live stream:
+https://www.microsoft.com/en-us/ignite
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
