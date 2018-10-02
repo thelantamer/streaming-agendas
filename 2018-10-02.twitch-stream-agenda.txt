@@ -10,8 +10,15 @@ networklessons.com
 
 trivia:
 ping mpls return codes
+03 - successful
+01 - malformed echo request
+00 - no return
+04 - no fec
+07 - reserved
+10 - fec mismatch
 
 :: MEAT CHUNKS (links OTD):
+
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
