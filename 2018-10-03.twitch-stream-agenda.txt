@@ -1,14 +1,25 @@
-day 296 - reverse path forwarding (rpf). written exam 40 days
+day 297 - the multicast mindset. written exam 39 days
 
 WOTD: mars high-rise sand dune, nasa.gov
 
 :: VLOG ::
-stream giveaway! blue snowball mic
+stream giveaway for day 300! blue snowball mic
+
+azure expressroute
 
 networklessons.com
 - reverse path forwarding (RPF) troubleshooting
 
 trivia:
+what protocols and port number(s)?
+- tacacs+
+    tcp 49
+- radius authentication
+    udp 1645
+    udp 1812
+- radius accounting
+    udp 1646
+    udp 1813
 
 :: MEAT CHUNKS (links OTD):
 
