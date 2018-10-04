@@ -1,0 +1,29 @@
+day 298 - the multicast mindset. written exam 38 days
+
+WOTD: mars high-rise sand dune, nasa.gov
+
+:: VLOG ::
+stream giveaway for day 300! blue snowball mic
+
+networklessons.com
+- reverse path forwarding (RPF) troubleshooting
+
+trivia:
+what protocols and port number(s)?
+
+:: MEAT CHUNKS (links OTD):
+neckercube and some multicast explanation:
+https://neckercube.com/index.php/2018/10/02/connecting-multicast-islands-with-gre/
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
