@@ -1,19 +1,27 @@
-day 298 - the multicast mindset. written exam 38 days
+day 298- azure bgp, bfd. mic giveaway. written exam 38 days
 
 WOTD: mars high-rise sand dune, nasa.gov
 
 :: VLOG ::
-stream giveaway for day 300! blue snowball mic
+Day 300 hype! Stream giveaway Sunday! blue snowball mic
+http://a.co/d/eUJlJG4
+
+Azure bgp and bfd
+ - bgp timers
+ - bfd
+ - convergence and failover for private peering
 
 networklessons.com
 - reverse path forwarding (RPF) troubleshooting
 
 trivia:
-what protocols and port number(s)?
 
 :: MEAT CHUNKS (links OTD):
 neckercube and some multicast explanation:
 https://neckercube.com/index.php/2018/10/02/connecting-multicast-islands-with-gre/
+
+ansible on windows with linux subsystem:
+https://www.youtube.com/watch?v=vE5unuqIauE&feature=youtu.be
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
