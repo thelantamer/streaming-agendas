@@ -15,6 +15,17 @@ networklessons.com
 - reverse path forwarding (RPF) troubleshooting
 
 trivia:
+what is the basic configuration of community filtering in bgp?
+
+ip community-list 10 permit 26071:50001
+
+route-map AZURE_CHANGE_PREF permit 200
+ match ip community-list 10
+ set local-preference 150
+route-map AZURE_CHANGE_PREF permit 300
+!
+router bgp 65000
+neighbor 1.1.1.1 route-map AZURE_CHANGE_PREF inbound
 
 :: MEAT CHUNKS (links OTD):
 neckercube and some multicast explanation:
