@@ -20,21 +20,29 @@ WOTD: Severnaya Zemlya archipelago in Russia from LandSat8, nasa.gov
 - only beginning
 
 - gratitude+giveaway
-
     pre-requisites
     - twitch account
     - viewing this channel
     - have shipping address in US
-
     / call a time
     / list of viewers in text file
     / obtain count
-    / jot -r 1 1 x
+    / jot -r 1 1 11
 
 - as engineer, when should I start creating content?
 
 trivia:
-What are ports used for HSRP versions?
+What are ports used for all the HSRP versions?
+ - hsrp v1
+    udp 1985
+ - hsrp v2
+    udp 1985
+ - hsrp v6
+    udp 2029
+
+written progress:
+- networklessons.com
+    rpf and multicast
 
 :: MEAT CHUNKS (links OTD):
 Need motivation to start your channel? [NSFW]
