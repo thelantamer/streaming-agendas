@@ -21,7 +21,6 @@ M and O router advertisement packets
 
 trivia:
 
-
 :: MEAT CHUNKS (links OTD):
 microsoft technet article on ipv6 addressing:
 https://technet.microsoft.com/en-us/library/2007.08.cableguy.aspx
