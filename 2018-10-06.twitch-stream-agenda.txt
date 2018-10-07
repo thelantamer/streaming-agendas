@@ -1,0 +1,40 @@
+day 299 - what I learned spending all day with ipv6. written exam 36 days
+
+WOTD: mars high-rise sand dune, nasa.gov
+
+:: VLOG ::
+Day 300 hype! Stream giveaway Sunday 12PM ET! blue snowball mic
+http://a.co/d/eUJlJG4
+
+Azure and eve-ng community edition project
+
+networklessons.com
+- reverse path forwarding (RPF) troubleshooting [ STALLED due to ipv6 ]
+
+ipv6 things learned today:
+- 'default gateway' in windows
+    - fe80::aaaa:aaaa:aaaa:aaaa
+DUID
+    - 
+eui-64 addressing
+M and O router advertisement packets
+
+trivia:
+
+
+:: MEAT CHUNKS (links OTD):
+microsoft technet article on ipv6 addressing:
+https://technet.microsoft.com/en-us/library/2007.08.cableguy.aspx
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
