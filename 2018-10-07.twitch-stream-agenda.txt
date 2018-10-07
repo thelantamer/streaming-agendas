@@ -26,6 +26,11 @@ WOTD: Severnaya Zemlya archipelago in Russia from LandSat8, nasa.gov
     - viewing this channel
     - have shipping address in US
 
+    / call a time
+    / list of viewers in text file
+    / obtain count
+    / jot -r 1 1 x
+
 - as engineer, when should I start creating content?
 
 trivia:
