@@ -6,20 +6,22 @@ WOTD: Severnaya Zemlya archipelago in Russia from LandSat8, nasa.gov
 300 days!
 A recap:
 - 351 videos on youtube
-    - 1st video June 24, 2017
-    - Been to Cisco Live
-    - 
 
-- community gratitude
+TIMELINE
+- 2017-06-24    Youtube channel - first stream
+- 2017-06-29    Launched twitter and instagram accounts
+- 2017-09-21    100 Youtube subs and custom URL
+- 2017-11-11    Discord server launch
+- 2018-01-08    First twitch stream
+- 2018-04-23    became Twitch affiliate
+- 2018-10-07    300 the day of vlogging/labbing
 
-
-
-giveaway
+- gratitude/giveaway
 
 trivia:
 
-:: MEAT CHUNKS (links OTD):
 
+:: MEAT CHUNKS (links OTD):
 
 
 :: SOCIAL MEDIA ::
@@ -28,7 +30,6 @@ DISCORD - https://discord.gg/BBSGPYH
 YOUTUBE - https://www.youtube.com/thelantamer
 TWITTER - https://twitter.com/thelantamer
 INSTAGRAM - https://www.instagram.com/thelantamer/
-
 :: LINKS ::
 Github - https://github.com/thelantamer
 Google Drive share - http://bit.ly/2AbJQhp
