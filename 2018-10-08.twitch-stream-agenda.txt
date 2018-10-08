@@ -1,0 +1,35 @@
+day 301 - giveaway re-roll, multicast. written exam 34 days
+
+WOTD: spacex block5 stage 1 returns to land in CA. flickr.com/spacex
+
+:: VLOG ::
+linkedin updates
+
+written re-schedule coming
+
+written progress:
+- networklessons.com
+    rpf and multicast
+
+giveaway followup
+
+trivia:
+what goes here:
+  distance bgp x y z
+
+:: MEAT CHUNKS (links OTD):
+google ipv6 numbers: https://www.google.com/intl/en/ipv6/statistics.html#tab=ipv6-adoption
+
+azure tips and tricks - ARM resource explorer: https://www.youtube.com/watch?v=hBl_2iaqIDs
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+:: LINKS ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
