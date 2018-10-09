@@ -20,6 +20,9 @@ ITR
 ETR
 
 :: MEAT CHUNKS (links OTD):
+cisco live survival guide:
+http://www.wifireference.com/2018/06/15/cisco-live-survival-guide/
+
 icmp cheat sheet:
 https://www.piratemoo.net/moosings/uncategorized/icmp-cheat-sheet/
 
