@@ -12,14 +12,17 @@ written progress:
 
 trivia:
 identify these LISP components:
-EID
-RLOC
-MR
-MS
-ITR
-ETR
+EID - Endpoint IDentifier
+RLOC - Routing Locator
+MR - Mapping Resolver
+MS - Mapping Server
+ITR - Ingress Tunnel Router
+ETR - Egress Tunnel Router
 
 :: MEAT CHUNKS (links OTD):
+forward http extension rfc:
+https://tools.ietf.org/html/rfc7239.html
+
 cisco live survival guide:
 http://www.wifireference.com/2018/06/15/cisco-live-survival-guide/
 
