@@ -5,15 +5,48 @@ WOTD: spacex block5 stage 1 returns to land in CA. flickr.com/spacex
 :: VLOG ::
 teaming up with Dude4Him
 
+network or host bits
+00000001 - 1 
+00000010 - 2
+00000011 - 3
+00000100 - 4
+
+wildcard masks (1 indicates which bits to ignore)
+10000000 - 128
+11000000 - 192
+11100000 - 224
+11110000 - 240
+11111000 - 248
+11111100 - 252
+11111110 - 254
+11111111 - 255
+
+
+access-list 10 deny 210.1.1.0 0.0.254.255
+access-list 10 permit any
+
+router rip
+distribute-list 10 out Gi0/0
+
+
 written progress:
 - networklessons.com
     - pim sparse mode
 
 trivia:
-name these special vlans: 1001-1004
+name these special vlans: 1002-1005
+
+ 1    - 1005 - normal range
+ 1006 - 4094 - extended vlan range [ can be managed with vtp 3]
+
+ 1002 - fddi-default
+ 1003 - token-ring-default
+ 1004 - fddinet-default
+ 1005 - trnet-default
 
 :: MEAT CHUNKS (links OTD):
-
+showipintbri's routing redistribution issue:
+https://youtu.be/qIgCuMzWQdk
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
