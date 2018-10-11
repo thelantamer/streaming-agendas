@@ -1,19 +1,19 @@
-day 303 - rip summarization, pim dense mode. written exam 32 days
+day 304 - pim sparse mode, wildcard mask tricks. written exam 31 days
 
 WOTD: spacex block5 stage 1 returns to land in CA. flickr.com/spacex
 
 :: VLOG ::
-
+teaming up with Dude4Him
 
 written progress:
-- rip summarization
 - networklessons.com
-    - pim dense mode
+    - pim sparse mode
 
 trivia:
-
+name these special vlans: 1001-1004
 
 :: MEAT CHUNKS (links OTD):
+
 
 :: SOCIAL MEDIA ::
 TWITCH - https://www.twitch.tv/thelantamer
