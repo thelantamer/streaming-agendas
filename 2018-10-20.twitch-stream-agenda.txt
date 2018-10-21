@@ -1,4 +1,4 @@
-day 305 - back to the grind! ipv6 tunneling. a few links.
+day 305 - back to the grind! 6rd tunneling review.
 
 WOTD: hubble globular cluster NGC 1898, courtesy: nasa.gov
 
@@ -13,6 +13,11 @@ trivia:
 6rd advantages and disadvantages
 
 :: MEAT CHUNKS (links OTD):
+ipv6 address planning:
+https://packetpushers.net/podcast/ipv6-buzz-011-an-ipv6-address-planning-guide/
+
+why is ipv6 being deployed?
+https://teamarin.net/2018/06/06/what-drives-ipv6-deployment/
 
 
 :: SOCIAL MEDIA ::
