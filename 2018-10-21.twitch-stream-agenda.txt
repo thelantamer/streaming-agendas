@@ -5,7 +5,10 @@ WOTD: hubble globular cluster NGC 1898, courtesy: nasa.gov
 :: VLOG ::
 re-scheduled exam for 12/31
 
-labbing in azure
+azure
+    service fabric
+    kubernetes
+    labbing is fast!
 
 written progress:
 - networklessons.com
