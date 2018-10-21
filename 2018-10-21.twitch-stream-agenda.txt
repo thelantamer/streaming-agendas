@@ -1,0 +1,38 @@
+day 306 - reviewing pim modes. labbing in azure. 71 days
+
+WOTD: hubble globular cluster NGC 1898, courtesy: nasa.gov
+
+:: VLOG ::
+re-scheduled exam for 12/31
+
+labbing in azure
+
+written progress:
+- networklessons.com
+    pim modes
+        dense
+        sparse
+        dense-sparse
+
+trivia:
+ipv6 tunneling over ipv4
+    which protocol number used in ipv4?
+    what is an important exception?
+
+:: MEAT CHUNKS (links OTD):
+Excellent RIP video:
+https://www.youtube.com/watch?v=rrCVinJkCz4&t=531s&fbclid=IwAR04PMJgUzah9S4_y8a424fjCe52rQ0Vtvhenx4N6daA7uFa_lHOKM0Tayw
+
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: RESOURCES ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
