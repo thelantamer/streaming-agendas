@@ -23,6 +23,12 @@ https://azure.microsoft.com/en-us/global-infrastructure/locations/
 
 ** 2 - provision VM
 
+ubuntu 16.04 server
+new RSG
+new VNET
+
+public IP
+advanced NSG (network security group)
 
 ** 3 - boot VM and install eve-ng community edition (baremetal)
 
