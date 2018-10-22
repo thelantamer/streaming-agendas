@@ -1,0 +1,31 @@
+YOUTUBE VIDEO
+Provision small eve-ng VM in Azure (portal [newbie] edition)
+
+** 1 - choose VM size
+
+    For nested virtualization, need Dv3 or Ev3
+    https://azure.microsoft.com/en-us/blog/nested-virtualization-in-azure/
+
+    UBUNTU vm sizing/pricing list
+    https://azure.microsoft.com/en-us/pricing/details/virtual-machines/ubuntu-advantage-essential/
+
+    BIG:
+    D16s v3 (16 vcpus, 64GB memory) - $0.777/hour
+
+    SMALL:
+    D4s v3 (4 vcpus, 16GB memory) - $0.201/hour
+
+** 2 - choose region
+
+consider internet latency, price (East US2 or West US2)
+
+https://azure.microsoft.com/en-us/global-infrastructure/locations/
+
+** 2 - provision VM
+
+
+** 3 - boot VM and install eve-ng community edition (baremetal)
+
+    http://www.eve-ng.net/documentation/installation/bare-install
+
+** 4 - upload images to server
