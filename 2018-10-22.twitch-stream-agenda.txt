@@ -1,0 +1,36 @@
+day 307 - reviewing pim modes. labbing in azure. 70 days
+
+WOTD: hubble globular cluster NGC 1898, courtesy: nasa.gov
+
+:: VLOG ::
+azure
+    service fabric
+    kubernetes
+    labbing is fast!
+
+written progress:
+- networklessons.com
+    pim modes
+        dense
+        sparse
+        dense-sparse
+
+trivia:
+In which IPv6 tunneling mechanism will you see addresses formatted as: ::ffff:x.x.x.x? 
+What are the advantages and disadvantages of this protocol?
+
+:: MEAT CHUNKS (links OTD):
+
+
+:: SOCIAL MEDIA ::
+TWITCH - https://www.twitch.tv/thelantamer
+DISCORD - https://discord.gg/BBSGPYH
+YOUTUBE - https://www.youtube.com/thelantamer
+TWITTER - https://twitter.com/thelantamer
+INSTAGRAM - https://www.instagram.com/thelantamer/
+
+:: RESOURCES ::
+Github - https://github.com/thelantamer
+Google Drive share - http://bit.ly/2AbJQhp
+INE Diagrams - http://bit.ly/2mgTGso
+INE VIRL files on Github - http://bit.ly/2ht78YH
