@@ -1,13 +1,8 @@
-day 307 - reviewing pim modes. labbing in azure. 70 days
+day 307 - pim and more ipv6 tunneling. 70 days
 
 WOTD: hubble globular cluster NGC 1898, courtesy: nasa.gov
 
 :: VLOG ::
-azure
-    service fabric
-    kubernetes
-    labbing is fast!
-
 written progress:
 - networklessons.com
     pim modes
