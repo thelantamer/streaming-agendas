@@ -3,6 +3,11 @@ day 307 - pim and more ipv6 tunneling. 70 days
 WOTD: hubble globular cluster NGC 1898, courtesy: nasa.gov
 
 :: VLOG ::
+azure (coming soon):
+- eve-ng deployment (bigger!)
+- azure firewall
+- azure dev-ops repo and ci/cd deployment
+
 written progress:
 - networklessons.com
     pim modes
@@ -11,21 +16,12 @@ written progress:
         dense-sparse
 
 trivia:
-In which IPv6 tunneling mechanism will you see addresses formatted as: ::ffff:x.x.x.x? 
+In which IPv6 tunneling mechanism will you see addresses formatted as: ::ffff:x.x.x.x?
+A: 6PE/6VPE
+
 What are the advantages and disadvantages of this protocol?
 
+
 :: MEAT CHUNKS (links OTD):
-
-
-:: SOCIAL MEDIA ::
-TWITCH - https://www.twitch.tv/thelantamer
-DISCORD - https://discord.gg/BBSGPYH
-YOUTUBE - https://www.youtube.com/thelantamer
-TWITTER - https://twitter.com/thelantamer
-INSTAGRAM - https://www.instagram.com/thelantamer/
-
-:: RESOURCES ::
-Github - https://github.com/thelantamer
-Google Drive share - http://bit.ly/2AbJQhp
-INE Diagrams - http://bit.ly/2mgTGso
-INE VIRL files on Github - http://bit.ly/2ht78YH
+6PE routing RFC:
+https://tools.ietf.org/html/rfc4798
