@@ -1,26 +1,19 @@
-day 308 - pim auto-rp lab plus sdn! 69 days
+day 309 - pim bsr lab. 68 days
 
 WOTD: cat's paw nebula, courtesy: nasa.gov
 
 :: VLOG ::
 azure projects:
 - azure devops deployment issues for eve-ng
-- azure firewall
 - azure dev-ops repo and ci/cd deployment
+- azure firewall
 
 written progress:
 - networklessons.com
-  pim auto-rp
+  pim bsr, standard vs cisco proprietary
 
 trivia:
-SDN - how does Cisco ACI scale compared to VMWare NSX?
+REST API uses which common http calls?
+  for what context is each used?
 
 :: MEAT CHUNKS (links OTD):
-DMVPN with OSPF or EIGRP?
-https://www.packetmischief.ca/2015/12/01/ospf-vs-eigrp-for-dmvpn/
-
-F5 mac
-https://twitter.com/sagardezign/status/1054666225601703936?s=12
-
-notes on SDN:
-https://github.com/thelantamer/notes/blob/master/SDN-comparisons.xlsx
