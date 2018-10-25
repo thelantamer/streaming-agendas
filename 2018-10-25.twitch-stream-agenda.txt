@@ -1,0 +1,27 @@
+day 310 - cert trade-offs. MSDP filtering lab. 67 days to go.
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+trade-offs: working out
+
+neckercube's flash card set
+
+written progress:
+- networklessons.com
+
+PIM is done!
+MSDP
+ipv6 multicast
+
+trivia:
+name these human-readable file formats based on their formatting style:
+- special character indentation
+- tags
+- white space indentation
+
+
+:: MEAT CHUNKS (links OTD):
+Neckercube flash card set:
+https://neckercube.com/index.php/2018/01/31/ccie-flash-card-deck-for-rs-v5-1/
+
