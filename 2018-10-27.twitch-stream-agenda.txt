@@ -1,4 +1,4 @@
-day 312 - BIGger Azure lab! redistribution troubleshooting. 65 days to go.
+day 311 - BIGger Azure lab! redistribution troubleshooting. 65 days to go.
 
 WOTD: Mojave wallpapers
 
@@ -8,12 +8,15 @@ Azure VM, eve-ng image, and templating
 written progress:
 - networklessons.com
 
+    PBR
+    BFD
+    Loop prevention
 
 trivia:
 How do MSDP peers communicate SA information?
 
+What protocol is effective for REST API communication on 802.15.4 networks?
+
 :: MEAT CHUNKS (links OTD):
 CCIE journey blog:
 https://0x2142.com/?p=986
-
-redistribution lab
