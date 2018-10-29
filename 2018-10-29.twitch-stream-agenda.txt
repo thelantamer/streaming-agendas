@@ -1,0 +1,23 @@
+day 313 - Redistribution puzzlers and labs! 63 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    eve-ng repos for lab topology file sync
+
+written progress:
+- networklessons.com
+    redistribution problems
+
+trivia:
+How does 'no ip classless' on a router impact:
+    - VLSM traffic that would ordinarly use the default route?
+    - treatment of inbound routing updates that are classless?
+
+:: MEAT CHUNKS (links OTD):
+Multicast and QoS design notebook:
+https://learningnetwork.cisco.com/docs/DOC-33579
+
+Nic Russo's blog/reading list:
+http://njrusmc.net/links/links.html
