@@ -1,0 +1,21 @@
+day 314 - is-is authentication. 62 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    sprints!
+    vm build script
+
+written progress:
+- networklessons.com
+    is-is basics, authentication
+
+trivia:
+Which of the following commands will enable plain-text authentication of IS-IS hello packets?
+1 - area-password MYPASS
+2 - domain-password MYPASS
+3 - area-password MYPASS authenticate snp validate
+4 - none of the above [CORRECT ANSWER]
+
+:: MEAT CHUNKS (links OTD):
