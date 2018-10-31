@@ -1,21 +1,23 @@
-day 314 - is-is authentication. 62 days
+day 315 - is-is dis, pseudonode. 61 days
 
 WOTD: Mojave wallpapers
 
 :: VLOG ::
 azure labbing project
-    sprints!
-    vm build script
+    storage blog for images
+    iterative lab build
 
 written progress:
 - networklessons.com
-    is-is basics, authentication
+    is-is dis and pseudonode
 
 trivia:
-Which of the following commands will enable plain-text authentication of IS-IS hello packets?
-1 - area-password MYPASS
-2 - domain-password MYPASS
-3 - area-password MYPASS authenticate snp validate
-4 - none of the above [CORRECT ANSWER]
+Which MetroE service allows Layer3 connections?
+1) EWS
+2) EPL
+3) ERS
+4) EMS
 
 :: MEAT CHUNKS (links OTD):
+Three laws of TDD:
+https://www.youtube.com/watch?v=qkblc5WRn-U
