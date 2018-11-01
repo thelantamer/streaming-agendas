@@ -3,21 +3,30 @@ day 315 - is-is dis, pseudonode. 61 days
 WOTD: Mojave wallpapers
 
 :: VLOG ::
+eve-ng community edition captures
+
 azure labbing project
     storage blog for images
     iterative lab build
+    eve-ng and wireshark captures with community edition
 
 written progress:
 - networklessons.com
     is-is dis and pseudonode
 
+    message types:
+        Hello
+        LSP - 
+        CSNP - Complete Sequence Number PDU
+        PSNP - Partial Sequence Number PDU
+
 trivia:
-Which MetroE service allows Layer3 connections?
-1) EWS
-2) EPL
-3) ERS
-4) EMS
+Which MetroE service uses Layer3 customer connections?
+1) EWS - Ethernet Wire Service, p2p uses L2 CEs
+2) EPL - Ethernet Private Line, p2p uses L2 CEs - bundle TDM services
+3) ERS - Ethernet Relay Service, p2p, uses L3 CEs *** [ ANSWER ]
+4) EMS - Ethernet Multipoint Service, multipoint, uses L2 CEs
 
 :: MEAT CHUNKS (links OTD):
-Three laws of TDD:
+Three laws of TDD (Test Driven Development):
 https://www.youtube.com/watch?v=qkblc5WRn-U

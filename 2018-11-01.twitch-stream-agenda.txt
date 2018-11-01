@@ -1,0 +1,21 @@
+day 316 - is-is filtering, route leaking. 60 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    - 15 routers
+    - 
+
+written progress:
+- networklessons.com
+    finish up is-is
+    next up: vpn technologies!
+        tunneling
+            mpls
+
+trivia:
+What kind of traffic is reserved for ff02::12
+
+:: MEAT CHUNKS (links OTD):
+Three laws of TDD (Test Driven Development):
