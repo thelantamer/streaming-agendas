@@ -1,0 +1,22 @@
+day 317 - is-is filtering, route leaking. 57 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+study vacation starts Wed!
+
+eve-ng azure automated deploy project
+    - ssh keys and keyvault
+    - linux extension
+
+written progress:
+- networklessons.com
+    is-is done
+    vpn technologies started
+        mpls basics (new pcap)
+
+trivia:
+Which NAT protocol does not translate the interface identifier, does not use overload, and is normally implemented at the Internet edge?
+
+
+:: MEAT CHUNKS (links OTD):
