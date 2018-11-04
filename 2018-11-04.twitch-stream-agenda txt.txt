@@ -13,10 +13,14 @@ written progress:
 - networklessons.com
     is-is done
     vpn technologies started
-        mpls basics (new pcap)
+        mpls operations done
+        mpls L3 VPN starting
 
 trivia:
 Which NAT protocol does not translate the interface identifier, does not use overload, and is normally implemented at the Internet edge?
 
+    (looking forward to this section now more than ever)
 
 :: MEAT CHUNKS (links OTD):
+Great design points shared here:
+https://www.netcraftsmen.com/about-network-design-principles/
