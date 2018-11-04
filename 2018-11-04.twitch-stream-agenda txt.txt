@@ -1,13 +1,11 @@
-day 317 - is-is filtering, route leaking. 57 days
+day 317 - Let's talk certificates. Azure key vault build stream. 57 days
 
 WOTD: Mojave wallpapers
 
 :: VLOG ::
-study vacation starts Wed!
+6-day study vacation starts Wed!
 
-eve-ng azure automated deploy project
-    - ssh keys and keyvault
-    - linux extension
+lesson learned: don't forget to commit in git!
 
 written progress:
 - networklessons.com
@@ -16,7 +14,14 @@ written progress:
         mpls operations done
         mpls L3 VPN starting
 
-trivia:
+eve-ng azure automated deploy project:
+    - ssh keys and keyvault
+    - linux extension
+
+lab building:
+    - troubleshoot json template
+
+:: QUIZ TIME ::
 Which NAT protocol does not translate the interface identifier, does not use overload, and is normally implemented at the Internet edge?
 
     (looking forward to this section now more than ever)
