@@ -1,0 +1,36 @@
+day 310 - cert trade-offs. MSDP filtering lab. 67 days to go.
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+trade-offs: working out
+
+neckercube's flash card set
+
+written progress:
+- networklessons.com
+
+PIM is done!
+MSDP SA filtering
+ipv6 multicast
+
+Multicast address range:
+    224.0.0.0/4
+    224.0.0.1 - 239.255.255.255
+        reserved ipv4 multicast private range:
+            239.0.0.0/8
+
+trivia:
+name these human-readable file formats based on their formatting style:
+- special character indentation
+    JSON
+- tags
+    XML
+- white space indentation
+    YAML
+
+
+:: MEAT CHUNKS (links OTD):
+Neckercube flash card set:
+https://neckercube.com/index.php/2018/01/31/ccie-flash-card-deck-for-rs-v5-1/
+

@@ -1,0 +1,29 @@
+day 309 - pim bsr lab plus iot security. 68 days
+
+WOTD: cat's paw nebula, courtesy: nasa.gov
+
+:: VLOG ::
+study
+iot security
+    sensors - when to encrypt, data going in or out?
+    data analysis of iot data: edge or core?
+
+written progress:
+- networklessons.com
+  pim bsr (standard protocol)
+
+pim auto-rp                  pim bsr
+mapping agent              candidate bsr
+    (send rp-discovery)
+candidate-rp               candidate-rp 
+    (send rp-announce)
+
+bsr uses announcements using hop-by-hop (224.0.0.13) vs multicast groups (224.0.1.39 and 224.0.1.40)
+
+trivia:
+http REST api calls
+    most common, and used in what context?
+
+:: MEAT CHUNKS (links OTD):
+IoT security considerations:
+https://ciscolive.cisco.com/on-demand-library/?search=BRKIOT-2112#/video/1533847957994001MkWF

@@ -1,0 +1,26 @@
+day 312 - Redistribution puzzlers and labs! 64 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    eve-ng repos for lab topology file sync
+
+written progress:
+- strategy in 64 days
+    networklessons (may not finish all of them)
+    evolving technologies 1.1
+        videos and study
+
+- networklessons.com
+    redistribution problems
+
+trivia:
+How does 'no ip classless' on a router impact:
+    - VLSM traffic that would ordinarly use the default route?
+    - treatment of inbound routing updates that are classless?
+
+:: MEAT CHUNKS (links OTD):
+Tony E's redistribution video, day 61:
+https://youtu.be/NX22LxWDgjs
+

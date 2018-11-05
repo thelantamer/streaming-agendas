@@ -1,0 +1,30 @@
+day 316 - is-is filtering, route leaking. 60 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    - 15 routers
+    - windows vm for pcaps
+
+written progress:
+- networklessons.com
+    finish up is-is
+    next up: vpn technologies!
+        tunneling
+            mpls
+
+is-is filtering labs
+    distribute lists
+    l1-l2 boundaries
+
+trivia:
+What kind of traffic is reserved for ff02::12
+    ipv6
+    ff - multicast
+    ff02 - link local multicast
+        224.0.0.18
+    vrrp
+        virtual router redundancy protocol
+        
+:: MEAT CHUNKS (links OTD):

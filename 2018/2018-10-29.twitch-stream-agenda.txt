@@ -1,0 +1,25 @@
+day 313 - ospfv3 ipsec authentication and encryption. 63 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    file sync
+    vcpu limit on sub
+
+written progress:
+- networklessons.com
+    ospfv3 ipsec encryption
+    is-is labs
+
+trivia:
+How does 'no ip classless' on a router impact:
+    - VLSM traffic that would ordinarly use the default route?
+    - treatment of inbound routing updates that are classless?
+
+:: MEAT CHUNKS (links OTD):
+Multicast and QoS design notebook:
+https://learningnetwork.cisco.com/docs/DOC-33579
+
+Nic Russo's blog/reading list:
+http://njrusmc.net/links/links.html
