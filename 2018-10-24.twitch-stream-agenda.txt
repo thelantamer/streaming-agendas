@@ -1,0 +1,19 @@
+day 309 - pim bsr lab. 68 days
+
+WOTD: cat's paw nebula, courtesy: nasa.gov
+
+:: VLOG ::
+azure projects:
+- azure devops deployment issues for eve-ng
+- azure dev-ops repo and ci/cd deployment
+- azure firewall
+
+written progress:
+- networklessons.com
+  pim bsr, standard vs cisco proprietary
+
+trivia:
+REST API uses which common http calls?
+  for what context is each used?
+
+:: MEAT CHUNKS (links OTD):

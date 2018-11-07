@@ -1,0 +1,22 @@
+day 317 - is-is filtering, route leaking. 58 days
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+azure labbing project
+    - 20 routers
+    - 
+
+written progress:
+- networklessons.com
+    finish up is-is
+    next up: vpn technologies!
+        tunneling
+            mpls
+
+trivia:
+What kind of traffic is reserved for ff02::12
+
+:: MEAT CHUNKS (links OTD):
+Three laws of TDD (Test Driven Development):
+https://networkingnerd.net/2018/10/26/how-high-can-the-ccie-go/

@@ -1,11 +1,11 @@
-day 317 - Let's talk certificates. Azure key vault build stream. 57 days
+day 318 - studycation begins! ssl handshaking. 55 days
 
 WOTD: Mojave wallpapers
 
 :: VLOG ::
-6-day study vacation starts Wed!
+6-day study vacation starts
+Attack plan
 
-lesson learned: don't forget to commit in git!
 
 written progress:
 - networklessons.com
@@ -13,6 +13,19 @@ written progress:
     vpn technologies started
         mpls operations done
         mpls L3 VPN starting
+
+    60 day goals:
+        1. complete networklessons units 4, 5, 6 (neckercube flashcard review throughout - Nov 30th
+        2. evolving technologies guide - read and review, - Dec 10th
+        3. scramble: boson, flash cards, additional review of networklessons 3.4-7
+
+lab build project:
+- create azure key vault
+- create ssh keys on local machine
+- store keys in azure key vault
+- deploy new linux vm and copy ssh keys to new vm
+    updating vm deploy template
+
 
 eve-ng azure automated deploy project:
     - ssh keys and keyvault
