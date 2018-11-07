@@ -1,0 +1,21 @@
+day 319 - MPLS study and labs all day, MPLS. 54 days.
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+
+// 60 day goals //
+Nov 30: networklessons units 4, 5, 6; flash card reviews
+Dec 10: evolving technologies guide - read and review, - Dec 10th
+Dec 31: review mode: boson, flash cards, additional review of networklessons 3.4-7
+
+written progress:
+
+
+lab build project:
+- creating Win 10 VM
+- need a way to unshut interfaces
+
+:: QUIZ TIME ::
+
+:: MEAT CHUNKS (links OTD):
