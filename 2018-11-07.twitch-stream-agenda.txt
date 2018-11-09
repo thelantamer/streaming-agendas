@@ -3,19 +3,33 @@ day 319 - MPLS study and labs all day, MPLS. 54 days.
 WOTD: Mojave wallpapers
 
 :: VLOG ::
+How much time do I study each week? [ pre-exam scramble ]
 
-// 60 day goals //
+Mon, Wed - long nights: 10 hrs
+Tue, Thur - short nights: 6 hrs
+Fri: 2
+
+Sat & Sun: 14 hrs
+standard week: 20hrs
+scramble weeks: 32hrs
+
+// Pre-exam deadlines //
 Nov 30: networklessons units 4, 5, 6; flash card reviews
-Dec 10: evolving technologies guide - read and review, - Dec 10th
+Dec 10: evolving technologies guide - read and review
 Dec 31: review mode: boson, flash cards, additional review of networklessons 3.4-7
 
 written progress:
-
+- MPLS L3 VPN almost complete
+    [ flash card/boson review ]
+- GRE & DMVPN starts tomorrow
 
 lab build project:
 - creating Win 10 VM
 - need a way to unshut interfaces
 
 :: QUIZ TIME ::
+- How does OSPFv2 know which LSA types to use when redistributing from MP-BGP
 
 :: MEAT CHUNKS (links OTD):
+MP-BGP vrf route-leaking
+https://networkdirection.net/articles/routingandswitching/leakingrouteswithmp-bgp/
