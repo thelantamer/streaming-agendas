@@ -8,6 +8,8 @@ WOTD: Mojave wallpapers
     my take on cloud skills needed
     where are you now?
 
+acm.org and safaribooks
+
 // Upcoming target dates //
 Nov 30: networklessons units 4, 5, 6; flash card reviews
 Dec 10: evolving technologies guide - read and review
@@ -15,6 +17,9 @@ Dec 31: review mode: boson, flash cards, additional review of networklessons 3.4
 
 written progress:
 - DMVPN finish today?
+    close
+    mind map
+    
 - IPv6 tunneling tomorrow
 
 :: QUIZ TIME ::
