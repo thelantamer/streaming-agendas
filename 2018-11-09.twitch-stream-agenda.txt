@@ -1,0 +1,23 @@
+day 320 - Studycation wrap-up. Bogon networks. 53 days.
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+// Upcoming target dates //
+Nov 30: networklessons units 4, 5, 6; flash card reviews
+Dec 10: evolving technologies guide - read and review
+Dec 31: review mode: boson, flash cards, additional review of networklessons 3.4-7
+
+written progress:
+- DMVPN finish tomorrow
+- IPv6 tunneling Sat
+
+:: QUIZ TIME ::
+[later]
+
+:: MEAT CHUNKS (links OTD):
+IPv4 bogon list, aggregated:
+https://www.team-cymru.org/Services/Bogons/bogon-bn-agg.txt
+
+IANA special registry assignments:
+https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
