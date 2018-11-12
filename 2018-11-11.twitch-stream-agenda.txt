@@ -1,4 +1,4 @@
-day 322 - L2 VPN labs, last day of studycation. 50 days til exam.
+day 322 - ipv6 tunneling. 51 days.
 
 WOTD: Mojave wallpapers
 
@@ -9,14 +9,14 @@ Dec 10: evolving technologies guide - read and review
 Dec 31: review mode: boson, flash cards, additional review of networklessons 3.4-7
 
 written progress:
-- ipv6 tunneling complete!
-- L2VPN
+- DMVPN finished yesterday (goal met)
+- IPv6 tunneling today
+    flash card review
 
 :: LABS ::
-- router collage lab at 56 devices (53 routers, 3 switches)
-- L2 VPN labs
+ipv6 tunneling
 
 :: QUIZ TIME ::
-[flash cards]
+[later]
 
 :: MEAT CHUNKS (links OTD):
