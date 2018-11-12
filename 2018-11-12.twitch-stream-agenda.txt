@@ -1,4 +1,4 @@
-day 322 - L2 VPN labs, last day of studycation. 50 days til exam.
+day 323 - L2 VPN labs, last day of studycation. 50 days til exam.
 
 WOTD: Mojave wallpapers
 
@@ -20,3 +20,4 @@ written progress:
 [flash cards]
 
 :: MEAT CHUNKS (links OTD):
+Pseudowire RFC: https://tools.ietf.org/html/rfc4448
