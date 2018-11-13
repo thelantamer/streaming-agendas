@@ -1,0 +1,57 @@
+// Create a network lab in Azure //
+
+Why lab in the cloud?
+- Alternative to rack rentals
+
+- Availability and scale
+
+- Backup lab
+
+- User-friendly way to start working in the cloud
+
+Why Azure?
+- You get to learn Azure! Azure growth rate double that of AWS
+
+- Don't JUST learn AWS, should know how to get around Azure, AWS, and GCloud
+
+- Free 30-day trial ($200):
+    https://azure.microsoft.com/en-us/free/
+
+How much does it cost?
+https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/
+
+    Small -     $0.384/hr ($3.84 for 10 hours)
+                D8s v3 - 8vCPU, 32GB RAM
+
+    Medium -    $0.768/hr ($7.68 for 10 hours)
+                D16s v3 - 16vCPU, 64GB RAM
+
+    Large -     $1.46/hr (14.60 for 10 hours)
+                E20s v3 - 20vCPU, 160GB RAM
+
+* should be a VM that supports nested virtualization
+    D/Exsv3
+
+* Above does not include storage, public IP, data in/out
+
+Ok how do I build it?
+
+/ manual way /
+
+- Select your lab software (eve-ng, GNS3, VIRL)
+    (my example is eve-ng community edition bare-metal install)
+    http://eve-ng.net/documentation/installation/system-requirement
+- Azure subscription
+- Select a region
+    https://azure.microsoft.com/en-us/global-infrastructure/locations/
+- Provision your Ubuntu 16.04 Server VM
+    restrict access
+
+- ssh evengadmin@mylargevengvm.southcentralus.cloudapp.azure.com
+
+- upload images to your VM
+    filezilla or WinSCP
+
+- optional
+    backups (recommended)
+    automation
