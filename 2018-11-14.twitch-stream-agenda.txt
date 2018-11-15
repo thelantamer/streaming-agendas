@@ -9,19 +9,18 @@ Dec 10: evolving technologies guide - read and review
 Dec 31: review mode: boson, flash cards, additional review of networklessons 3.4-7
 
 written progress:
-
-- router collage at 64 routers, I think
-- 
+Infrastructure Security Section
 
 
 :: LABS ::
 SNMP
-* Upload UBUNTU image to eve-ng
+1 - Upload UBUNTU image to eve-ng
 http://www.eve-ng.net/documentation/howto-s/106-howto-create-own-linux-image
-* Create new topology, connect to Internet
+
+2 - Create new topology, connect lab to Internet
 https://d-herrmann.de/2018/04/nat-cloud-in-eve-ng-community-edition/
 
-* Install Observium
+3 - Install Observium
 https://docs.observium.org/install_debian/
 
 :: QUIZ TIME ::
