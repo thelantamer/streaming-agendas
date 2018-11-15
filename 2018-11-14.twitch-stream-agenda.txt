@@ -27,4 +27,3 @@ https://docs.observium.org/install_debian/
 [flash cards]
 
 :: MEAT CHUNKS (links OTD):
-Pseudowire RFC: https://tools.ietf.org/html/rfc4448
