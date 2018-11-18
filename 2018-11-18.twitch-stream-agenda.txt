@@ -17,26 +17,9 @@ written progress:
 
 :: LABS ::
 - eveng upgrade in azure
-    export/import function works well
-    big labs can be used on small systems, just load parts of lab
-    extra editing options in pro, then export
-    with extensive lab files, export and backup regularly
+
 
 - access lists
-
-    ACL decision points:
-    applied as access group or access class?
-    standard or extended?
-        numerical or named?
-
-    standard numerical: 1-99, 1300-1399
-    extended numerical: 100-199, 2000-2699
-
-    ** NEW NUGGETS**
-    no xx (line number) to remove line for standard ACLs
-
-    ** WILDCARD MASK FUN **
-    
 - ipv6 traffic filters
 - urpf
 
