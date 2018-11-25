@@ -1,21 +1,28 @@
-day 328 - eve-ng pro upgrade, 20.04-98. 36 days.
+day 328 - infrastructure services labs. 36 days.
 
 WOTD: Mojave wallpapers
 
 :: VLOG ::
 // Target dates //
-Now - Nov 30: networklessons units 4, 5, 6; flash card reviews
-11/30 - 12/10: evolving technologies guide - read and review
+Now - 12/01: networklessons units 4, 5, 6; flash card reviews
+12/02 - 12/10: evolving technologies guide - read and review
 12/10 - 12/31: review mode: boson, flash cards, additional review of networklessons 3.4-7
 
 written progress:
 6. Infrastructure Services
 
 :: LABS ::
-- eve-ng pro upgrade
-- glbp
+- ntp
 
 :: QUIZ TIME ::
 [flash cards]
 
 :: MEAT CHUNKS (links OTD):
+Git stashing:
+https://git-scm.com/book/en/v1/Git-Tools-Stashing
+
+Connect eve-ng to Internet with NAT cloud:
+https://d-herrmann.de/2018/04/nat-cloud-in-eve-ng-community-edition/
+
+Use VIRL for free:
+https://youtu.be/S0jfZLobFdU
