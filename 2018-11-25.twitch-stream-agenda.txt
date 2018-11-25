@@ -8,10 +8,8 @@ Now - Nov 30: networklessons units 4, 5, 6; flash card reviews
 11/30 - 12/10: evolving technologies guide - read and review
 12/10 - 12/31: review mode: boson, flash cards, additional review of networklessons 3.4-7
 
-
 written progress:
 6. Infrastructure Services
-
 
 :: LABS ::
 - eve-ng pro upgrade
