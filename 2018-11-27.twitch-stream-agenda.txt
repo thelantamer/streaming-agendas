@@ -13,6 +13,7 @@ written progress:
 
 :: LABS ::
 - dhcpv6
+- ipv4 nat
 
 :: QUIZ TIME ::
 [flash cards]
