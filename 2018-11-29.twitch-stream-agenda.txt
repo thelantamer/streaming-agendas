@@ -1,4 +1,4 @@
-day 332 - NAT64 lab. 32 days.
+day 332 - EEM labs. 32 days.
 
 WOTD: Mojave wallpapers
 
@@ -19,3 +19,5 @@ written progress:
 [flash cards]
 
 :: MEAT CHUNKS (links OTD):
+ipv6 deployment blog for enterprises and govt:
+https://teamarin.net/2018/11/29/ipv6-for-governments-and-enterprises-impact-and-implementation-in-12-steps-part-2/
