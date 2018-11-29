@@ -1,0 +1,21 @@
+day 332 - NAT64 lab. 32 days.
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+// Target dates //
+Now - 12/01: networklessons units 4, 5, 6; flash card reviews
+12/02 - 12/10: evolving technologies guide - read and review
+12/10 - 12/31: review mode: boson, flash cards, additional review of networklessons 3.4-7
+
+written progress:
+- NAT64 lab in future
+
+- 6.4a, Network Optimization
+    - IP SLA Object Tracking PBR
+    - Netflow
+
+:: QUIZ TIME ::
+[flash cards]
+
+:: MEAT CHUNKS (links OTD):
