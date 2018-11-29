@@ -1,4 +1,4 @@
-day 331 - ipv6 NAT. 33 days.
+day 331 - NAT64 lab. 33 days.
 
 WOTD: Mojave wallpapers
 
@@ -6,6 +6,7 @@ WOTD: Mojave wallpapers
 // Target dates //
 Now - 12/01: networklessons units 4, 5, 6; flash card reviews
 12/02 - 12/10: evolving technologies guide - read and review
+
 12/10 - 12/31: review mode: boson, flash cards, additional review of networklessons 3.4-7
 
 written progress:
@@ -21,5 +22,8 @@ written progress:
 For fun, deep space network status:
 https://eyes.nasa.gov/dsn/dsn.html
 
-YAML for DevOps pipelines:
+YAML for Azure DevOps pipelines:
 https://blogs.msdn.microsoft.com/freddyk/2018/11/17/developing-business-central-extensions-part-5/?
+
+AJS networking review of new CCIE/CCDE evolving technologies book:
+https://www.ajsnetworking.com/ccie-and-ccde-evolving-technologies-study-guide-book-review/
