@@ -11,7 +11,8 @@ WOTD: Mojave wallpapers
 written progress:
 - PfR 'under the hood'
 
-- New book hype!
+- CCIE/CCDE evolving technologies book
+    IoT
 
 :: QUIZ TIME ::
 - What does PfR use with PIRO?
