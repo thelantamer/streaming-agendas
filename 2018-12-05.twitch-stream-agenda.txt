@@ -1,0 +1,23 @@
+day 335 - evolving tech: network programmability - 28 days to go
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+// Target dates //
+12/02 - 12/10: evolving technologies guide - read and review
+12/10 - re-evaluation and hit list
+12/10 - 01/01: review mode: boson, flash cards, networklessons 3.4-7
+
+written progress:
+- CDP issue
+
+- CCIE/CCDE evolving technologies book
+    IoT - done
+    cloud computing - done
+
+DevNet labs
+
+:: QUIZ TIME ::
+- CDP issue
+
+:: MEAT CHUNKS (links OTD):
