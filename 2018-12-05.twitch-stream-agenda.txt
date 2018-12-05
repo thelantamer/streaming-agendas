@@ -21,3 +21,5 @@ DevNet labs
 - CDP issue
 
 :: MEAT CHUNKS (links OTD):
+Jeremy Cioara's BGP load-balancing blog:
+https://twitter.com/CioaraJeremy/status/1070309904131416065
