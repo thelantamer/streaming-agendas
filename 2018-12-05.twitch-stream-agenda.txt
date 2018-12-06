@@ -1,4 +1,4 @@
-day 335 - evolving tech: network programmability - 28 days to go
+day 335 - cdp weirdness, network programmability - 28 days to go
 
 WOTD: Mojave wallpapers
 
@@ -8,12 +8,15 @@ WOTD: Mojave wallpapers
 12/10 - re-evaluation and hit list
 12/10 - 01/01: review mode: boson, flash cards, networklessons 3.4-7
 
-written progress:
-- CDP issue
+powershell
 
+exam change
+
+written progress:
 - CCIE/CCDE evolving technologies book
     IoT - done
     cloud computing - done
+    network programmability - in progress
 
 DevNet labs
 
