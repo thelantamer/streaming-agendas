@@ -1,13 +1,47 @@
-day 337 - finished evolving tech book, now what? - 25 days to go
-
-WOTD: Mojave wallpapers
+day 337 - cisco press evolving technologies guide review
 
 :: VLOG ::
-// Written PLAN //
-Boson and flash cards
+// Evolving technologies guide review //
 
-Evaluation
+- Who am I to review?
+    2 attempts at 1.0
+    0 attempts at 1.1
+    studying for written since 02/2018
+    read Nic Russo's guide
+    watched INE written videos
+
+- What is it?
+    amazon link
+    3 authors, one for each exam topic area
+    not in order
+    no written copy
+
+- Digging analogy
+    How deep to pass written exam?
+    How deep does this book go?
+    How does it compare?
+
+- Review of each topic area
+
+- Buy or don't buy?
+
+
+
+// Written PLAN //
+My own flash card set
+    sorry can't release to public
+
+Boson (all 500)
+    smart exam until pass
+    study all questions missed
 
 :: QUIZ TIME ::
+SNMP programmability is based on MIBs - NETCONF programmability is modeled after _________
 
 :: MEAT CHUNKS (links OTD):
+Cisco press guide:
+https://www.amazon.com/CCIE-Evolving-Technologies-Study-Guide-ebook/dp/B07K2B9HCH
+
+Nic Russo's study guide:
+https://learningnetwork.cisco.com/docs/DOC-31004
+
