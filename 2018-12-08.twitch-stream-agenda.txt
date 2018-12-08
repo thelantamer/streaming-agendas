@@ -16,14 +16,20 @@ day 337 - cisco press evolving technologies guide review
     not in order
     no written copy
 
-- Digging analogy
-    How deep to pass written exam?
-    How deep does this book go?
-    How does it compare?
-
-- Review of each topic area
-
 - Buy or don't buy?
+    PROS:
+    Well written content
+    Easy to understand
+    Seems to cover all major topic areas
+
+    CONS:
+    - Digging analogy
+        How deep to pass written exam?
+        How deep does this book go?
+        How does it compare?
+
+    Expensive!
+    Expected more in-depth content
 
 
 
@@ -39,6 +45,9 @@ Boson (all 500)
 SNMP programmability is based on MIBs - NETCONF programmability is modeled after _________
 
 :: MEAT CHUNKS (links OTD):
+Vote!
+http://bit.ly/2QKaw0E
+
 Cisco press guide:
 https://www.amazon.com/CCIE-Evolving-Technologies-Study-Guide-ebook/dp/B07K2B9HCH
 
