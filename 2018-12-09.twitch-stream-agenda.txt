@@ -1,0 +1,30 @@
+day 336 - finished evolving tech book, now what? - 27 days to go
+
+WOTD: Mojave wallpapers
+
+:: VLOG ::
+// Written PLAN //
+12/02 - 12/10: evolving technologies guide [DONE] learning matrix
+12/10 - re-evaluation and hit list
+12/10 - 01/01: review mode: boson, flash cards, networklessons 3.4-7
+
+written progress:
+- CCIE/CCDE evolving technologies book
+    IoT - done
+    cloud computing - done
+    network programmability - done
+
+DevNet labs
+    - iot lab
+
+
+What next?
+- learning matrix
+- devnet labs
+
+:: QUIZ TIME ::
+What is http response code for 'unauthorized'?
+
+:: MEAT CHUNKS (links OTD):
+VXLAN is still insecure:
+https://blog.ipspace.net/2018/11/omg-vxlan-is-still-insecure.html

@@ -1,4 +1,10 @@
-day 337 - cisco press evolving technologies guide review
+BOOK REVIEW: CCIE/CCDE Evolving Technologies Guide review
+
+Cisco press guide:
+https://www.amazon.com/CCIE-Evolving-Technologies-Study-Guide-ebook/dp/B07K2B9HCH
+
+Nic Russo's study guide:
+https://learningnetwork.cisco.com/docs/DOC-31004
 
 :: VLOG ::
 // Evolving technologies guide review //
@@ -30,27 +36,3 @@ day 337 - cisco press evolving technologies guide review
 
     Expensive!
     Expected more in-depth content
-
-
-
-// Written PLAN //
-My own flash card set
-    sorry can't release to public
-
-Boson (all 500)
-    smart exam until pass
-    study all questions missed
-
-:: QUIZ TIME ::
-SNMP programmability is based on MIBs - NETCONF programmability is modeled after _________
-
-:: MEAT CHUNKS (links OTD):
-Vote!
-http://bit.ly/2QKaw0E
-
-Cisco press guide:
-https://www.amazon.com/CCIE-Evolving-Technologies-Study-Guide-ebook/dp/B07K2B9HCH
-
-Nic Russo's study guide:
-https://learningnetwork.cisco.com/docs/DOC-31004
-
