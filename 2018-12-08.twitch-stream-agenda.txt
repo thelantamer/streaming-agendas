@@ -1,4 +1,4 @@
-BOOK REVIEW: CCIE/CCDE Evolving Technologies Guide review
+BOOK REVIEW: CCIE/CCDE Evolving Technologies Guide
 
 Cisco press guide:
 https://www.amazon.com/CCIE-Evolving-Technologies-Study-Guide-ebook/dp/B07K2B9HCH
