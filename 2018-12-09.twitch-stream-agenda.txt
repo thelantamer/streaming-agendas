@@ -14,6 +14,10 @@ Boson (all 500)
     study all questions missed
     missing them differently now ...
 
+    dscp <> cs <> binary <> hex <> af
+    ospfv3 lsa types
+    metroe product types
+
 eve-ng node limits
 
 :: QUIZ TIME ::
