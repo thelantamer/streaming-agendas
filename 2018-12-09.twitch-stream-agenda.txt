@@ -1,8 +1,9 @@
-day 338 - finished evolving tech book, now what? - 24 days to go
+day 338 - how do I know I'm ready for an exam? - 24 days to go
 
 WOTD: Mojave wallpapers
 
 :: VLOG ::
+stream bling update
 
 // Written PLAN //
 My own flash card set
@@ -11,6 +12,9 @@ My own flash card set
 Boson (all 500)
     smart exam until pass
     study all questions missed
+    missing them differently now ...
+
+eve-ng node limits
 
 :: QUIZ TIME ::
 SNMP programmability is based on MIBs - NETCONF programmability is modeled after _________
@@ -18,4 +22,3 @@ SNMP programmability is based on MIBs - NETCONF programmability is modeled after
 :: MEAT CHUNKS (links OTD):
 Vote!
 http://bit.ly/2QKaw0E
-
