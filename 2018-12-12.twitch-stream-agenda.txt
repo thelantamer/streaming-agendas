@@ -19,9 +19,3 @@ How are Route Targets propagated through the network?
 :: MEAT CHUNKS (links OTD):
 Vote!
 http://bit.ly/2QKaw0E
-
-asa dynamic dns filtering:
-https://giantsandrunts.com/2018/12/10/asa-dynamic-fqdn-filtering/
-
-dscp display in wireshark:
-https://www.mikrotik-routeros.com/2014/04/enabling-dscp-tos-display-column-in-wireshark/
