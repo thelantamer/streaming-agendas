@@ -1,21 +1,37 @@
-day 339 - the Boson grind - 23 days
+day 340 - azure network diagrams, boson grinding - 21 days
 
 WOTD: Mojave wallpapers
 
 :: VLOG ::
+Stream bling update
+
+shout out to dude4him
+
+community of peers
+
+azure network diagrams
+    google image search to the rescue
 
 // Written PLAN //
-My own flash card set
-    sorry can't release to public
-
-Boson (260 out of 500)
+Boson (350 out of 500)
     smart exam until pass
     study all questions missed
-    missing them differently now ...
 
 :: QUIZ TIME ::
-How are Route Targets propagated through the network?
+STP BPDU TCN header field sizes:
+Protocol Version - 1 byte or 2 bytes in size?
+    1 byte
+ BPDU Type - 1 or 2 bytes
+    1 byte
+ Protocol Identifier - 1 or 2 bytes
+    2 byte
 
 :: MEAT CHUNKS (links OTD):
 Vote!
 http://bit.ly/2QKaw0E
+
+Network Freestyle youtube channel:
+https://www.youtube.com/watch?v=3OPuBVWdT0k&feature=youtu.be
+
+Light kit:
+http://a.co/d/8qYOhbD
