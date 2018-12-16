@@ -1,26 +1,64 @@
-day 342 - Passed CCNP, want CCIE. Where do I start? - 17 days to go
+day 342 - I want to be a CCIE, how do I start? - 17 days to go
 
 :: VLOG ::
-How to begin CCIE journey?
-- How I started mine
-- Budget and purchase materials
-- INE videos on how to start
-- Read 3 books
+/// How to begin CCIE journey? ///
+- Caveats:
+  I'm not a CCIE (yet)
+  my journey so far
 
-Self-assessment and brutal honesty
+/ Decisions to be made /
+- Where are you at?
+    Self-assessment
+    Blueprints
+- CCNP first?
+- Written or/and Lab?
 
-shout out to dude4him
+/ Support system /
+    Family
+    Employer
+    Community
+        Study groups/partner
+        Cisco Live
+        User groups
+        Start a blog/vlog/stream
+
+/ Make a plan /
+    Treat like a project
+    Be ready to change plan
+    Just get started
+
+Phase 1 - reading
+    Internetworking with TCP/IP Vol I
+    TCP/IP Illustrated, Volume I
+    Interconnections: 2nd Edition. Bridges, Routers, Switches, and Internetworking Protocols
+Phase 2 - course material and basic labs
+    networklessons.com
+    INE videos
+    INE workbook
+Phase 3 - written-only areas
+    networklessons.com
+    INE written videos
+    Boson
+Phase 4 - lab-only areas
+    INE workbook
+    other workbooks?
+    boot camp(s)?
+
+/ Materials /
+    Books (safaribooksonline.com)
+    Courses with workbooks
 
 // Written PLAN //
 Self-assessment and blueprint
 - Boson feedback
 - Written fail feedback
 - Brutal honesty
+- My flash cards
 
-:: QUIZ TIME ::
+Calendar
 
+shout out to dude4him
 
-ANSWER: 
 
 :: MEAT CHUNKS (links OTD):
 Vote!
