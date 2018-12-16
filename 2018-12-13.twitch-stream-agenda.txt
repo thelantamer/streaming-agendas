@@ -7,16 +7,28 @@ Stream bling update - diffuser
 
 shout out to dude4him
 
+nothing can replace experience
+
 // Written PLAN //
 Boson (400 out of 500)
     smart exam until pass
     study all questions missed
     end exam tonight
 
+Tomorrow
+    mark up blueprint eval checklist
+
+Written fail notes
+    mark up blueprint eval checklist
+
+Saturday
+    attack plan for last xx days for those weak areas
+
 :: QUIZ TIME ::
-By default, which OSPF ABR performs Type 7 to Type 5 LSA translation for an NSSA?
+In an OSPF NSSA, with multiple ABRs, which ABR performs the Type 7 to Type 5 LSA translations?
 
 ANSWER: 
+Highest Router ID
 
 :: MEAT CHUNKS (links OTD):
 Vote!
