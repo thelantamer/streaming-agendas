@@ -4,6 +4,7 @@ day 342 - I want to be a CCIE, how do I start? - 17 days to go
 /// How to begin CCIE journey? ///
 - Caveats:
   I'm not a CCIE (yet)
+  Talking about R/S v 5.1
   my journey so far
 
 / Decisions to be made /
@@ -11,7 +12,7 @@ day 342 - I want to be a CCIE, how do I start? - 17 days to go
     Self-assessment
     Blueprints
 - CCNP first?
-- Written or/and Lab?
+- Written or/and Lab? **
 
 / Support system /
     Family
@@ -19,11 +20,11 @@ day 342 - I want to be a CCIE, how do I start? - 17 days to go
     Community
         Study groups/partner
         Cisco Live
-        User groups
+        User groups online
         Start a blog/vlog/stream
 
 / Make a plan /
-    Treat like a project
+    Treat like a project (includes budget)
     Be ready to change plan
     Just get started
 
@@ -45,8 +46,9 @@ Phase 4 - lab-only areas
     boot camp(s)?
 
 / Materials /
-    Books (safaribooksonline.com)
+    Books (safaribooksonline.com) via acm.org
     Courses with workbooks
+    Lab gear
 
 // Written PLAN //
 Self-assessment and blueprint
@@ -59,10 +61,15 @@ Calendar
 
 shout out to dude4him
 
+Quick redistribution lab
+bgp and external eigrp
+eigrp summary address AD
+
 
 :: MEAT CHUNKS (links OTD):
+PacketPushers:
+sponsorship proposal example for CCIE R/S:
+https://packetpushers.net/ccie-sponsorship-proposal-example/
+
 Vote!
 http://bit.ly/2QKaw0E
-
-Light kit:
-http://a.co/d/8qYOhbD
