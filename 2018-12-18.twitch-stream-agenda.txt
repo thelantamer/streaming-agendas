@@ -14,6 +14,19 @@ Brutal honesty
 :: TRIVIA ::
 - What is the infinity metric in RIP?
 
+[ BONUS ]
+T/F - multiple RIP summary statements are allowed on a single egress interface?
+
+router rip
+version 2
+no auto-summary
+int gi0/0
+ip summary-address rip 10.1.1.0 255.255.255.0
+ip summary-address rip 10.1.0.0 255.255.0.0
+
+10.1.0.0 255.255.0.0
+
+
 :: MEAT CHUNKS (links OTD)::
 livelabs3 giveaway:
 https://www.youtube.com/watch?v=dwdKbcWvV8Y

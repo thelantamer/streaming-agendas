@@ -1,0 +1,39 @@
+day 344 - Studycation begins! - 14 days til exam.
+
+:: VLOG ::
+Youtube bullying video coming
+
+// Written PLAN //
+- 5 days of intense study has begun!
+- Today
+    1.0 - Network principles
+    Drill sheet review/updates
+
+- RIP summary address lab
+
+    * R1 *
+    interface Loopback1
+    ip address 10.0.0.1 255.255.255.255
+    !
+    interface GigabitEthernet0/0
+    ip summary-address rip 10.0.0.0 255.255.255.0
+    ip summary-address rip 10.0.0.0 255.255.0.0
+
+
+    * R2 *
+    r2#show ip route rip
+        10.0.0.0/8 is variably subnetted, 3 subnets, 3 masks
+    R        10.0.0.0/16 [120/1] via 192.168.12.1, 00:00:16, GigabitEthernet0/0
+    R        10.0.0.0/24 [120/1] via 192.168.12.1, 00:01:46, GigabitEthernet0/0
+    R        10.0.0.1/32 [120/1] via 192.168.12.1, 00:02:06, GigabitEthernet0/0
+
+
+:: TRIVIA ::
+At ingress, how does a router know whether to use the FIB or LFIB for a forwarding decision?
+
+:: MEAT CHUNKS (links OTD)::
+Vote!
+http://bit.ly/2QKaw0E
+
+Excellent article on fragmentation and tunneling
+https://www.cisco.com/c/en/us/support/docs/ip/generic-routing-encapsulation-gre/25885-pmtud-ipfrag.html
