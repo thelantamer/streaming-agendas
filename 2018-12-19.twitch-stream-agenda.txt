@@ -1,7 +1,6 @@
 day 344 - Studycation begins! - 14 days til exam.
 
 :: VLOG ::
-Youtube bullying video coming
 
 // Written PLAN //
 - 5 days of intense study has begun!
@@ -19,7 +18,6 @@ Youtube bullying video coming
     ip summary-address rip 10.0.0.0 255.255.255.0
     ip summary-address rip 10.0.0.0 255.255.0.0
 
-
     * R2 *
     r2#show ip route rip
         10.0.0.0/8 is variably subnetted, 3 subnets, 3 masks
@@ -27,9 +25,10 @@ Youtube bullying video coming
     R        10.0.0.0/24 [120/1] via 192.168.12.1, 00:01:46, GigabitEthernet0/0
     R        10.0.0.1/32 [120/1] via 192.168.12.1, 00:02:06, GigabitEthernet0/0
 
-
 :: TRIVIA ::
 At ingress, how does a router know whether to use the FIB or LFIB for a forwarding decision?
+
+ANSWER: By the Ethertype and Protocol number
 
 :: MEAT CHUNKS (links OTD)::
 Vote!
