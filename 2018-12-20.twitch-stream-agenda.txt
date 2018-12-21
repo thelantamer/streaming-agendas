@@ -8,8 +8,18 @@ day 345 - Flash cards and more - 13 days to exam
     Drill sheet review/updates
     Many flash cards (261)
 
+    praise for cciein8weeks
+
+- acm.org 1 year subscription - $99/yr
+  safaribooksonline.com - many Cisco Press books
+    video instruction
+    thousands of technical books
+  skillsoft.com
+    cciein8weeks ($79)
+
 :: TRIVIA ::
 What is the size of a runt frame?
+  less than 68 bytes
 
 :: MEAT CHUNKS (links OTD)::
 Vote!
