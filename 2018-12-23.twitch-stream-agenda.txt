@@ -14,6 +14,11 @@ day 347 - NSSA and border-router advertisements - 10 days to exam
 // Written PLAN //
 - Today
     Blueprint: 5.0 - Infrastructure Security
+    Wrapping up 'study-cation', how did it go?
+
+// LAB: NSSA and ASBR router advertisements
+- Basic topology
+- Does translating ABR advertise a Type-4 LSA?
 
 :: TRIVIA ::
 T/F: IP source guard static bindings are created in global mode, not in interface configuration mode
