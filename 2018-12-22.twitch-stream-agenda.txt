@@ -1,0 +1,16 @@
+day 346 - Blueprint grind - 11 days to exam
+
+:: VLOG ::
+** correction **
+ runt frame IS less than 68 bytes
+ smallest ethernet frame is 68 bytes
+
+// Written PLAN //
+- Today
+  blueprintin'
+
+:: TRIVIA ::
+
+:: MEAT CHUNKS (links OTD)::
+Vote!
+http://bit.ly/2QKaw0E
