@@ -1,0 +1,23 @@
+day 347 - NSSA and border-router advertisements - 10 days to exam
+
+:: VLOG ::
+// EVE-NG PRO upgrade //
+- Version 2.0.4-98 to 2.0.4-107
+    - worked fine
+- Updates I'm interested in
+    - Cookbook upgrade (1.7)
+    - Improved lab loading speed
+    - Improved Database auto clean
+    - Monitor of remaining remaining disk space
+    - Auto SQL db backup
+
+// Written PLAN //
+- Today
+    Blueprint: 5.0 - Infrastructure Security
+
+:: TRIVIA ::
+T/F: IP source guard static bindings are created in global mode, not in interface configuration mode
+
+:: MEAT CHUNKS (links OTD)::
+Vote!
+http://bit.ly/2QKaw0E
