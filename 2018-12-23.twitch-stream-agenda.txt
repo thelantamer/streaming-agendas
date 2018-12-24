@@ -1,14 +1,14 @@
-day 347 - NSSA and border-router advertisements - 10 days to exam
+day 347 - LAB: NSSA and border-router advertisements - 10 days to exam
 
 :: VLOG ::
 // EVE-NG PRO upgrade //
-- Version 2.0.4-98 to 2.0.4-107
+- Version 2.0.4-98 to 2.0.4-108
     - worked fine
 - Updates I'm interested in
     - Cookbook upgrade (1.7)
     - Improved lab loading speed
     - Improved Database auto clean
-    - Monitor of remaining remaining disk space
+    - Monitor of remaining disk space
     - Auto SQL db backup
 
 // Written PLAN //
@@ -18,11 +18,13 @@ day 347 - NSSA and border-router advertisements - 10 days to exam
 
 // LAB: NSSA and ASBR router advertisements
 - Basic topology
-- Does translating ABR advertise a Type-4 LSA?
+- For an NSSA Does translating ABR advertise a Type-4 LSA into backbone?
+  No
 
 :: TRIVIA ::
 T/F: IP source guard static bindings are created in global mode, not in interface configuration mode
 
 :: MEAT CHUNKS (links OTD)::
-Vote!
-http://bit.ly/2QKaw0E
+NSSA and Type 4's:
+http://packetlife.net/blog/2008/apr/21/where-are-type-4-lsas-generated/
+
