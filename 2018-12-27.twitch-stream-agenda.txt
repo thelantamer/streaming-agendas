@@ -1,0 +1,34 @@
+day 348 - A review is never JUST a review - 6 days to exam
+
+:: VLOG ::
+- Blueprint 'reviews', more than just a review
+
+- Studying while traveling
+
+// Written PLAN //
+
+- Today
+    Flash Cards (up to 684)
+
+    Blueprint: 6.0 - Infrastructure Services
+        System Management, SNMP [ done ]
+        QoS [ done ]
+        Network Services: DHCP, NTP
+        IP SLA
+
+    Upcoming Schedule
+        Evolving Technologies review tomorrow
+    
+    4 remaining full days
+        in-depth review of weak areas (1 day)
+        flash cards
+        drill sheet
+        ocg questions
+        cciein8weeks questions
+
+:: TRIVIA ::
+T/F: mls QoS creates a priority queue for egress traffic by default, but not for ingress traffic
+
+:: MEAT CHUNKS (links OTD)::
+BannerMOTD channel, covering some QoS:
+https://www.youtube.com/watch?v=szZtGInCTvw
