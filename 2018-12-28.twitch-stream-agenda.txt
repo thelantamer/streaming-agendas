@@ -1,0 +1,33 @@
+day 349 - How to avoid feeling overwhelmed with ccie scope - 5 days to exam
+
+:: VLOG ::
+Neckercube flash cards and that feeling of being overwhelmed
+    - Take care using others' study materials
+
+// Written PLAN //
+
+- Today
+    Flash Cards (788)
+
+    Blueprint: 6.0 - Infrastructure Services
+        Network Services: DHCP, NTP [ done ]
+        IP SLA [ done ]
+        EEM [ done ]
+
+    Blueprint: 7.0 - Evolving Technologies
+        Cloud computing [ done ]
+        SDN and network programmability [ in progress ]
+
+
+    Upcoming Schedule
+        Flash Card and drill sheet reviews
+        ocg questions
+        cciein8weeks questions
+
+:: TRIVIA ::
+DIS election criteria
+
+ANSWER: FALSE
+
+:: MEAT CHUNKS (links OTD)::
+BGP wedgies: https://tools.ietf.org/html/rfc4264
