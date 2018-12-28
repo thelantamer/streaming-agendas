@@ -35,8 +35,9 @@ MLS QoS
     2 ingress queues
         queue 2 is the priority queue by default
     4 egress queues
-        int gi0/0
-        priority queue out [defaults to queue 1]
+        priority queue must be configured
+          int gi0/0
+          priority queue out [defaults to queue 1]
 
 :: MEAT CHUNKS (links OTD)::
 BannerMOTD channel, covering some QoS:
