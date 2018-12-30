@@ -1,0 +1,20 @@
+day 351 - final pieces of puzzle - 3 days to exam
+
+:: VLOG ::
+// Written PLAN //
+- Today
+    Flash cards and more flash cards
+        OSPF FA
+        OSPFv3 database
+
+    Upcoming Schedule
+        Flash Card and drill sheet reviews
+        weakest sections of blueprint
+        ocg questions
+        cciein8weeks questions
+        ine slides and review questions
+
+:: TRIVIA ::
+Under what conditions will LSA type 5 have non-zero address?
+
+:: MEAT CHUNKS (links OTD)::

@@ -14,7 +14,6 @@ day 350 - flash cards, smash cards - 4 days to exam
     Upcoming Schedule
         Flash Card and drill sheet reviews
             visual CCIE idea
-                eem
                 bgp conditional advertisements
         weakest sections of blueprint
         ocg questions
@@ -23,9 +22,11 @@ day 350 - flash cards, smash cards - 4 days to exam
 
 :: TRIVIA ::
 What separates Bidirectional PIM from other PIM routing methods?
-
+    - dense mode
+    - sparse mode
+    - SSM (source-specific multicast)
+    - bidirectional
 
 :: MEAT CHUNKS (links OTD)::
 EEM diagram:
 https://t.co/IjcJ6V5edq
-
