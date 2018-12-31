@@ -8,23 +8,19 @@ serenity now!
 // Written PLAN //
 - Today
     fail notes check
-
     Study rotation cycles: 30/20/10
-
         Flash card 'glancing'
         drill sheet glancing
-        test questions from
+
         ine end section videos
         cciein8weeks exam preparedness bits
         ocg questions
         boson
-
     Quick studies (weak list):
         BSR and Embedded RP
         AF and hex conversions
         cef adjacency table
         bgp conditional advertisements
-
     write-out page
 
 // Day-of plan //
