@@ -1,20 +1,36 @@
-day 351 - final pieces of puzzle - 3 days to exam
+day 351 - losing track of time - 3 days to exam
 
 :: VLOG ::
 // Written PLAN //
 - Today
-    Flash cards and more flash cards
-        OSPF FA
-        OSPFv3 database
+    Memorization drills and clarifications
+        Touched on every part of blueprint
+        puzzle coming together
 
-    Upcoming Schedule
-        Flash Card and drill sheet reviews
-        weakest sections of blueprint
-        ocg questions
-        cciein8weeks questions
-        ine slides and review questions
+- Next few days
+    Monday partial work day
+    Tuesday all day study day
+    written fail notes
+    my flash cards
+    ine test questions
+    cciein8weeks test questions
+    neckercube flash cards
+
+// Day-of plan //
+- logistics
+    printed out appointment
+    paper for notes afterwards
+    2 forms of ID
+    write-out page
 
 :: TRIVIA ::
-Under what conditions will LSA type 5 have non-zero address?
+T/F: DES is used for authentication when using the SNMPv3 AuthPriv option
+
+FALSE
+
+Auth = MD5, SHA
+
+Priv = encryption
+DES, 3DES, AES
 
 :: MEAT CHUNKS (links OTD)::
