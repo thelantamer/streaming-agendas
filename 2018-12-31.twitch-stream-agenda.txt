@@ -19,7 +19,9 @@ serenity now!
         ocg questions
         boson
 
-    Quick studies:
+    Quick studies (weak list):
+        BSR and Embedded RP
+        AF and hex conversions
         cef adjacency table
         bgp conditional advertisements
 
