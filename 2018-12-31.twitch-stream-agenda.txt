@@ -8,18 +8,19 @@ serenity now!
 // Written PLAN //
 - Today
     fail notes check
-    Study rotation cycles: 30/20/10
+    Study rotation cycles: 30/30
         Flash card 'glancing'
         drill sheet glancing
 
-        ine end section videos
+        ine end section videos [ in progress ]
         cciein8weeks exam preparedness bits
         ocg questions
         boson
+
     Quick studies (weak list):
         BSR and Embedded RP
-        AF and hex conversions
-        cef adjacency table
+        AF and hex conversions [ DONE ]
+        cef adjacency table [ DONE ]
         bgp conditional advertisements
     write-out page
 
@@ -42,5 +43,13 @@ serenity now!
     tutorial
         
 :: TRIVIA ::
+Which address families supported by MTR?
+
+MTR - Multiple Topology Routing
+service class - QoS-based routing
+
+IPv4 unicast, multiple
+IPv4 multicast, single global topology
+    vrf - multicast topology
 
 :: MEAT CHUNKS (links OTD)::
