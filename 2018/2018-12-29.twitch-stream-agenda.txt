@@ -1,0 +1,32 @@
+day 350 - flash cards, smash cards - 4 days to exam
+
+:: VLOG ::
+// Written PLAN //
+- Today
+    Blueprint: 7.0 - Evolving Technologies
+        SDN and network programmability [ done ]
+        IoT [ done ]
+
+    Flash cards and more flash cards
+        EEM
+        Spanning-tree portfast and BPDUs
+
+    Upcoming Schedule
+        Flash Card and drill sheet reviews
+            visual CCIE idea
+                bgp conditional advertisements
+        weakest sections of blueprint
+        ocg questions
+        cciein8weeks questions
+        ine slides and review questions
+
+:: TRIVIA ::
+What separates Bidirectional PIM from other PIM routing methods?
+    - dense mode
+    - sparse mode
+    - SSM (source-specific multicast)
+    - bidirectional
+
+:: MEAT CHUNKS (links OTD)::
+EEM diagram:
+https://t.co/IjcJ6V5edq

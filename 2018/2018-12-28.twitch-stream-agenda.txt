@@ -1,0 +1,48 @@
+day 349 - How to avoid feeling overwhelmed with ccie scope - 5 days to exam
+
+:: VLOG ::
+Neckercube flash cards and that feeling of being overwhelmed
+    - Take care using others' study materials
+
+// Written PLAN //
+- Today
+    Review process
+        review areas marked in blueprint
+        review material in one of several sources
+                networklessons.com
+                cciein8weeks (acm.org)
+                ocg (safaribooksonline)
+                own notes
+                cisco documentation
+            what do I still not know?
+            what do I need to memorize
+                create flash cards when needed (788)
+
+    Blueprint: 6.0 - Infrastructure Services
+        Network Services: DHCP, NTP [ done ]
+        IP SLA [ done ]
+        EEM [ done ]
+            created new diagram for 'set' option
+
+    Blueprint: 7.0 - Evolving Technologies
+        Cloud computing [ done ]
+        SDN and network programmability [ in progress ]
+
+    Upcoming Schedule
+        Flash Card and drill sheet reviews
+        ocg questions
+        cciein8weeks questions
+
+:: TRIVIA ::
+DIS - Designated Intermediate System
+IS-IS
+    shared link
+DIS election criteria
+    - interface priority (highest with 64 as the default)
+    - NSPA - Network Subnetwork Point of Attachment
+        Ethernet - mac address
+        Frame Relay interface - DLCI number
+            if DLCI is same number, tie breaker is system ID
+
+:: MEAT CHUNKS (links OTD)::
+BGP wedgies: https://tools.ietf.org/html/rfc4264
