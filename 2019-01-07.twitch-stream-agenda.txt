@@ -1,29 +1,20 @@
 day 354 - When should I take the lab exam?
 
 :: VLOG ::
-- yesterday missed stream
-    #konvert
+- video series turning into multiple parts
 
 - reviewing written fail notes
     small labs today, some pcaps
 
-- 2 videos upcoming
-    - how to pass the written
-    - this testing experience
-
 - lab plan
     1. WRITTEN unfinished business
-        confirm official score [ DONE ]
         reviewing fail notes, studying areas missed
-        will see it again before too long
-            scenarios
     2. set an arbitrary date and book lab
         easy to re-schedule?
     3. resume ine advanced technology workbook
     4. flash cards
 
 :: TRIVIA ::
-How frequently are CDP messages generated?
+
 
 :: MEAT CHUNKS (links OTD)::
-https://twitch.tv/dmfigol

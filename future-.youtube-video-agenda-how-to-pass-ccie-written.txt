@@ -1,39 +1,13 @@
-How to pass the CCIE RS written exam
+How to pass the CCIE RS written exam video series
 
-# two videos to cover the last written attempt
+# part 1: intro + strategy
+    #   intro and caveats
+        v5.1, evolving technologies v1.1
+        score 806
+        have not yet attempted lab
+        limited work experience with several protocols
+        Not a spring chicken anymore
 
-# caveats to this information
-    v5.1, evolving technologies v1.1
-    score 806
-    have not yet attempted lab
-    limited work experience with several protocols
-    Not a spring chicken anymore
-
-# how to pass? basically ... learn all the things
-    deep learning, no shortcuts
-    need to retain large amounts of information
-    focus on how you learn and what works best
-        https://www.coursera.org/learn/learning-how-to-learn
-        (Courtesy Tim McConnaughy, twitter @juangolbez)
-
-# own the blueprint
-    at expert level, no one source of information
-    must be knowledgeable of each level
-    you are ultimately responsible for knowing the topic to depth required
-    CCNA/P easy to 'adhere to vendor lesson plan'
-    understand, then memorize
-        understand
-            dig as deep as you need to
-            go down a rabbit hole if you have to, e.g. ASBR LSAs
-
-# grind
-    no magic unlock key here, folks
-    time
-    energy
-    money
-    patience/understanding from family and friends
-
-# original plan
     2 general methods
         - Prepare for written, not the lab
         - Prepare for lab, then take written
@@ -44,17 +18,30 @@ How to pass the CCIE RS written exam
     Advanced lab preparations
     Lab exam
 
-# execution and timeline
-    2015 Jan - Obtained CCNP
-    2015 summer - started reading
-    2016-2017 - life things (dating, move different state)
-    2017 summer - started INE workbook
-    2018 Feb - booked for Cisco Live, switched from workbook to preparing written
-    2018 June - 1st written fail
-    2018 July - 2nd written fail
-    2019 Jan - Written pass
+# part 2: learning
 
-# materials I used
+    Phase 1: learn the technology
+        # how to pass? basically ... learn all the things
+
+        # own the blueprint
+        at expert level, no one source of information
+        must be knowledgeable of each level
+        you are ultimately responsible for knowing the topic to depth required
+        CCNA/P easy to 'adhere to vendor lesson plan'
+        understand, then memorize
+            understand
+                dig as deep as you need to
+                go down a rabbit hole if you have to, e.g. ASBR LSAs
+
+        deep learning, no shortcuts
+        need to retain large amounts of information
+        focus on how you learn and what works best
+            https://www.coursera.org/learn/learning-how-to-learn
+            (Courtesy Tim McConnaughy, twitter @juangolbez)
+
+    Phase 2: trivial pursuit
+
+# part 3: materials
     # labbing
         INE ATC videos and workbook
             Don't recommend doing much labbing just for sake of written topics
@@ -90,18 +77,41 @@ How to pass the CCIE RS written exam
         Cisco documentation
         RFCs
 
-# what would I do differently?
+# part 4: Evolving Technologies
+
+
+# part 5: Mistakes to avoid
+    # what would I do differently?
+
+    2015 Jan - Obtained CCNP
+    2015 summer - started reading
+    2016-2017 - life things (dating, move different state)
+    2017 summer - started INE workbook
+    2018 Feb - booked for Cisco Live, switched from workbook to preparing written
+    2018 June - 1st written fail
+    2018 July - 2nd written fail
+    2019 Jan - Written pass
+
     stick to original plan
     2nd attempt was wasted
     more flash cards!
         READ THIS BLOG AND FOLLOW THIS ADVICE (courtesy Jedidiah Casey)
             https://neckercube.com/index.php/2017/08/09/today-i-passed-the-ccie-rs-v5-1-written-exam/
 
-# miscellany
     time management
         90 questions instead of 100 or 110
         almost ran out of time
             looked down and had 22 minutes with 25 questions to go
             3rd quartile
             4th quartile, ended with 5 seconds left
-    facility
+
+
+# part 6: execute the plan
+
+    # grind
+        no magic unlock key here, folks
+        time
+        energy
+        money
+        patience/understanding from family and friends
+    # don't cheat

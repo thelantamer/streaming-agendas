@@ -24,7 +24,7 @@ my experience with written exam
 
 # THE BAD
 - what is being tested?
-    ye ole' trivia complaint
+    trivial pursuit analogy
     test-taking intelligence vs protocol knowledge
     acronyms that is not listed on the blueprint
     question 'keywords'
@@ -41,6 +41,14 @@ my experience with written exam
     no practical way to provide feedback
     don't ask me to comment on specific questions with a time penalty
         - submitted last question with 5 seconds left
-    
+
+
+# HOW CAN IT BE BETTER?
 - why making this video?
     - see above
+- trivial pursuit
+    almost encouraging cheaters
+    incorporate exsim elements?
+    other types of questions that require written answers?
+    writing exercises?
+- better feedback system in exam
