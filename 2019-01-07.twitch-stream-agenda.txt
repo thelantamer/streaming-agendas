@@ -1,10 +1,12 @@
-day 354 - When should I take the lab exam?
+day 355 - back on the grind
 
 :: VLOG ::
 - video series turning into multiple parts
 
 - reviewing written fail notes
-    small labs today, some pcaps
+    cisco documentation
+    networklessons.com
+    cisco live presentations
 
 - lab plan
     1. WRITTEN unfinished business
@@ -15,6 +17,7 @@ day 354 - When should I take the lab exam?
     4. flash cards
 
 :: TRIVIA ::
-
+- user of icmp timestamp request and reply message?
+    ip sla icmp-jitter operations
 
 :: MEAT CHUNKS (links OTD)::
