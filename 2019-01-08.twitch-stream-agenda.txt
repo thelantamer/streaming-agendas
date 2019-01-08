@@ -1,0 +1,34 @@
+day 356 - Cisco Champions orientation
+
+:: VLOG ::
+- Cisco Champions orientation meeting today
+    one hour meeting
+    blogging club
+    webex room
+    feedback sessions
+    newsletter
+    beta testing
+    product pre-briefings
+    cisco champions radio podcasts
+
+- video series turning into multiple parts
+    still in progress
+
+- reviewing written fail notes
+    cisco documentation
+    networklessons.com
+    cisco live presentations
+
+- lab plan
+    1. WRITTEN unfinished business
+        reviewing fail notes, studying areas missed
+    2. set an arbitrary date and book lab
+        easy to re-schedule?
+    3. resume ine advanced technology workbook
+    4. flash cards
+
+:: TRIVIA ::
+
+:: MEAT CHUNKS (links OTD)::
+Github free private repos:
+https://blog.github.com/2019-01-07-new-year-new-github/
