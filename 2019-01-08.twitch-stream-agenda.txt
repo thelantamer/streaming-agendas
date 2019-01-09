@@ -4,12 +4,14 @@ day 356 - Cisco Champions orientation
 - Cisco Champions orientation meeting today
     one hour meeting
     blogging club
-    webex room
+    webex teams room
     feedback sessions
     newsletter
     beta testing
     product pre-briefings
     cisco champions radio podcasts
+
+- giveaway: "the quantum age of IT"
 
 - video series turning into multiple parts
     still in progress
@@ -27,7 +29,14 @@ day 356 - Cisco Champions orientation
     3. resume ine advanced technology workbook
     4. flash cards
 
+- congrats to @BannerMOTD on CCNA R/S certification
+
 :: TRIVIA ::
+- What is your best definition of jitter?
+    variation in latency
+    latency variance
+    delay variation
+    inter-packet delay
 
 :: MEAT CHUNKS (links OTD)::
 Github free private repos:
