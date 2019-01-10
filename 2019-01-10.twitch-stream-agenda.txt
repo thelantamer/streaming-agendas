@@ -1,0 +1,28 @@
+day 358 - Scheduling the lab exam
+
+:: VLOG ::
+Lab exam scheduling
+ - Richardson, TX is only US option already
+ - Looks like max of 5 seats, some days only have 1 available
+ - Can only schedule through May
+
+- multi-part video series on passing written
+    still in progress
+    'learning how to learn' course
+        Tim McC (twitter @juangolbez)
+
+- lab plan
+    1. WRITTEN notes review until weekend
+    2. set an arbitrary date and book lab
+    3. resume ine advanced technology workbook (multicast)
+    4. flash cards
+
+:: TRIVIA ::
+
+
+:: MEAT CHUNKS (links OTD)::
+IPv6 buzz new episode:
+https://packetpushers.net/podcast/ipv6-buzz-017-the-ipv6-year-in-review/
+
+IPv6 configurations on servers (APNIC):
+https://blog.apnic.net/2017/01/16/ipv6-configuration-approaches-servers/

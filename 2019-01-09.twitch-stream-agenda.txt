@@ -1,0 +1,34 @@
+day 357 - 'Learning how to learn' course
+
+:: VLOG ::
+- multi-part video series on passing written
+    still in progress
+    'learning how to learn' course
+        Tim McC (twitter @juangolbez)
+
+- lab plan
+    1. WRITTEN notes review until weekend
+    2. set an arbitrary date and book lab
+    3. resume ine advanced technology workbook (multicast)
+    4. flash cards
+
+- working in Azure with eve-ng community edition
+
+- giveaway: "the quantum age of IT"
+
+:: TRIVIA ::
+It is during this STP phase that port roles are determined
+ - disabled
+ - blocking
+ - listening
+ - learning
+ - forwarding / blocking
+
+    ANSWER: LISTENING
+
+:: MEAT CHUNKS (links OTD)::
+Wireshark update:
+https://www.wireshark.org/docs/relnotes/wireshark-2.6.6.html
+
+Learning how to learn on Coursera:
+https://www.coursera.org/learn/learning-how-to-learn
