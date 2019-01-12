@@ -1,6 +1,6 @@
 How to pass the CCIE RS written exam video series
 
-# part 1: intro + strategy
+# part 1: introduction, general strategy
     #   intro and caveats
         v5.1, evolving technologies v1.1
         score 806
@@ -8,55 +8,104 @@ How to pass the CCIE RS written exam video series
         limited work experience with several protocols
         Not a spring chicken anymore
 
-    2 general methods
-        - Prepare for written, not the lab
-        - Prepare for lab, then take written
-    Reading
-    Study for lab exam, lab through INE workbook
-    Go back and study written material
-    Take written exam
-    Advanced lab preparations
-    Lab exam
+    2 strategy first, general methods
+        Blueprint review
+        Prepare for written, not the lab
+        Prepare for lab, then take written
+        Depends on:
+            re-take or first attempt
+            experience level
+        You have to decide, the right way gets you that number
+            Either way, must know the blueprint for each
 
-# part 2: learning
+    project planning
+        time
+        communications
+        budget
 
-    Phase 1: learn the technology
-        # how to pass? basically ... learn all the things
+    plan your work, work your plan
+    this series applies to written, but ...
 
-        # own the blueprint
-        at expert level, no one source of information
-        must be knowledgeable of each level
-        you are ultimately responsible for knowing the topic to depth required
-        CCNA/P easy to 'adhere to vendor lesson plan'
-        understand, then memorize
-            understand
-                dig as deep as you need to
-                go down a rabbit hole if you have to, e.g. ASBR LSAs
+    my original plan
+        Reading
+        Study for lab exam, lab through INE workbook
+        Go back and study written material
+        Take written exam
+        Advanced lab preparations
+        Lab exam
 
-        deep learning, no shortcuts
-        need to retain large amounts of information
-        focus on how you learn and what works best
-            https://www.coursera.org/learn/learning-how-to-learn
+# part 2: learning to learn
+
+    focus on how you learn and what works best
+        https://www.coursera.org/learn/learning-how-to-learn
             (Courtesy Tim McConnaughy, twitter @juangolbez)
 
-    Phase 2: trivial pursuit
+
+    Phase 1 (concepts): learn and understand the technology [diffuse mode]
+        # how to pass? basically ... learn all the things
+            two phases
+            foundation
+            CCIE doing retake vs not yet passed
+
+        # what to learn? own the blueprint
+            at expert level, no one source of information
+            must be knowledgeable of each level
+            you are ultimately responsible for knowing the topic to depth required
+            CCNA/P easy to 'adhere to vendor lesson plan'
+            understand first, memorize later
+        # concepts
+            'be the salesperson'
+                why is this needed?
+                when should/shouldn't be used?
+            how does it compare/contrast with other solutions
+            dig as deep as you need to
+                go down a rabbit hole if you have to, e.g. ASBR LSAs
+
+    Phase 2 (trivial pursuit): [focus mode]
+        trivial pursuit analogy
+        deep learning, no shortcuts
+        need to retain large amounts of information
+        find gaps from phase 1
+            testing
+            go back as needed
+        add details
+        reinforce and retain knowledge
+        review, review, review
+
+    A few words about note-taking
+        Concept-phase
+            Mind mapping
+            drawings
+            drill sheet
+        Trivia phase
+            Drill sheet
+            Flash cards
 
 # part 3: materials
-    # labbing
+
+    CONCEPT PHASE
+    # labbing (depending on strategy chosen)
         INE ATC videos and workbook
             Don't recommend doing much labbing just for sake of written topics
-
     # video courses
-    INE Written video course
-        Good introduction to material and some advice
-        Good practice question videos
-    networklessons.com CCIE written course
-        Broadest topic coverage of all other courses
-        good explanations, visual teacher
-        videos, labs, captures
-    Pluralsight videos for MPLS & BGP (Joe Astorino)
-        Good intro to BGP and MPBGP
+        INE Written video course
+            Good introduction to material and some advice
+            Good practice question videos
+        networklessons.com CCIE written course
+            Broadest topic coverage of all other courses
+            good explanations, visual teacher
+            videos, labs, captures
+        Pluralsight videos for MPLS & BGP (Joe Astorino)
+            Good intro to BGP and MPBGP
+        Cisco Live On-Demand
+
+    # reading
+        Books
+            Book List
+        Nicholas Russo's evolving technologies guide
+            https://learningnetwork.cisco.com/docs/DOC-31004
     
+    TRIVIAL PURSUIT
     # review/practice
     Boson written practice exam
         500 questions
@@ -65,19 +114,23 @@ How to pass the CCIE RS written exam video series
         Some information is out-of-date
     cciein8weeks
         good summaries
-        good for final review or just 'another take'
-    
-    # reading
-        Books
-        Nicholas Russo's evolving technologies guide
-            https://learningnetwork.cisco.com/docs/DOC-31004
+        good for final review or just 'another take'    
         Safaribooksonline searches
             numerous books
             great IoT video series
-        Cisco documentation
-        RFCs
+    RFCs
+    Cisco documentation
 
-# part 4: Evolving Technologies
+# part 4: Evolving Technologies for CCIE/CCDE
+    New for everyone, retakes or first-timers
+    Same approach, concepts then details
+    materials
+        OCG
+        Nic Russo's guide
+        Safaribooksonline searches
+            IOT video series
+        Cisco Live On-Demand
+        Cisco documents
 
 
 # part 5: Mistakes to avoid
@@ -94,6 +147,7 @@ How to pass the CCIE RS written exam video series
 
     stick to original plan
     2nd attempt was wasted
+
     more flash cards!
         READ THIS BLOG AND FOLLOW THIS ADVICE (courtesy Jedidiah Casey)
             https://neckercube.com/index.php/2017/08/09/today-i-passed-the-ccie-rs-v5-1-written-exam/
