@@ -19,7 +19,6 @@ Lab exam scheduling
 
 :: TRIVIA ::
 
-
 :: MEAT CHUNKS (links OTD)::
 IPv6 buzz new episode:
 https://packetpushers.net/podcast/ipv6-buzz-017-the-ipv6-year-in-review/

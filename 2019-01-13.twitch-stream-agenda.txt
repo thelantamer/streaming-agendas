@@ -1,0 +1,23 @@
+day 360 - Overhauling how I lab
+
+:: VLOG ::
+# labbing plan changes
+
+BEFORE:
+VIRL on PC
+Loaded labs downloading from GIT
+INE workbook
+INE videos for learning
+
+NOW:
+eve-ng on PC or in Azure
+tftp for config management
+
+blueprint blueprint blueprint
+    understand new topics
+    memorization
+        more building
+        flash cards
+agile principles (time blocks, etc.)
+
+:: MEAT CHUNKS (links OTD)::
