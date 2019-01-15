@@ -1,0 +1,16 @@
+day 362 - TITLE
+
+:: VLOG ::
+# lab preparation
+- addressing,  DONE!
+- tftp base established, DONE!
+- clipboard issues with eve-ng community edition
+    to eliminate potential issues:
+    close linux windows
+    close down other windows
+    reset extension
+
+# INE workbook progress
+- still awaiting PIM tunneling start
+
+:: MEAT CHUNKS (links OTD)::

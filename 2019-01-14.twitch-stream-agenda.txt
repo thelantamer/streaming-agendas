@@ -1,0 +1,20 @@
+day 361 - It's harder to see in a cloud
+
+:: VLOG ::
+- Cloud visibility
+
+- What material for CCNP?
+
+# INE workbook progress
+- still awaiting PIM tunneling start
+
+# lab preparation
+- addressing
+
+:: MEAT CHUNKS (links OTD)::
+From NetworkPhil regarding Cisco SD-WAN presentation at network field day:
+https://networkphil.com/2019/01/14/cisco-sd-wan-on-ramp-to-the-cloud/
+
+Another pensive article from Jed Casey:
+https://www.thenetworkunion.com/content/5g-wan-services-and-business
+
