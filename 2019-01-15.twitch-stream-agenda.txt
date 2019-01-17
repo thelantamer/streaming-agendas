@@ -1,16 +1,27 @@
-day 362 - TITLE
+day 362 - back to multicast basics
 
 :: VLOG ::
+# no stream tomorrow
+
 # lab preparation
 - addressing,  DONE!
 - tftp base established, DONE!
+- private repo for cfg files, DONE!
 - clipboard issues with eve-ng community edition
     to eliminate potential issues:
     close linux windows
     close down other windows
     reset extension
 
-# INE workbook progress
-- still awaiting PIM tunneling start
+# lab progress notes
+- networklessons.com
+- books
+- videos
+- lab backup on multicast
+
+# labs
+- pim dense
 
 :: MEAT CHUNKS (links OTD)::
+How many CCIEs in the world?
+https://www.cbtnuggets.com/blog/2019/01/how-many-ccies-are-there-in-the-world/

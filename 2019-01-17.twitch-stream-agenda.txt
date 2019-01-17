@@ -1,0 +1,22 @@
+day 363 - awesome labbing tips from study buddy
+
+:: VLOG ::
+# lab tips
+  - kind of new to eve-ng for daily labbing
+  - amazing tips from @showipintbr (Tony E)
+  - advantage of streaming
+
+# lab progress notes - MULTICAST
+- mix of content, depending on circumstance
+    focus times (when not labbing)
+        network lessons
+        cisco docs (how to handle links?)
+        books
+    chores: videos (ine)
+
+# labs
+- pim dense
+
+:: MEAT CHUNKS (links OTD)::
+ine topology files for eve, all image types supported
+https://ipnet.xyz/2018/06/ines-ccie-rs-v5-topology-for-eve-ng/
