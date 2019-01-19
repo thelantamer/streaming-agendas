@@ -1,12 +1,6 @@
 day 363 - awesome labbing tips from study buddy
 
 :: VLOG ::
-# stream maintenance
-  - google drive deprecated
-  - chat commands updated/added
-
-# ciscodocsrage response!
-
 # video series
   - goal is this weekend, at least 2 videos
 
@@ -27,8 +21,6 @@ day 363 - awesome labbing tips from study buddy
 - pim dense mode with gre tunnel
 
 :: MEAT CHUNKS (links OTD)::
-ine topology files for eve, all image types supported
-https://ipnet.xyz/2018/06/ines-ccie-rs-v5-topology-for-eve-ng/
+Serverless architectures:
+https://martinfowler.com/articles/serverless.html
 
-Using github:
-http://adaptingit.com/making-pull-requests-and-other-things-in-github/
