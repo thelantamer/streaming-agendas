@@ -1,0 +1,44 @@
+Passing the CCIE RS written exam, part 1: strategy and planning
+
+    # series breakdown
+        part 1: intro, strategy, planning
+        part 2: learning to learn
+        part 3: what materials to use?
+        part 4: Evolving Technologies for CCIE/CCDE
+        part 5: Mistakes to avoid
+        part 6: execute the plan
+
+    # caveats
+        my experience, but you have to own it
+        v5.1, evolving technologies v1.1
+        score 806
+        have not yet attempted lab
+        limited work experience with several protocols
+        Not a spring chicken anymore
+
+    # strategy first, general methods
+        Pick your poison (first-timers)
+            Prepare for written, worry about lab later
+            Prepare for lab, circle back to written
+        My advice depends, mainly on experience level
+            Evaluate yourself with blueprints
+            Seek advice of mentor who knows your work
+            materials talk about courses that have intro
+        You have to decide, the right way gets you that number
+            Either way, must know the blueprint for each
+
+    # project planning
+        time
+        communications
+        budget
+
+    # plan your work, work your plan
+        this series applies to written, but ...
+
+    # my original plan vs execution
+        Reading
+        Study for lab exam, lab through INE workbook
+        Go back and study written material
+        Take written exam
+        Advanced lab preparations
+        Lab exam

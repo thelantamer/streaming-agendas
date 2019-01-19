@@ -1,21 +1,16 @@
-day 363 - awesome labbing tips from study buddy
+day 364 - low-level eve-ng lab editing
 
 :: VLOG ::
 # video series
   - goal is this weekend, at least 2 videos
 
 # lab tips
-  - kind of new to eve-ng for daily labbing
-  - amazing tips from @showipintbr (Tony E)
-  - advantage of streaming
+- delayed startup
+- editing unl files
+- eve-ng lab configs and 
 
 # lab progress notes - MULTICAST
-- mix of content, depending on circumstance
-    focus times (when not labbing)
-        network lessons
-        cisco docs (how to handle links?)
-        books
-    chores: videos (ine)
+
 
 # labs
 - pim dense mode with gre tunnel
