@@ -1,4 +1,6 @@
-# part 2: learning to learn
+/// Passing the CCIE RS Written Exam ///
+
+### part 2: learning to learn
 
 # how hard is it?
     don't underestimate difficulty
@@ -7,7 +9,7 @@
 
     - a 'CCNP plus'
     - something to get out of way before lab
-    - juts an IQ filter
+    - just an IQ filter
 
     don't disrespect it
         eat you for breakfast and spit you out
