@@ -1,21 +1,33 @@
-day 364 - low-level eve-ng lab editing
+day 364 - more labbing software hacks
 
 :: VLOG ::
 # video series
-  - goal is this weekend, at least 2 videos
+  - goal this weekend 2 videos, one down!
 
-# lab tips
+# content creator tweaks
+- channel tidyups
+- youtube thumbnails
+
+# lab 'hacks'
+- launching the lab in azure
+- synchronizing lab files across multiple instances (3)
+    - using git
+    - caveats with permissions
 - delayed startup
 - editing unl files
-- eve-ng lab configs and 
+- eve-ng lab config editing
 
 # lab progress notes - MULTICAST
-
+- sparse mode
+- pcaps added
+- many flash cards added
 
 # labs
 - pim dense mode with gre tunnel
 
 :: MEAT CHUNKS (links OTD)::
+How to pass the written, part 1:
+https://youtu.be/prv12OHd9i4
+
 Serverless architectures:
 https://martinfowler.com/articles/serverless.html
-
