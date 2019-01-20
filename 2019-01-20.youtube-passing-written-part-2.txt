@@ -1,0 +1,86 @@
+# part 2: learning to learn
+
+# how hard is it?
+    don't underestimate difficulty
+        this exam dares you
+        check pride at door
+
+    - a 'CCNP plus'
+    - something to get out of way before lab
+    - juts an IQ filter
+
+    don't disrespect it
+        eat you for breakfast and spit you out
+        mock you
+
+# how do I pass?
+    learn all the things 
+    no shortcuts, no substitutes
+    no silver bullet in this series
+    need to retain large amounts of information
+    tremendous breadth and width
+        - tactics that worked for lower level exams not enough
+        - most challenging exam in my career
+    before diving in, evaluate learning process
+    focus on how you learn and what works best
+    merits time up front
+    review some material on subject:
+
+        https://www.coursera.org/learn/learning-how-to-learn
+            (Courtesy Tim McConnaughy, twitter @juangolbez)
+
+    Two phases: conceptual and trivial
+
+# what to learn? 
+    at expert level, no one source of information
+        major difference with CCNP
+    own the blueprint
+    you are ultimately responsible for knowing the topic to depth
+    can't afford to skip (own mind will betray you!)
+
+# Phase 1 (concepts / diffuse mode): 
+    learn and understand the technology
+        'be the salesperson'
+            why is this needed?
+            when should/shouldn't be used?
+            how does it compare/contrast with other solutions
+            what are mechanics?
+    when you get stuck
+        dig as deep as you need to (do whatever it takes)
+        repitition
+        tenacious attitude
+            prepare for disappointment in materials
+            eliminate any traces of entitlement
+            scour as needed
+            RFCs anyone?
+            
+# Phase 2 (trivial pursuit / focus mode)
+    trivial pursuit analogy
+    find gaps from phase 1
+        testing
+        go back as needed
+    add details
+    reinforce and retain knowledge
+    review, review, review
+
+# Learning tools
+    Different for everyone (notes example)
+    Conceptualization
+        Mind mapping
+        drawings
+    Details
+        Drill sheet
+        Flash cards
+
+# Excellent blog posts about passing written exam:
+    Tim McConnaughy:
+    https://carpe-dmvpn.com/2018/07/09/my-ccie-journey-chapter-2-written-exam/
+
+    Jedidiah Casey:
+    https://neckercube.com/index.php/2017/08/09/today-i-passed-the-ccie-rs-v5-1-written-exam/
+
+    Coursera course on how to learn:
+    https://www.coursera.org/learn/learning-how-to-learn
+
+    Blueprints combined, with checklist:
+    http://bit.ly/2RlmdMx
