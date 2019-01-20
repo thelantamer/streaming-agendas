@@ -1,0 +1,16 @@
+day 365 - new yt series underway, pim sparse-dense mode
+
+:: VLOG ::
+# video series
+    met goal of 2 videos this weekend
+    keep it going
+
+# lab 'hacks'
+    lab startup is now fully scripted
+
+:: LAB ::
+    multicast sparse-dense mode
+
+:: MEAT CHUNKS (links OTD)::
+How to pass the written, part 2:
+https://youtu.be/0KwecUNHKwQ
