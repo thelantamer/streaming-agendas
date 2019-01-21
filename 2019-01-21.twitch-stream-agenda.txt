@@ -1,0 +1,19 @@
+day 366 - more pim trees
+
+:: VLOG ::
+# video series
+    video 3 is up, materials and cost
+
+# pim tree confusion
+    confusion with multicast routes
+    issue with topologies and igmp joins
+
+:: LAB ::
+    quick networklessons.com lab
+
+:: MEAT CHUNKS (links OTD)::
+How to pass the written, part 3:
+https://youtu.be/yE0ZmhFPk_I
+
+
+

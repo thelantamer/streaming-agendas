@@ -52,10 +52,9 @@
     cciein8weeks
         (part of acm.org sub)
         good summaries
-        good for final review or just 'another take'    
+        good for final review or just 'another take' 
         Safaribooksonline searches
             numerous books
-            great IoT video series
     RFCs
     Cisco documentation
 
