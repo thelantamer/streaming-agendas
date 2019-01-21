@@ -1,0 +1,65 @@
+/// Passing the CCIE RS Written Exam ///
+
+### part 3: materials and cost
+
+- materials list
+- relative value of item/recommendations
+- cost worksheet
+
+    CONCEPT PHASE
+    # reading
+        Books
+            My book list with Safari links
+            http://bit.ly/2HnUF4t
+            https://acm.org
+
+        Nicholas Russo's evolving technologies guide (free)
+            https://learningnetwork.cisco.com/docs/DOC-31004
+
+    # video courses    
+        INE Written video course
+        https://ine.com/collections/cisco-training/track-routing-switching+expert-level
+            Good introduction to material and some advice
+            Good practice question videos
+        
+        INE routing and switching practice workbook:
+           https://ine.com/collections/workbooks-1/products/ccie-routing-switching-workbook
+
+        networklessons.com CCIE written course
+            https://networklessons.com/cisco/ccie-routing-switching-written
+
+            Broadest topic coverage of all other courses
+            good explanations, visual teacher
+            videos, labs, captures
+        
+        Pluralsight videos for MPLS & BGP (Joe Astorino)
+            Good intro to BGP and MPBGP
+        
+        Cisco Live On-Demand Library
+            https://ciscolive.cisco.com/on-demand-library/?
+
+        Safaribooksonline (through acm.org)
+            Video searches (IoT, other evolving topics)
+
+    TRIVIAL PURSUIT
+    # review/practice
+    Boson written practice exam
+        http://www.boson.com/practice-exam/400-101-cisco-ccie-routing-switching-written-practice-exam
+        500 questions
+        Pinpoint your knowledge gaps
+        Excellent links to Cisco docs (when Cisco hasn't moved them)
+        Some information is out-of-date
+    cciein8weeks
+        (part of acm.org sub)
+        good summaries
+        good for final review or just 'another take'    
+        Safaribooksonline searches
+            numerous books
+            great IoT video series
+    RFCs
+    Cisco documentation
+
+# Related links
+
+    Blueprints combined, with checklist:
+    http://bit.ly/2RlmdMx
