@@ -4,7 +4,7 @@
 
 - materials list
 - relative value of item/recommendations
-- cost worksheet
+- cost worksheet: http://bit.ly/2B6iZT9
 
     CONCEPT PHASE
     # reading
