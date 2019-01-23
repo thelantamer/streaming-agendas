@@ -1,0 +1,14 @@
+day 367 - pim DR and forwarder elections
+
+:: VLOG ::
+# stickers are in
+
+# yum repos
+
+:: LAB ::
+    pim DR and forwarders
+    quick networklessons.com lab
+
+:: MEAT CHUNKS (links OTD)::
+How to pass the written, part 3:
+https://youtu.be/yE0ZmhFPk_I
