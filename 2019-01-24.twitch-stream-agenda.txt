@@ -1,20 +1,19 @@
-day 369 - more eve-ng tips
+day 369 - tunnels in tunnels in tunnels
 
 :: VLOG ::
 eve-ng tips
-
+    - new scripts repo
 
 Cisco Champions debrief
 
 APNIC article
 
-
 :: LAB ::
 pim tunnels
 
-:: QUIZ ::
-icmp pcap
-
 :: MEAT CHUNKS (links OTD)::
+New eve-ng scripts repo:
+https://github.com/thelantamer/evengtools.git
 
+Residential internet usage patterns:
 https://blog.apnic.net/2019/01/24/five-years-at-the-edge-recording-the-evolution-of-web-usage-from-an-isp/
