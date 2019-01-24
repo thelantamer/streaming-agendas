@@ -1,0 +1,14 @@
+day 368 - workbookin', pim tunnels
+
+:: VLOG ::
+playing with yum repos
+
+workbook progress!
+
+:: LAB ::
+pim tunnels
+
+:: QUIZ ::
+icmp pcap
+
+:: MEAT CHUNKS (links OTD)::
