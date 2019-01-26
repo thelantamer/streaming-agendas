@@ -1,0 +1,33 @@
+/// Passing the CCIE RS Written Exam ///
+ 
+### part 4: Evolving Technologies for CCIE/CCDE
+
+    Good luck
+
+    Applaud the endeavor, critical of execution
+
+    Will tell you my approach
+        70/10/40
+
+    materials
+        Nic Russo's guide
+            https://learningnetwork.cisco.com/docs/DOC-31004
+
+        OCG
+        https://www.oreilly.com/library/view/ccie-and-ccde/9780135170151/pref07.xhtml
+
+        Cisco's recommended learning resources:
+        https://learningnetwork.cisco.com/community/learning_center/ccie-ccde-evolving-technologies
+
+        Cisco Live On-Demand and links
+        Safaribooksonline searches
+            IOT video series
+
+
+### part 5: mistakes to avoid
+### part 6: execute the plan
+
+# Related links
+
+CCIE/CCDE Evolving Technologies:
+https://learningnetwork.cisco.com/community/learning_center/ccie-ccde-evolving-technologies

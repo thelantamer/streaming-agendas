@@ -3,10 +3,10 @@ day 369 - tunnels in tunnels in tunnels
 :: VLOG ::
 video series update
 
+Cisco Champions embargoed briefing
+
 eve-ng tips
     - new scripts repo
-
-Cisco Champions embargoed briefing
 
 APNIC article
 
@@ -14,8 +14,14 @@ APNIC article
 pim tunnels
 
 :: MEAT CHUNKS (links OTD)::
+Upcoming webinar 'art of a packet capture challenge':
+https://cloudshark.io/articles/art-of-pcap-challenges/
+
 New eve-ng scripts repo:
 https://github.com/thelantamer/evengtools.git
 
 Residential internet usage patterns:
 https://blog.apnic.net/2019/01/24/five-years-at-the-edge-recording-the-evolution-of-web-usage-from-an-isp/
+
+Cisco white paper on Auto RPs:
+https://www.cisco.com/c/en/us/td/docs/ios/solutions_docs/ip_multicast/White_papers/rps.html

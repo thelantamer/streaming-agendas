@@ -1,0 +1,18 @@
+day 370 - 
+
+:: VLOG ::
+video series update
+
+Cisco Champions embargoed briefing
+
+eve-ng tips
+    - new scripts repo
+
+APNIC article
+
+:: LAB ::
+pim tunnels
+
+:: MEAT CHUNKS (links OTD)::
+Cisco doc on load splitting/load balancing in multicast:
+https://www.cisco.com/c/en/us/td/docs/ios/12_4t/ip_mcast/configuration/guide/mctlsplt.html#wp1057306
