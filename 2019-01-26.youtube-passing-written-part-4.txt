@@ -26,8 +26,3 @@
 
 ### part 5: mistakes to avoid
 ### part 6: execute the plan
-
-# Related links
-
-CCIE/CCDE Evolving Technologies:
-https://learningnetwork.cisco.com/community/learning_center/ccie-ccde-evolving-technologies
