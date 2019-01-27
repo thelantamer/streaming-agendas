@@ -1,21 +1,25 @@
 day 370 - 
 
 :: VLOG ::
-video series update
+Part 4 posted 'evolving technologies' posted
 
-Cisco Champions embargoed briefing
-
-eve-ng tips
-    - new scripts repo
-
-APNIC article
+Deeper review of unicast multipathing
 
 :: LAB ::
-pim tunnels
+
 
 :: MEAT CHUNKS (links OTD)::
+Passing written part 4: 'evolving technologies':
+https://youtu.be/3plqGdhFgfc
+
+GNS3 in Azure:
+https://youtu.be/4pbGQP_OOyc
+
 Cisco doc on load splitting/load balancing in multicast:
 https://www.cisco.com/c/en/us/td/docs/ios/12_4t/ip_mcast/configuration/guide/mctlsplt.html#wp1057306
 
 QoS trends:
 https://www.netcraftsmen.com/the-changing-cisco-qos-environment/?ck_subscriber_id=182962599
+
+SSH login without password:
+http://www.linuxproblem.org/art_9.html
