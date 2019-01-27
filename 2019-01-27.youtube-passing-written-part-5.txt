@@ -1,0 +1,31 @@
+/// Passing the CCIE RS Written Exam ///
+ 
+### part 5: Mistakes I made
+
+Failed twice
+
+# Mistake 1: shift strategies for a free exam
+
+2017 summer - started INE workbook
+2018 Feb - approved Cisco Live, switched from workbook (halfway) to preparing written
+2018 June - 1st written fail
+2018 July - 2nd written fail
+2019 Jan - Written pass
+
+- Cisco Live exams for re-certs or tracks you're considering
+
+# Mistake 2: pre-mature retake for attempt 2
+
+# Mistake 3: better focus on learning methods and memorization
+
+READ THIS BLOG AND FOLLOW THIS ADVICE (courtesy Jedidiah Casey):
+https://neckercube.com/index.php/2017/08/09/today-i-passed-the-ccie-rs-v5-1-written-exam/
+
+Anki software: https://apps.ankiweb.net
+
+# Mistake 4: steadfast time management during exam
+90 questions instead of 100 or 110
+almost ran out of time
+looked down and had 22 minutes with 25 questions to go
+3rd quartile
+4th quartile, ended with 5 seconds left
