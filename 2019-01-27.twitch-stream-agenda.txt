@@ -1,7 +1,7 @@
-day 370 - 
+day 370 - multicast candidate RP filter
 
 :: VLOG ::
-Part 4 posted 'evolving technologies' posted
+Parts 4 and 5 posted
 
 Deeper review of unicast multipathing
 
