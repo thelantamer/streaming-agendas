@@ -1,0 +1,15 @@
+day 371 - plowing through multicast labs
+
+:: VLOG ::
+- session with show
+
+
+:: LAB ::
+
+
+:: MEAT CHUNKS (links OTD)::
+New streamer!:
+https://www.twitch.tv/justprens
+
+Unix toolbox from @casadix:
+http://cb.vu/unixtoolbox.xhtml
