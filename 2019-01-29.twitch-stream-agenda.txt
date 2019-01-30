@@ -1,11 +1,13 @@
 day 371 - plowing through multicast labs
 
 :: VLOG ::
-- session with show
-
+- session with @showipintbri
+- troubleshooting multicast: traverse the trees
+    DENSE: start at sender and work down
+    SPARSE: start at receiver(s) and work way up
 
 :: LAB ::
-
+mapping agents
 
 :: MEAT CHUNKS (links OTD)::
 New streamer!:
