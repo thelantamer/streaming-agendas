@@ -1,0 +1,15 @@
+day 372 - it's come down to reading command refs
+
+:: VLOG ::
+- command reference help for certain labs
+- new drawing for command restrictions
+- Auto-RP: check
+- BSR: check
+
+:: LAB ::
+Stub mutlicast routing
+
+:: MEAT CHUNKS (links OTD)::
+IP multicast command reference:
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti/command/imc-cr-book/imc_i2.html#wp6515743030
+
