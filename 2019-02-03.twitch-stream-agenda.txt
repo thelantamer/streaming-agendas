@@ -1,0 +1,18 @@
+day 373 - the wonderful world of IGMP
+
+:: VLOG ::
+- lab progress
+- igmp drawing
+
+:: LAB ::
+- igmp timers
+
+:: MEAT CHUNKS (links OTD)::
+New static website link for streamer list:
+https://thelantamer.github.io/
+
+Simple static site hosting:
+https://jekyllrb.com
+
+Chart on IGMP values:
+https://www.ccexpert.us/routing-switching/timers-used-in-igmpvl-and-igmpv2.html

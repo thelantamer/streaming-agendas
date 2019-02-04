@@ -1,0 +1,18 @@
+day 374 - SSM, Multicast BGP
+
+:: VLOG ::
+- igmp round-out
+- bidirectional pim
+- ssm
+
+:: LAB ::
+- ssm
+
+:: MEAT CHUNKS (links OTD)::
+
+
+Simple static site hosting:
+https://jekyllrb.com
+
+Chart on IGMP values:
+https://www.ccexpert.us/routing-switching/timers-used-in-igmpvl-and-igmpv2.html
