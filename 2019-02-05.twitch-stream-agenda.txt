@@ -1,0 +1,11 @@
+day 375 - Multicast BGP
+
+:: VLOG ::
+- igmp round-out
+- bidirectional pim
+- ssm
+
+:: LAB ::
+- ssm
+
+:: MEAT CHUNKS (links OTD)::

@@ -9,7 +9,11 @@ day 374 - SSM, Multicast BGP
 - ssm
 
 :: MEAT CHUNKS (links OTD)::
+Adam From the Future's new vlog channel:
+https://www.youtube.com/channel/UCvxtmyssCxwkosMF0y5pG7Q
 
+Network streamers list now in Azure URL:
+https://networkstreamers.azurewebsites.net/
 
 Simple static site hosting:
 https://jekyllrb.com
