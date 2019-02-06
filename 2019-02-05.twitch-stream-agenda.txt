@@ -1,11 +1,10 @@
 day 375 - Multicast BGP
 
 :: VLOG ::
-- igmp round-out
-- bidirectional pim
-- ssm
+- azure fun
+- great lab
 
 :: LAB ::
-- ssm
+multicast bgp
 
 :: MEAT CHUNKS (links OTD)::

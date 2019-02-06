@@ -1,0 +1,11 @@
+day 376 - IGMP snooping
+
+:: VLOG ::
+- more azure fun with automation accounts
+- let's finish multicast!
+- blueprint review
+
+:: LAB ::
+igmp snooping
+
+:: MEAT CHUNKS (links OTD)::
