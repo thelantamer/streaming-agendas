@@ -1,11 +1,9 @@
-day 376 - IGMP snooping
+day 376 - Multicast is done! Review time.
 
 :: VLOG ::
 - more azure fun with automation accounts
-- let's finish multicast!
+- last multicast labs
 - blueprint review
-
-:: LAB ::
-igmp snooping
+- flash cards
 
 :: MEAT CHUNKS (links OTD)::

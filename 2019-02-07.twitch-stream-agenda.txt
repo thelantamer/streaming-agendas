@@ -1,0 +1,8 @@
+day 377 - Hello IPv6, let's go!
+
+:: VLOG ::
+- flash cards
+- ipv6 fun
+- power of vs code, fixing initial configs
+
+:: MEAT CHUNKS (links OTD)::
