@@ -1,8 +1,13 @@
 day 377 - Hello IPv6, let's go!
 
 :: VLOG ::
-- flash cards
-- ipv6 fun
 - power of vs code, fixing initial configs
+- ipv6 fun
+- ipv6 solicited node multicast addressing
+
+:: LABS ::
+- ipv6 
 
 :: MEAT CHUNKS (links OTD)::
+Solicited node multicast addressing:
+https://www.networkingwithfish.com/understanding-ipv6-solicited-node-multicast-in-action-part-7-of-7/

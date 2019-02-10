@@ -1,0 +1,17 @@
+day 378 - cautionary tale about downloading configs
+
+:: VLOG ::
+- cruising through labs
+- limited information
+    impact on use of workbook
+- lesson learned on config downloads
+
+:: LABS ::
+- eigrp
+
+:: MEAT CHUNKS (links OTD)::
+Tools pre-installed in CloudShell:
+https://docs.microsoft.com/en-us/azure/cloud-shell/features?irgwc=1&OCID=AID681541_aff_7795_1243925&tduid=(ir__gg2try0ko20lxpfpgtzvyxuzi32xhc90rvygjifv00)(7795)(1243925)(je6NUbpObpQ-c3RFLLCJX1uIoSXTiK42Sg)()&irclickid=_gg2try0ko20lxpfpgtzvyxuzi32xhc90rvygjifv00
+
+Best practices to consider before deploying a network virtual appliance:
+https://azure.microsoft.com/en-us/blog/best-practices-to-consider-before-deploying-a-network-virtual-appliance/

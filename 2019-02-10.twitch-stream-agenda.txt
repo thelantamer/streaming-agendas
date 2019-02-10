@@ -1,0 +1,10 @@
+day 379 - ipv6 redistribution fun
+
+:: VLOG ::
+- eigrpv6 done
+- ospfv3 done
+
+:: LABS ::
+- ospfv3 redistribution
+
+:: MEAT CHUNKS (links OTD)::
