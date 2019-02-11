@@ -1,8 +1,10 @@
-day 380 - 
+day 380 - IPv6 MP-BGP
 
 :: VLOG ::
+- ipv6 traffic-filter lab done
 
 :: LABS ::
+ipv6 mp-bgp
 
 :: MEAT CHUNKS (links OTD)::
 Glut of cloud certifications?
