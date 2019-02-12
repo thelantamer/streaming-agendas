@@ -1,0 +1,10 @@
+day 381 - IPv6 multicast routing
+
+:: VLOG ::
+ipv6 multicast
+
+:: LABS ::
+- ipv6 pim and mld
+- ipvt pim bsr
+
+:: MEAT CHUNKS (links OTD)::
