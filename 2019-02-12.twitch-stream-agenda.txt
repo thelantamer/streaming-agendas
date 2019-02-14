@@ -5,6 +5,6 @@ ipv6 multicast
 
 :: LABS ::
 - ipv6 pim and mld
-- ipvt pim bsr
+- ipv6 pim bsr
 
 :: MEAT CHUNKS (links OTD)::

@@ -1,0 +1,10 @@
+day 382 - ipv6 pim ssm
+
+:: VLOG ::
+ipv6 pim embedded-rp
+catching up on flash cards
+
+:: LABS ::
+- ipv6 ssm
+
+:: MEAT CHUNKS (links OTD)::
