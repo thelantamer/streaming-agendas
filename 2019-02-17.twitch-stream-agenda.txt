@@ -1,0 +1,21 @@
+day 383 - ipv6 isatap tunneling
+
+:: VLOG ::
+ipv6 6-to-4 lab
+    comprehension delay
+    now fixed!
+    how did I fix it?
+hex conversion work, flash cards
+QoS kick-off
+    careful with pacing
+community contacts and shout-outs
+
+:: LABS ::
+- ipv6 isatap tunnel
+
+:: MEAT CHUNKS (links OTD)::
+Bombals' interview of Dmitry Figol:
+https://youtu.be/U9hw0gustB8
+
+Adam From the Future vlogging/labbing channel:
+https://www.youtube.com/channel/UCvxtmyssCxwkosMF0y5pG7Q

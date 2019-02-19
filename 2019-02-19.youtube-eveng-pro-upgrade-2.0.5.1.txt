@@ -1,0 +1,16 @@
+REVIEW: EVE-NG PRO version 2.0.5-1 Upgrade (2019-Feb-18)
+
+:: UPGRADE ::
+Simple process, same as other upgrades
+Version 2.0.4-107 -> 2.0.5-1
+About an hour overall
+
+:: FEATURES ::
+- New CookBook v1.8
+- Improved lab loading speed
+- Lab locking and encryption
+- Task feature with rich text
+
+- Other fixes
+
+Ref: http://eve-ng.net

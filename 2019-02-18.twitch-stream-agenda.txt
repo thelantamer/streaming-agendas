@@ -1,0 +1,12 @@
+day 384 - QoS classification, eve-ng pro update
+
+:: VLOG ::
+ipv6 done! (for now)
+blueprint review
+my approach for labbing QoS
+eve-ng pro update
+
+:: LABS ::
+- QoS classification and marking
+
+:: MEAT CHUNKS (links OTD)::
