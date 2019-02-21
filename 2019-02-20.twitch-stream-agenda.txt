@@ -1,0 +1,14 @@
+day 386 - QoS CBWFQ study
+
+:: VLOG ::
+terminal tricks in vs code
+networklessons and anki flash cards
+QoS has begun in earnest
+    - continuity problems
+
+:: LABS ::
+- QoS CBWFQ
+
+:: MEAT CHUNKS (links OTD)::
+Eve-ng pro upgrade, new features video:
+https://youtu.be/m6jRexNC2cQ

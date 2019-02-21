@@ -1,0 +1,12 @@
+day 385 - QoS classification and marking
+
+:: VLOG ::
+QoS has begun in earnest
+networklessons and anki flash cards
+
+:: LABS ::
+- QoS classification and marking
+
+:: MEAT CHUNKS (links OTD)::
+Eve-ng pro upgrade, new features video:
+https://youtu.be/m6jRexNC2cQ
