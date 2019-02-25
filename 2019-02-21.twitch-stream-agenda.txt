@@ -1,0 +1,20 @@
+day 387 - QoS single rate, 3-color policer
+
+:: VLOG ::
+Starting with policing
+    single rate, 2 color [1 token bucket]
+    single rate, 3 color [2 token buckets]
+    dual rate, 3 color [2 token buckets]
+
+For calculating Be bucket amount
+
+128,000 CIR
+Be bucket = % of CIR to exceed, another % of CIR to violate
+% is calculated as a time value (fractions of a second)
+
+:: LABS ::
+- Single Rate 3-color policer
+
+:: MEAT CHUNKS (links OTD)::
+Kevin Wallace QoS explanation video:
+https://www.youtube.com/watch?v=tEaLVpoayQQ

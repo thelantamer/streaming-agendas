@@ -1,0 +1,18 @@
+day 388 - Which books for CCIE RS? QoS hierarchical
+
+:: VLOG ::
+Good topic list for books
+    networklessons.com
+    didn't realize no login required
+New approach for QoS topic study
+    was floundering
+    needed more methodical study method
+    answer: QoS Exam Certification Guide
+        Do I already know this quizzes
+
+:: LABS ::
+
+
+:: MEAT CHUNKS (links OTD)::
+Networklessons CCIE RS reading list:
+https://networklessons.com/cisco/ccie-routing-switching/cisco-ccie-rs-book-reading-list

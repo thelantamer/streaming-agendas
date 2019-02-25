@@ -1,0 +1,21 @@
+day 389 - QoS Exam Certification Guide goodness
+
+:: VLOG ::
+QoS Exam Guide review going well
+    - chapter coverage
+        qos overview
+        qos tools and architecture
+        classification and marking
+
+    - skimming
+
+    - current chapter 5: congestion management
+
+    - anki flash card creation
+
+:: LABS ::
+
+
+:: MEAT CHUNKS (links OTD)::
+Nice blog on BGP peer-groups vs templates:
+https://www.mvankleij.nl/post/bgp-peer-groups-vs-templates/
