@@ -1,0 +1,13 @@
+day 390 - QoS Exam Guide, queueing
+
+:: VLOG ::
+Azure snapshots, blob storage and powershell
+
+QoS Exam Guide review going well
+    - current chapter 5: congestion management
+        WFQ
+
+:: LABS ::
+
+
+:: MEAT CHUNKS (links OTD)::
