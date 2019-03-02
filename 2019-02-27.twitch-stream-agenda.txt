@@ -6,8 +6,12 @@ QoS Exam Guide review going well
         CBWFQ
         LLQ
 
-- network documentation
+- labbing all learned technologies on weekends for review
+
+- network documentation [ Discord ]
 
 :: LABS ::
 
 :: MEAT CHUNKS (links OTD)::
+From Bashimashi, validated design for Viptela:
+https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/SDWAN/CVD-SD-WAN-Design-2018OCT.pdf

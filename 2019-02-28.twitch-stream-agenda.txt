@@ -1,0 +1,23 @@
+day 392 - QoS Exam Guide, policing and shaping
+
+:: VLOG ::
+QoS Exam Guide review going well
+  Chapter 5: congestion management - done!
+  Chapter 6: traffic policing and shaping - starting
+
+  Another possible resource
+
+- unable to lab queueing, shaping required! bummer
+
+- labbing all learned technologies on weekends for review
+
+- stream issues
+
+:: LABS ::
+
+:: MEAT CHUNKS (links OTD)::
+Cisco Live US 2019 here before you know it!: 
+https://blog.noblinkyblinky.com/2019/02/21/tips-for-attending-cisco-live-2019/
+
+Wireshark 3.0.0 released:
+https://www.wireshark.org/docs/relnotes/wireshark-3.0.0.html

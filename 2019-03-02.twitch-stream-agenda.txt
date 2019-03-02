@@ -1,0 +1,17 @@
+day 393 - Foundation lab day
+
+:: VLOG ::
+QoS Exam Guide review going well
+  Chapter 6: traffic policing and shaping - working
+
+GNS3 update 
+
+:: LABS ::
+Foundation lab 1
+
+:: MEAT CHUNKS (links OTD)::
+Cisco Live US 2019 here before you know it!: 
+https://blog.noblinkyblinky.com/2019/02/21/tips-for-attending-cisco-live-2019/
+
+Tools vs languages:
+http://ipengineer.net/2019/02/automation-tools-vs-languages/?ck_subscriber_id=182962599
