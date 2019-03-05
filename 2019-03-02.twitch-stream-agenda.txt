@@ -1,10 +1,12 @@
-day 393 - Foundation lab day
+day 393 - Foundation lab day, Cisco Live or bust
 
 :: VLOG ::
 QoS Exam Guide review going well
   Chapter 6: traffic policing and shaping - working
 
-GNS3 update 
+Cisco Live updates
+
+GNS3 update
 
 :: LABS ::
 Foundation lab 1
