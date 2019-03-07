@@ -1,9 +1,11 @@
 day 397 - Exam guide: still shaping and policing!
 
 :: VLOG ::
+- CLUS registration
 - caught up on flash cards
 - reading
-- CLUS registration
+    use cases for shaping/policing
+    egress blocking
 
 :: LABS ::
 
