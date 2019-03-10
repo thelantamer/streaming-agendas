@@ -20,7 +20,7 @@ def get_filename_date_yesterday():
     return str(date.today() - timedelta(days=1)) + ".twitch-stream-agenda.txt"
 
 # Get full path for writing.
-path = "/Users/qdd/Google Drive/git/streaming-agendas/"
+path = "/Users/qdd/Sync/git/streaming-agendas/"
 print("PATH", path)
 
 # display yesterday's filename
