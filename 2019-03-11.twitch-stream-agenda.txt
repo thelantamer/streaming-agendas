@@ -1,0 +1,12 @@
+day 401 - More Cisco Live prep, QoS study
+
+:: VLOG ::
+- Flight done, working on lodging
+- QoS study
+
+:: LABS ::
+[ none, study phase ]
+
+:: MEAT CHUNKS (links OTD)::
+Packet Pushers, spanning tree:
+https://www.youtube.com/watch?v=_YxyQumO2wg

@@ -2,7 +2,6 @@ day 400 - INE foundation lab 1 hour 4
 
 :: VLOG ::
 - 400 days
-- 
 
 :: LABS ::
 - INE foundation lab #1, continued
