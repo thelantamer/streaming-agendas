@@ -1,8 +1,10 @@
-day 402 - flash card grindin'
+day 403 - QoS shaping Be (Excess Burst)
 
 :: VLOG ::
+- yesterday's stream upload
 - powershell
 - QoS study
+- networklessons topics
 
 :: LABS ::
 [ none, study phase ]
