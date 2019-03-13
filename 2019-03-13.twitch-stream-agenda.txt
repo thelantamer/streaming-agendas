@@ -1,0 +1,12 @@
+day 402 - flash card grindin'
+
+:: VLOG ::
+- powershell
+- QoS study
+
+:: LABS ::
+[ none, study phase ]
+
+:: MEAT CHUNKS (links OTD)::
+Packet Pushers, spanning tree:
+https://www.youtube.com/watch?v=_YxyQumO2wg

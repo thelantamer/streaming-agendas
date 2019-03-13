@@ -1,0 +1,10 @@
+day 395 - Labbing weekend recap then back to QoS shaping
+
+:: VLOG ::
+- review of day 1 foundation lab
+- Cisco Champions blogging club mtg Wed
+
+:: LABS ::
+
+
+:: MEAT CHUNKS (links OTD)::
