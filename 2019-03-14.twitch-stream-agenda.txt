@@ -1,10 +1,10 @@
-day 404 - policing review, plus pythons!
+day 404 - policing review, python things
 
 :: VLOG ::
-- fun with python today
+- fun with python
 - fun with azure files
 - QoS study
-- flash cards paying off
+- flash cards paying
 
 :: LABS ::
 [ none, study phase ]
@@ -12,3 +12,6 @@ day 404 - policing review, plus pythons!
 :: MEAT CHUNKS (links OTD)::
 Tony E's interview of new CCIE:
 https://youtu.be/17iEGxC-04k
+
+Good and bad exam questions:
+https://datacenteroverlords.com/2019/03/12/certification-exam-questions-that-i-hate/
