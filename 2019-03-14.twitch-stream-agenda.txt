@@ -10,4 +10,5 @@ day 404 - policing review, plus pythons!
 [ none, study phase ]
 
 :: MEAT CHUNKS (links OTD)::
-- Azure 
+Tony E's interview of new CCIE:
+https://youtu.be/17iEGxC-04k

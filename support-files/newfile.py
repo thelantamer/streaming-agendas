@@ -1,41 +1,45 @@
 # /usr/bin/python python
 """
 Script to create today's streaming agenda file from yesterday's
-works for Mac OS X or Linux for file
+works for Mac OS X or Linux
 agenda-update.py
 """
 
 ### import modules ###
 
+# modules to get current date and time
 from datetime import date, timedelta
+# os copyfile function
 from shutil import copyfile
-# regex library
+# regex library for searching within file
 import re
-# import os to launch file open at tend
-import os
+# check if file exists
+import os.path
 
-### declare variables ###
 
+# variable for working path
+path = "/Users/qdd/Sync/git/streaming-agendas/"
+
+# determine last agenda file to copy from
+
+
+### file naming variables based on dates ###
 # filename for today's date
 def filename_today():
     # Use current date to get a text file name.
     return str(date.today()) + ".twitch-stream-agenda.txt"
 
 # filename for yesterday's date
-def filename_yesterday():
+def filename_last():
     # Use current date to get a text file name for yesterday's date
     return str(date.today() - timedelta(days=1)) + ".twitch-stream-agenda.txt"
 
-# Path for writing.
-path = "/Users/qdd/Sync/git/streaming-agendas/"
-
-yesterdaysfile = path + filename_yesterday()
+pylastfilefile = path + filename_last()
 todaysfile = path + filename_today()
 
 ### Obtain previous vlog number, increment and add to new agenda file ###
-
 # read first line from yesterday's file
-filetext = open(yesterdaysfile)
+filetext = open(lastfilefile)
 yesterdaystext = filetext.readline()
 filetext.close()
 
@@ -56,17 +60,9 @@ newlinepart1 = "day "
 newlinepart2 = " - TITLE \n"
 newline = newlinepart1 + str(newvlogday) + newlinepart2
 
-### Create new agenda file ###
-# copy operation from shutil module
-copyfile ( yesterdaysfile, todaysfile )
-
 # update today's agenda with new title line
 with open(todaysfile,'r+') as f: # open read-write
     f.readline() # read first line and ignore
     data=newline+f.read() #read newline and body of current file
     f.seek(0) # set cursor back to top
     f.write(data) # write data back to file
-
-
-# open file in vs code
-os.startfile(todaysfile)
