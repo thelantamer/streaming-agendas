@@ -4,11 +4,12 @@ day 403 - QoS shaping Be (Excess Burst)
 - yesterday's stream upload
 - powershell
 - QoS study
+- flash cards
 - networklessons topics
 
 :: LABS ::
 [ none, study phase ]
 
 :: MEAT CHUNKS (links OTD)::
-Packet Pushers, spanning tree:
-https://www.youtube.com/watch?v=_YxyQumO2wg
+Dmitry's becoming a better engineer:
+https://dmfigol.me/blog/becoming-a-better-engineer-study-tips

@@ -1,0 +1,13 @@
+day 404 - policing review, plus pythons!
+
+:: VLOG ::
+- fun with python today
+- fun with azure files
+- QoS study
+- flash cards paying off
+
+:: LABS ::
+[ none, study phase ]
+
+:: MEAT CHUNKS (links OTD)::
+- Azure 
