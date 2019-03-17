@@ -25,25 +25,25 @@ filestem = ".twitch-stream-agenda.txt"
 # filename for today's date
 def newfile():
     # Use current date to get a text file name.
-    return str(path + date.today()) + filestem)
+    return str(path + str(date.today()) + filestem)
 
 def lastfile():
-    return str(path + date.today() - timedelta(days=count)) + filestem)
+    return str(path + str(date.today() - timedelta(days=count)) + filestem)
 
 count = 1
-
-if os.path.isfile(lastfile())
-    copyfile (lastfile,newfile)
+while os.path.isfile(lastfile()) == False:
     count+=1
 
-### Obtain previous vlog number, increment and add to new agenda file ###
+copyfile (lastfile(),newfile())
+
+### Obtain previous vlog number in file, increment and add to new agenda file ###
 # read first line from yesterday's file
-filetext = open(lastfile)
-yesterdaystext = filetext.readline()
+filetext = open(lastfile())
+agendaheaderline = filetext.readline()
 filetext.close()
 
 # create vlog number variable from regex search for numbers in first line
-vlogday = (re.findall('\d+', yesterdaystext))
+vlogday = (re.findall('\d+', agendaheaderline))
 # resulting string is a list, join into a single string variable
 vlogday = "".join(vlogday)
 # convert string variable to integer
@@ -56,8 +56,10 @@ newlinepart2 = " - TITLE \n"
 newline = newlinepart1 + str(newvlogday) + newlinepart2
 
 # update today's agenda with new title line
-with open(newfile,'r+') as f: # open read-write
+with open(newfile(),'r+') as f: # open read-write
     f.readline() # read first line and ignore
     data=newline+f.read() #read newline and body of current file
     f.seek(0) # set cursor back to top
     f.write(data) # write data back to file
+
+# EOF
