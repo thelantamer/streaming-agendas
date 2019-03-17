@@ -2,9 +2,10 @@ day 404 - policing review, python things
 
 :: VLOG ::
 - fun with python
-- fun with azure files
 - QoS study
-- flash cards paying
+- flash cards paying off
+    pppoe
+    hexadecimal
 
 :: LABS ::
 [ none, study phase ]
