@@ -1,0 +1,14 @@
+day 405 - differences between shaping and policing
+
+:: VLOG ::
+- QoS study
+    networklessons
+
+- time commitments
+
+:: LABS ::
+[ none, study phase ]
+
+:: MEAT CHUNKS (links OTD)::
+IPv6 in enterprise:
+https://community.infoblox.com/t5/IPv6-CoE-Blog/IPv6-It-s-Not-You-It-s-Me/ba-p/16339

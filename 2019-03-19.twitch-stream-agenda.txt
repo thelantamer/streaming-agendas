@@ -1,0 +1,13 @@
+day 406 - Cisco live session 'favorites'
+
+:: VLOG ::
+- QoS study
+    networklessons
+    QoS continuing, shaping soon
+
+:: LABS ::
+[ none, study phase ]
+
+:: MEAT CHUNKS (links OTD)::
+More awesome writing from Jed Casey, this time on NAT44:
+https://neckercube.com/index.php/2019/03/18/ya-nat-yet-another-network-address-translation-post/

@@ -1,4 +1,4 @@
-day 404 - policing review, python things
+day 404 - QoS policing review, python things
 
 :: VLOG ::
 - fun with python

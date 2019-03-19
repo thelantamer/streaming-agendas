@@ -1,7 +1,8 @@
 # /usr/bin/python python
 """
-Script to create today's streaming agenda file from yesterday's
-works for Mac OS X or Linux
+Script to create today's streaming agenda file from latest agenda
+    tested on Mac OS X High Sierra and Ubuntu
+    Python 2.7
 agenda-update.py
 """
 
