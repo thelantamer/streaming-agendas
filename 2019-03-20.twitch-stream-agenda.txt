@@ -1,0 +1,21 @@
+day 407 - blogging vs vlogging. Finally labbing QoS!
+
+:: VLOG ::
+- Cisco Champions blogging club
+
+- QoS study
+    networklessons
+    shaping
+
+:: LABS ::
+    networklessons shaping
+
+:: MEAT CHUNKS (links OTD)::
+Free ssl certs:
+https://letsencrypt.org/
+
+Carpe Diem's Multicast basic blog:
+https://carpe-dmvpn.com/2019/03/18/hub-basic-multicast/
+
+Adam from the future is on day 44:
+https://www.youtube.com/channel/UCvxtmyssCxwkosMF0y5pG7Q
