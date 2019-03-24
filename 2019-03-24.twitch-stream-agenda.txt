@@ -4,6 +4,7 @@ day 408 - QoS shaping burst lab, ad-free browsing
 - Unavoidable life distractions
     work
     keto prep
+    recovery from Crossfit Open
     taxes
 
 - ad-free browsing
@@ -16,3 +17,5 @@ day 408 - QoS shaping burst lab, ad-free browsing
     networklessons shaping
 
 :: MEAT CHUNKS (links OTD)::
+Formulas for QoS:
+https://routing-bits.com/2010/02/09/working-out-bc-values-quickly/#more-1863
