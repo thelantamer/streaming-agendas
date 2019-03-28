@@ -1,0 +1,12 @@
+day 410 - shape average vs peak
+
+:: VLOG ::
+- QoS study
+    missed flash cards 2 days
+    
+:: LABS ::
+    networklessons shaping (cont'd)
+
+:: MEAT CHUNKS (links OTD)::
+Formulas for QoS:
+https://routing-bits.com/2010/02/09/working-out-bc-values-quickly/#more-1863-out-bc-values-quickly/#more-1863s-quickly/#more-1863

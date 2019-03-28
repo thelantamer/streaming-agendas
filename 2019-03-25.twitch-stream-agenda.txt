@@ -1,0 +1,12 @@
+day 409 - more QoS shaping formulas!
+
+:: VLOG ::
+- QoS study
+    community help with shaping
+
+:: LABS ::
+    networklessons shaping (cont'd)
+
+:: MEAT CHUNKS (links OTD)::
+Formulas for QoS:
+https://routing-bits.com/2010/02/09/working-out-bc-values-quickly/#more-1863-out-bc-values-quickly/#more-1863

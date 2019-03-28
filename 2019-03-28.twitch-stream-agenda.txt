@@ -1,0 +1,11 @@
+day 412 - Azure vs AWS vs GCP vs cloudx
+
+:: VLOG ::
+- Why Azure?
+    
+:: LABS ::
+    ine workbook time
+    
+:: MEAT CHUNKS (links OTD)::
+New Packet Pushers show, network neighborhood:
+https://packetpushers.net/podcast/network-neighborhood-meet-denise-fish-fishburne/
