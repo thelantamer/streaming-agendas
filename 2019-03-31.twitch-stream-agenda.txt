@@ -1,0 +1,12 @@
+day 413 - QoS queueing labs
+
+:: VLOG ::
+- taxes done! on to labbing!
+- Looking ahead to month of April
+
+:: LABS ::
+- CBWFQ and bandwidth reservations
+
+:: MEAT CHUNKS (links OTD)::
+New Packet Pushers show, network neighborhood:
+https://packetpushers.net/podcast/network-neighborhood-meet-denise-fish-fishburne/-denise-fish-fishburne/
