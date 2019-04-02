@@ -1,17 +1,9 @@
-day 415 - TITLE 
+day 415 - QoS lab: bandwidth percent
 
 :: VLOG ::
-- Behind on flash cards, catching up
-- Great IPv6 articles
-- CLUS in San Diego
+- 1000 followers!
 
 :: LABS ::
-- CBWFQ and bandwidth reservations
+- CBWFQ and bandwidth reservations - by percent
 
 :: MEAT CHUNKS (links OTD)::
-Importance of python in DevOps:
-https://densemode.com/2019/03/28/the-devops-chronicles-part-1-why-im-studying-python-for-5-hours-a-week/
-
-IPv6 addressing plan video on PacketPushers:
-https://www.youtube.com/watch?v=fuGe7P-LsuQ
-m/watch?v=fuGe7P-LsuQ
