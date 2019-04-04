@@ -1,0 +1,11 @@
+day 416 - QOS lab: LLQ, remaining percent
+
+:: VLOG ::
+- Real talk on Discord
+
+:: LABS ::
+- LLQ and bandwidth remaining percent
+
+:: MEAT CHUNKS (links OTD)::
+Petr Lapukhov's how to study article:
+https://blog.ine.com/2009/03/22/how-to-study
