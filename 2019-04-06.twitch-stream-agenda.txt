@@ -1,0 +1,11 @@
+day 418 - BGP in Azure, a cautionary tale
+
+:: VLOG ::
+BGP Azure caveat
+
+:: LABS ::
+[ none today ]
+
+:: MEAT CHUNKS (links OTD)::
+Katherine McNamara interview:
+https://youtu.be/hCRjDwuuQOA

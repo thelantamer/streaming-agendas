@@ -1,0 +1,19 @@
+day 417 - flash card catchup day
+
+:: VLOG ::
+- anki card catchup
+- great links
+- 1000 subs on YT
+
+:: LABS ::
+[ none today ]
+
+:: MEAT CHUNKS (links OTD)::
+Tony E's CCIE experience:
+https://showipintbri.blogspot.com/2019/04/ccie-rs-im-best-engineer-i-have-ever.html
+
+Nick Russo's IGMP and MLD course on Pluralsight:
+https://app.pluralsight.com/library/courses/protocol-deep-dive-igmp-mld/table-of-contents
+
+Kubernetes glossary:
+https://blog.lelonek.me/kubernetes-basic-glossary-9ca0416e3948
