@@ -1,0 +1,16 @@
+day 420 - They did it, 3 boosters! Oh and lab stuff
+
+:: VLOG ::
+- Falcon Heavy successful launch!
+- Tony E's stream two nights ago
+    DIAG
+- QoS shaping verification on subinterfaces
+
+:: LABS ::
+
+:: MEAT CHUNKS (links OTD)::
+Safe BGP:
+https://www.netcraftsmen.com/practice-safe-bgp/
+
+Lessons learned in Azure and AWS:
+https://lostintransit.se/2019/04/01/lessons-learned-in-cloud-networking-aws-vs-azure

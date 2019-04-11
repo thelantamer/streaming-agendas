@@ -1,0 +1,17 @@
+day 419 - QoS shaping tests
+
+:: VLOG ::
+- Falcon Heavy launch!
+- Tony E's stream last night
+    DIAG
+- QoS shaping verification on subinterfaces
+
+:: LABS ::
+QoS shaping tests
+
+:: MEAT CHUNKS (links OTD)::
+Safe BGP:
+https://www.netcraftsmen.com/practice-safe-bgp/
+
+Lessons learned in Azure and AWS:
+https://lostintransit.se/2019/04/01/lessons-learned-in-cloud-networking-aws-vs-azure
