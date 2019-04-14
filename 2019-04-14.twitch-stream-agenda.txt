@@ -1,0 +1,14 @@
+day 421 - lots and lots of QoS labs
+
+:: VLOG ::
+- Falcon Heavy successful launch!
+- Star Wars trailer
+- Tiger Woods wins major
+- Game of Thrones
+- QoS shaping verification on subinterfaces
+    made own labs
+    reworked ine labs
+
+:: LABS ::
+
+:: MEAT CHUNKS (links OTD)::
