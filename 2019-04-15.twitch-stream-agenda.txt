@@ -1,0 +1,10 @@
+day 422 - QOS lab: low-latency queueing
+
+:: VLOG ::
+- Azure site recovery manager workshop
+- fusion drive issue
+
+:: LABS ::
+qos llq and remaining bandwidth reservations
+
+:: MEAT CHUNKS (links OTD)::HUNKS (links OTD)::
