@@ -1,0 +1,11 @@
+day 423 - QoS: RED, WRED and FRED
+
+:: VLOG ::
+- Azure site recovery workshop
+- 
+
+:: LABS ::
+RED tools
+flash cards
+
+:: MEAT CHUNKS (links OTD)::
