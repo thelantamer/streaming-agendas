@@ -1,0 +1,11 @@
+day 424 - LAB to filter BGP prefixes by origin code
+
+:: VLOG ::
+- Azure site recovery workshop
+- BGP use case for origin code
+
+:: LABS ::
+RED tools
+flash cards
+
+:: MEAT CHUNKS (links OTD) ::

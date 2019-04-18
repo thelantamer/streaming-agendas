@@ -1,0 +1,16 @@
+day 425 - QoS test lab
+
+:: VLOG ::
+- eve-ng pro upgrade 2.0.5-12
+- BGP use case for origin code
+- rate-limiting a particular flow
+
+
+:: LABS ::
+RED tools
+flash cards
+downloading from twitch
+
+:: MEAT CHUNKS (links OTD) ::
+Why we still need spanning tree:
+https://youtu.be/ysNH92Nhaj4
