@@ -1,0 +1,22 @@
+day 426 - BGP route-map filtering problem
+
+:: VLOG ::
+- streaming this weekend
+- PC issues resolved thanks to Sync
+- eve-ng pro upgrade 2.0.5-12
+- obs update
+- Azure Expressroute
+
+:: LABS ::
+- BGP filtering problem
+
+:: SOLUTION ::
+ip as-path access-list 10 permit 12076$
+ip prefix-list AZURE_PRIVATE_PEERING seq 5 deny 10.0.0.0/8 ge 8
+ip prefix-list AZURE_PRIVATE_PEERING seq 10 permit 0.0.0.0/0 le 32
+route-map AZURE_FILTER_PRIVATE_PEERING deny 10
+match as-path 10
+match ip address prefix-list AZURE_PRIVATE_PEERING
+route-map AZURE_FILTER_PRIVATE_PEERING permit 20
+
+:: MEAT CHUNKS (links OTD) ::

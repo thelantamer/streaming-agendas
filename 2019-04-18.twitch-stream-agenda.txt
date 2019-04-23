@@ -1,15 +1,29 @@
-day 425 - QoS test lab
+day 425 - QoS to rate-limit a flow, without congestion?
 
 :: VLOG ::
 - eve-ng pro upgrade 2.0.5-12
-- BGP use case for origin code
-- rate-limiting a particular flow
-
+- BGP use case for match origin code
+- RED tools
+- flash cards
+- downloading from twitch
 
 :: LABS ::
-RED tools
-flash cards
-downloading from twitch
+- rate-limit (throttle) a particular flow
+
+*** Gi0/0                               ****
+ ] policer              [ shaper                                                          police
+
+    Gigabit link
+        throughput approaches gb/s (does not exceed)
+            delay increases significantly
+
+    Delays in network:
+        serialization
+        propagation
+        queueing
+        forwarding
+
+QoS shaping scenario
 
 :: MEAT CHUNKS (links OTD) ::
 Why we still need spanning tree:
