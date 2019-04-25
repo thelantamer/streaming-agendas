@@ -1,0 +1,7 @@
+day 428 - QoS marking, lessons learned
+
+:: VLOG ::
+QoS classification and marking on ingress
+New analogy
+
+:: LABS ::

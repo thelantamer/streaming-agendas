@@ -1,0 +1,7 @@
+day 427 - Cisco Live sessions scheduling
+
+:: VLOG ::
+- Cisco Live schedule
+- QoS policing and shaping
+
+:: LABS ::
