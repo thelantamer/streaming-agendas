@@ -1,0 +1,13 @@
+day 429 - QoS: WRED labs
+
+:: VLOG ::
+- Marie Kondo Tidy Up project
+- eve-ng pro in cloud with re-licensing
+- QoS labs awhile longer
+
+:: LABS ::
+- WRED and where to use
+
+:: MEAT CHUNKS (links OTD) ::
+Cisco Live & Social Media:
+https://www.fryguy.net/2019/04/05/cisco-live-2019-social-media/
