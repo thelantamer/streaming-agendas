@@ -1,0 +1,24 @@
+day 430 - More WRED clarification
+
+:: VLOG ::
+- artificial shaping case
+- marking ingress on port-channel
+- where to use WRED
+- mixing
+    LLQ
+    priority bits
+    priority percent
+    CBWFQ
+    bandwidth bits
+    bandwidth percent
+    bandwidth percent remaining *(restrictions)
+
+:: LABS ::
+- WRED and where to use
+
+:: MEAT CHUNKS (links OTD) ::
+Cisco Live Enterprise QoS:
+https://www.ciscolive.com/global/on-demand-library.html?search=qos#/video/15524933762490013Sln
+
+WRED explainer:
+http://what-when-how.com/ccnp-ont-exam-certification-guide/congestion-avoidance/

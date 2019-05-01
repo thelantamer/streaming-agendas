@@ -1,0 +1,15 @@
+day 431 - WFQ drop policy figured out ..I think..
+
+:: VLOG ::
+- WFQ drop policy (thank you QoS exam guide, this is on me)
+    congestive discard threshold (CDT)
+    hold-queue limit
+    
+    in combination with WRED
+
+    WFQ (scheduler - head of queue(s)
+        CDT or hold-queue-limit, WRED
+
+:: MEAT CHUNKS (links OTD) ::
+Good WFQ article:
+https://www.globalknowledge.com/us-en/resources/resource-library/articles/quality-of-service-part-10-weighted-fair-queuing/
