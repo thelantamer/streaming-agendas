@@ -1,10 +1,11 @@
 day 432 - Class-based generic shaping
 
 :: VLOG ::
+- Flash card catch-up
 - WRED and ECN lab earlier today
 
 :: LABS ::
-Class-based generic shaping
+- Class-based generic shaping
 
 :: MEAT CHUNKS (links OTD) ::
 Peter Paluch is new CCIE RS Program Manager:
