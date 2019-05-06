@@ -1,0 +1,10 @@
+day 435 - Adios QoS (for now), hello Infr Security
+
+:: VLOG ::
+- QoS section done
+- QoS blueprint/flash card review
+
+:: LABS ::
+- AAA
+
+:: MEAT CHUNKS (links OTD) ::

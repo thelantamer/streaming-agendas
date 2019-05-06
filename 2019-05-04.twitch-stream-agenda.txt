@@ -1,0 +1,11 @@
+day 434 - QoS pre-classification
+
+:: VLOG ::
+- Flash card catching up still
+- networklessons lab done
+- 2 labs left!
+
+:: LABS ::
+- QoS pre-classification
+
+:: MEAT CHUNKS (links OTD) ::
