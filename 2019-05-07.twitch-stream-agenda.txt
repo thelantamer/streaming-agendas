@@ -1,0 +1,9 @@
+day 436 - Who is the Cisco engineer I'd most like to meet and why?
+
+:: VLOG ::
+- Who is the Cisco engineer I'd most like to meet and why?
+
+:: LABS ::
+- AAA exec authorization
+
+:: MEAT CHUNKS (links OTD) ::

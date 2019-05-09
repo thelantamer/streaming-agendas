@@ -1,8 +1,10 @@
-day 435 - Adios QoS (for now), hello Infr Security
+day 435 - Adios QoS (for now), hello Infra Security
 
 :: VLOG ::
+- Cisco Live private channel up on Discord
 - QoS section done
 - QoS blueprint/flash card review
+- Security section strategies
 
 :: LABS ::
 - AAA

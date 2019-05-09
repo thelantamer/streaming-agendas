@@ -1,0 +1,11 @@
+day 438 - traffic filtering with ACLs
+
+:: VLOG ::
+- INE video on user security
+- command security and IOS differences
+- taking 3 days off
+
+:: LABS ::
+- traffic filtering with standard access lists
+
+:: MEAT CHUNKS (links OTD) ::

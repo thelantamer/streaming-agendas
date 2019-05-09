@@ -1,0 +1,9 @@
+day 437 - AAA and local commands
+
+:: VLOG ::
+- learning AAA and 'moving on'
+
+:: LABS ::
+- AAA local command authorization
+
+:: MEAT CHUNKS (links OTD) ::
