@@ -1,11 +1,14 @@
 day 438 - traffic filtering with ACLs
 
 :: VLOG ::
+- taking 3 days off
+- Extreme ownership book club
 - INE video on user security
 - command security and IOS differences
-- taking 3 days off
 
 :: LABS ::
 - traffic filtering with standard access lists
 
 :: MEAT CHUNKS (links OTD) ::
+Extreme Ownership on Amazon:
+https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS
