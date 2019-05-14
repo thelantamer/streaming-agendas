@@ -1,0 +1,12 @@
+day 439 - Back to the security grind, more ACLs
+
+:: VLOG ::
+- took 3 days off
+- anki card catch-up
+
+:: LABS ::
+- traffic filtering with standard access lists
+
+:: MEAT CHUNKS (links OTD) ::
+Showipintbri's OSPF B bit
+https://showipintbri.blogspot.com/2019/05/ill-show-you-mine-if-you-show-me-yours.html
