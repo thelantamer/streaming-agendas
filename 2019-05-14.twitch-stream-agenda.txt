@@ -1,11 +1,13 @@
 day 439 - Back to the security grind, more ACLs
 
 :: VLOG ::
-- took 3 days off
+- 3 days off
 - anki card catch-up
 
 :: LABS ::
-- traffic filtering with standard access lists
+- extended ACLs
+- fragmented packets
+- time-based ACLs
 
 :: MEAT CHUNKS (links OTD) ::
 Showipintbri's OSPF B bit
