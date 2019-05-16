@@ -3,6 +3,7 @@ day 440 - flash card catch-up day
 :: VLOG ::
 - new cards (traceroute, ftp)
 - anki card catch-up
+- cisco live planning
 
 :: LABS ::
 more security labs this weekend
