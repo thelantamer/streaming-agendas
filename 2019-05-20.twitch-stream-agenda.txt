@@ -1,0 +1,16 @@
+day 442 - labbing port security
+
+:: VLOG ::
+ethertype reference found
+halfway through security
+
+:: LABS ::
+port-security
+
+:: MEAT CHUNKS (links OTD) ::
+Common Ethertypes in Cisco docs:
+https://www.cisco.com/c/en/us/td/docs/wireless/access_point/15_2_4_JA/configuration/guide/scg15-2-4_book/scg15-2-4-JA-appA-protfilters.html
+
+
+Regex practice:
+https://regexone.com/https://regexone.com/

@@ -1,0 +1,12 @@
+day 441 - game of pwns: security labs
+
+:: VLOG ::
+- anki cards up-to-date! Plus new ones
+- trouble with frags (ip fragments)
+
+:: LABS ::
+vacls
+
+:: MEAT CHUNKS (links OTD) ::
+Regex practice:
+https://regexone.com/

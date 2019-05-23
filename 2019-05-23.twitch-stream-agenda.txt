@@ -1,0 +1,10 @@
+day 443 - dhcp snooping, cisco live deets
+
+:: VLOG ::
+cisco live scheduling
+security progress
+
+:: LABS ::
+dhcp snooping
+
+:: MEAT CHUNKS (links OTD) ::
