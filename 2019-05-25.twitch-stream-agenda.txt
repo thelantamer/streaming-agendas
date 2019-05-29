@@ -1,0 +1,10 @@
+day 444 - dhcp snooping lab
+
+:: VLOG ::
+lantamers discord meetup @ cisco live
+thoughts on memorization levels
+
+:: LABS ::
+dhcp snooping
+
+:: MEAT CHUNKS (links OTD) ::

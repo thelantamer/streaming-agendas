@@ -1,0 +1,9 @@
+day 445 - Back into the groove
+
+:: VLOG ::
+lantamers discord meetup @ cisco live
+
+:: LABS ::
+dhcp snooping
+
+:: MEAT CHUNKS (links OTD) ::
