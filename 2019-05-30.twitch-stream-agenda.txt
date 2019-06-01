@@ -1,0 +1,9 @@
+day 446 - architect or engineer? security labs
+
+:: VLOG ::
+anki catchup
+
+:: LABS ::
+dhcp snooping
+
+:: MEAT CHUNKS (links OTD) ::

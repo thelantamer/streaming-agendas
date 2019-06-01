@@ -1,0 +1,13 @@
+day 447 - Cranking out security labs incl role-based CLI
+
+:: VLOG ::
+Cisco Live week from tomorrow
+security had me TRIGGERED
+security WILL be done this weekend
+
+:: LABS ::
+role-based CLI
+
+:: MEAT CHUNKS (links OTD) ::
+Role-based CLI configuration guide:
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_usr_cfg/configuration/15-mt/sec-usr-cfg-15-mt-book/sec-role-base-cli.html
