@@ -1,0 +1,9 @@
+day 448 - security labs on ine rack
+
+:: VLOG ::
+ine rack rental setup with real switches
+
+:: LABS ::
+catalyst ingress access-lists
+
+:: MEAT CHUNKS (links OTD) ::

@@ -1,0 +1,12 @@
+day 449 - security section done! Hello system mgmt
+
+:: VLOG ::
+ine rack rental experience
+workbook status update
+
+:: LABS ::
+tcp keep-alives
+telnet options
+
+:: MEAT CHUNKS (links OTD) ::
+https://azure.microsoft.com/en-us/overview/azure-vmware/
