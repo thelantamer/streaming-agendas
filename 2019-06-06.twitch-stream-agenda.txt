@@ -1,0 +1,20 @@
+day 451 - self-paced lab strategy for Cisco Live
+
+:: VLOG ::
+- cisco live prep
+- lab strategies
+
+DIAG - 15 minutes (45)
+Troubleshooting Practice Lab - (1:00) 1:30
+Troubleshooting Assessment Lab - 1:30
+CONFIG
+    IPv4 - 1:00
+    L2 - 1:00
+    MPLS - 1:00
+    Infra & Security - 1:00
+
+:: LABS ::
+(none tonight)
+
+:: MEAT CHUNKS (links OTD) ::
+(none tonight)
