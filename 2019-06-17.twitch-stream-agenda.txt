@@ -1,0 +1,15 @@
+day 452 - Lab is scheduled! 119 days to go
+
+:: VLOG ::
+- cisco live as a 2nd-timer, upcoming
+- lab date and strategy
+- streaming strategy
+- eve-ng updates
+- flash cards
+
+:: MEAT CHUNKS (links OTD) ::
+cisco capture config generator:
+https://cway.cisco.com/tools/CaptureGenAndAnalyse/
+
+ARIN article: ipv6 at Microsoft
+https://teamarin.net/2019/04/03/microsoft-works-toward-ipv6-only-single-stack-network/
