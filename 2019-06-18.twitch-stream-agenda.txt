@@ -1,0 +1,14 @@
+day 453 - configuration flash card expansion
+Lab countdown: 118 days
+
+:: VLOG ::
+- cisco live as a 2nd-timer, upcoming
+- planning out next 3 months or so
+    vacation
+    reviews from clus
+    re-take the CCIE Expert assessment (Cisco360)
+    ine workbook
+    expert labs?
+
+
+:: MEAT CHUNKS (links OTD) ::
