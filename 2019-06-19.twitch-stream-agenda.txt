@@ -1,0 +1,18 @@
+day 454 - lab strategy changes, clus video is up!
+Lab countdown: 116 days
+
+:: VLOG ::
+- completed notes review from labbing at clus
+- yielded many flash cards
+- likely reset TA-08
+- strategy updates for lab
+- planning session still due, prob weekend
+- vid still coming, cisco live as a 2nd-timer
+- BGP issue from Cisco Live
+
+:: MEAT CHUNKS (links OTD) ::
+Countdown clock to 2/24:
+https://countingdownto.com/?c=2520042
+
+San Diego CLUS video available:
+https://www.ciscolive.com/global/on-demand-library.html?search.event=ciscoliveus2019#/
