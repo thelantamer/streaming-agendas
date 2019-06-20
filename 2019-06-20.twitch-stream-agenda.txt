@@ -1,0 +1,9 @@
+day 455 - back to the INE workbook, sys mgmt
+Lab countdown: 115 days
+
+:: VLOG ::
+- haven't figured out how to reset tsa
+    already extended it
+- strategy updates for lab weekend
+
+:: MEAT CHUNKS (links OTD) ::
