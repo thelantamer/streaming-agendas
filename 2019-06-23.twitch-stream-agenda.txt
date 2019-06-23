@@ -1,0 +1,20 @@
+day 455 - ine foundation labs, new strategies
+Lab countdown: 112 days (approx 14 free weekends)
+
+:: VLOG ::
+- ine foundation labs
+    1 done
+    2 in progress
+- strategy for now
+    weekends for big labs
+        ine practice labs
+        ccie expert advanced mini-bundle?
+    weekdays for ine workbook review
+    flash cards every day
+
+:: MEAT CHUNKS (links OTD) ::
+ErrDisabled's blog about CLUS:
+https://errdisabled.com/2019/06/21/clus-2019-recap-from-a-noob/
+
+Chris Miles strategy:
+https://thecontrolplane.com/2019/06/21/ccie-strategy-config-section/
