@@ -1,0 +1,20 @@
+day 456 - ine foundation lab 2 review
+Lab countdown: 111 days (approx 14 free weekends)
+
+:: VLOG ::
+- nighttime falcon heavy launch tonight!
+
+- ine foundation labs
+    continued 2 hours this morning
+    making new config flash cards
+
+    redistribution problems with distance
+    multiple spanning tree
+    interesting rip and ppp configs
+
+- continuing system management section
+    finishing terminal line
+        telnet: TELetype NETwork
+        vty: Virtual teleTYpe
+
+:: MEAT CHUNKS (links OTD) ::
