@@ -1,0 +1,10 @@
+day 457 - snmp studies
+Lab countdown: 110 days (approx 14 free weekends)
+
+:: VLOG ::
+- nighttime falcon heavy launch was awesome!
+
+- continuing system management section
+    snmpv3
+
+:: MEAT CHUNKS (links OTD) ::
