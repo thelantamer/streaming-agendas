@@ -1,0 +1,10 @@
+ day 459 - System mgmt done now IP services
+Lab countdown: 109 days (approx 14 free weekends)
+
+:: VLOG ::
+- grinding ip services labs
+- majority is NAT
+
+:: MEAT CHUNKS (links OTD) ::
+Jed Casey's nat explainer:
+https://neckercube.com/index.php/2019/03/18/ya-nat-yet-another-network-address-translation-post/#Introduction

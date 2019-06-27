@@ -1,0 +1,10 @@
+day 458 - ntp labs, ios versions for real lab
+Lab countdown: 110 days (approx 14 free weekends)
+
+:: VLOG ::
+- system management command differences with ios
+- system mgmt almost done
+
+:: MEAT CHUNKS (links OTD) ::
+Image versions for the lab:
+https://learningnetwork.cisco.com/docs/DOC-22701
