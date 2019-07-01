@@ -1,4 +1,4 @@
- day 460 - shortcuts for going fast! foundation lab 2
+day 460 - speedrunning cisco labs - ine foundation lab 2
 Lab countdown: 105 days (approx 13 free weekends)
 
 :: VLOG ::
@@ -6,4 +6,5 @@ Lab countdown: 105 days (approx 13 free weekends)
 - ine foundation lab 2
 
 :: MEAT CHUNKS (links OTD) ::
-github.com/thelantamer
+Putty/terminal keyboard shortcuts
+https://raw.githubusercontent.com/thelantamer/notes/master/lab-shortcuts.txt
