@@ -1,0 +1,9 @@
+day 461 - I need a NAT translator
+Lab countdown: 104 days (approx 13 free weekends)
+
+:: VLOG ::
+NAT labs
+
+:: MEAT CHUNKS (links OTD) ::
+OSPF goodies on Nic Russo's youtube page:
+https://youtu.be/2sLqfs2JZbA
