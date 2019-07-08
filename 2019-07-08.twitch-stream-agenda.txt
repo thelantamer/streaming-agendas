@@ -1,0 +1,15 @@
+day 462 - foundation lab 2 done, new strategies
+Lab countdown: 98 days (approx 12 free weekends)
+
+:: VLOG ::
+- planning out remaining weekends
+
+- speed AND accuracy
+    int l00
+    int l0
+
+- NAT labs during week
+
+:: MEAT CHUNKS (links OTD) ::
+Tony E's interview of David Peñaloza:
+https://youtu.be/9vl1G6mAW6I
