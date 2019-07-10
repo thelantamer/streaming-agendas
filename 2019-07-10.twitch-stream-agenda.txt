@@ -1,0 +1,15 @@
+day 463 - ip nat command, the ginsu knife set of networking
+Lab countdown: 96 days (approx 12 free weekends)
+
+:: VLOG ::
+- working on purchase of CCIE advanced bundle
+
+- flash cards continue every day
+
+- 3-day lab weekend
+
+- that amazing ip nat command
+
+:: MEAT CHUNKS (links OTD) ::
+Tony E's interview of David Peñaloza:
+https://youtu.be/9vl1G6mAW6I
