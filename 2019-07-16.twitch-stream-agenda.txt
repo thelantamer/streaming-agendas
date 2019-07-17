@@ -1,0 +1,9 @@
+day 465 - Troubleshooting OSPF
+Lab countdown: 90 days (approx 11 free weekends)
+
+:: VLOG ::
+- CA-11 done, started TA-12
+
+- OSPF troubleshooting
+
+:: MEAT CHUNKS (links OTD) ::
