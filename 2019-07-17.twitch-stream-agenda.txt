@@ -1,0 +1,17 @@
+day 466 - keeping the pace, plus graphing ospf
+Lab countdown: 89 days (approx 11 free weekends)
+
+:: VLOG ::
+- Flash cards continue, sharpening the saw
+- Finding a rhythym in labbing speed mode
+    - managing lab tokens
+    - configs vs. troubleshooting
+    - 'lab recovery' phases
+
+    - TA-12 in progress, slow going
+    - Back to INE Foundations Lab 3
+
+- OSPF troubleshooting
+
+:: MEAT CHUNKS (links OTD) ::
+https://www.josh-v.com/blog/2019/07/13/ansible-ios-bgp-module.html
