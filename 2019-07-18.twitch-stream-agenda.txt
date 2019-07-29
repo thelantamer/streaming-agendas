@@ -1,0 +1,11 @@
+day 467 - The new VIRL 1.6.65 is out and why I can't use it
+Lab countdown: 88 days (approx 11 free weekends)
+
+:: VLOG ::
+- New VIRL
+- Unable to duplicate OSPF issue
+- VPN drawings
+
+:: MEAT CHUNKS (links OTD) ::
+VIRL link:
+https://learningnetwork.cisco.com/docs/DOC-36658
