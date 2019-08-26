@@ -1,0 +1,9 @@
+day 477 - INE Troubleshooting labs are TOUGH
+Lab countdown: 53 days (approx 6 free weekends)
+
+:: VLOG ::
+- Cisco Expert Labs CA19
+- INE Troubleshooting lab 1
+- OSPF neighbors using unnumbered tunnel interfaces
+
+:: MEAT CHUNKS (links OTD) ::
