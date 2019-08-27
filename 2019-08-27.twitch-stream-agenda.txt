@@ -1,0 +1,9 @@
+day 479 - BGP AS-number manipulations
+Lab countdown: 48 days (approx 5 free weekends)
+
+:: VLOG ::
+- bgp AS number madness
+- grinding CA-20
+- status review
+
+:: MEAT CHUNKS (links OTD) ::

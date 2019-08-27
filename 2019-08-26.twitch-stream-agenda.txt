@@ -1,8 +1,8 @@
-day 478 - Grinding labs with BGP table maps
+day 478 - Grinding labs, BGP table maps
 Lab countdown: 49 days (approx 5 free weekends)
 
 :: VLOG ::
-- CA19 and TA20 done
+- CA19 and TA19 done
 - CA20 halfway
 - bgp table-map
 
