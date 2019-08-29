@@ -1,0 +1,10 @@
+day 480 - Azure routing fun, CA-20 done
+Lab countdown: 46 days (approx 5 free weekends)
+
+:: VLOG ::
+- Azure UDR routing
+- still maturing (obtaining route tables, etc)
+- CA-20 done, got multicast right!
+- TA-20 (last TA in workbook)
+
+:: MEAT CHUNKS (links OTD) ::
